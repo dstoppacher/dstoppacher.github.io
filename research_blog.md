@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Research Blog"
 date: 2020-10-17
@@ -11,3 +12,5 @@ permalink: /research_blog/
 ## Ongoing Projects
 
 ## Past Projects
+
+
