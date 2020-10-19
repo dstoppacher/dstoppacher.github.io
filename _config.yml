@@ -1,1 +1,37 @@
+# Site settings
+title: D. Stoppacher
+email: dstoppacher@ucsc.edu
+url: "https://dstoppacher.github.io/research_blog/" # the base hostname & protocol for your site
+github_username:  dstoppacher
+permalink:   /:categories/:title/
+
+markdown: kramdown
 theme: jekyll-theme-modernist
+
+# Build settings
+mathjax: true
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: "pages"
+        values:
+            layout: "default"
+    -
+        scope:
+            path: "" # empty string for all files
+            type: "posts"
+        values:
+            layout: "post"
+    -
+        scope:
+            path: ""
+            type: "draft"
+        values:
+            layout: "post"
+    -
+        scope:
+            path: ""
+            type: category
+        values:
+            layout: "default"
