@@ -1,9 +1,11 @@
 ---
-layout: page
-title: "Welchome to the postdoc's life"
+layout: post
+title: "Welcome to the postdoc's life"
 date: 2020-10-19
-categories: getting-started
+categories: postdoc_life
 ---
 
+#First Post
 
 
+This post is to test the blog!
