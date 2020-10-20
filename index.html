@@ -1,11 +1,40 @@
 ---
 layout: default
-title: about
-permalink: /about/
 ---
 
 
-# Reserach blog of D. Stoppacher
+<div class="home">
 
-My reserach contains ...
 
+  <h1 class="page-heading">Latest Posts</h1>
+ <a href="{{ site.url }}all/">See all posts</a>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:5%}
+
+    <li>
+      <span>{{ post.date | date: "%b %-d, %Y" }}</span> &nbsp; <a href="{{ post.url | prepend: site.baseurl }}"> {{post.title }}</a>
+    </li>
+
+    {% endfor %}
+ </ul>
+
+ <br>
+
+
+<h1 class="page-heading">Projects</h1>
+
+<font size="+1">
+<b>
+<a href="{{ site.url }}about/">About me</a>
+<br>
+<a href="{{ site.url }}past_research/">Past Reserach Projects</a>
+</b>
+</font>
+
+
+
+
+ <!--  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>
