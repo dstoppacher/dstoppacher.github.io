@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About me"
-permalink: /about/
+permalink: myblog/about/
 ---
 
 #Here is information about me!
