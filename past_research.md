@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Past Research Projects"
-permalink: /past_research/
+permalink: myblog/past_research/
 ---
 
 #Info on my past research!
