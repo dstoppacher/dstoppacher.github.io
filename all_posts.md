@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /all_posts/
 title:  "All Posts"
 ---
 
