@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to the postdoc's life"
+title: "Welcome to the postdoc life"
 date: 2020-10-19
 categories: postdoc_life
 ---
