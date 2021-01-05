@@ -3,16 +3,16 @@ layout: default
 title: "Welcome to my reserach blog"
 ---
 <div class="home">
- 	<font size="+1">
+	<font size="+1">
 		<p style="text-align:justify">
   			<b>This space is dedicated to my current and past reserach on galaxy formation and evolution modelling.</br>
 		</p>
 	</font></br>
 
-  <b>See some recent posts:</br>
+<b>See some recent posts:</b></br>
 
   <ul class="post-list">
-    {% for post in site.posts limit:5%}
+    {% for post in site.posts limit:10%}
 
     <li>
       <span>{{ post.date | date: "%b %-d, %Y" }}</span> &nbsp; <a href="{{ post.url | prepend: site.baseurl }}"> {{post.title }}</a>
@@ -21,7 +21,7 @@ title: "Welcome to my reserach blog"
     {% endfor %}
     
   </ul>
- <a href="{{ site.url }}all_posts/">See all posts</a></br>
+ <a href="{{ site.url }}all_posts/">See all posts</a></br><hr>
 
 <h2 class="page-heading">Projects</h2></br>
   
@@ -31,10 +31,10 @@ title: "Welcome to my reserach blog"
 		<li><b><a href="{{ site.url }}perspective/">A semi-analytical perspective on ...</a></li>
     	<li><b><a href="{{ site.url }}multidark_gals/">The MultiDark-Galaxies</a></li>
 	</ul>
-  </font></br>
+  </font><hr>
     
     
-<h3 class="page-heading">Further Information</h3><hr>
+<h3 class="page-heading">Further Information</h3>
 	<ul type="disc">
 		<li><a href="{{ site.url }}my_cv/">My CV</a></li>
 		<li><a href="{{ site.url }}past_research/">Past Reserach Projects</a></li>
