@@ -5,7 +5,6 @@ date: 2020-10-19
 categories: postdoc_life
 ---
 
-# First Post
+# Getting started!
 
-
-This post is to test the blog!
+The journey as a postdoc begins, I am learning a lot, like to set up a web page about my research on github. This is my first post and I am excited! Never had a block, never posted anything about my research online. Will anybody see that? Is anybody interested in my stuff? Will that post stay somewhere in the cloud forever ... HELLO WORLD! HELLO UNIVERSE!
