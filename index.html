@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="home">
 
-  Welcome to my reserach blog. This space is dedicated to my current and past reserach on galaxy formation and evolution modelling.\\
+  <br>Welcome to my reserach blog. This space is dedicated to my current and past reserach on galaxy formation and evolution modelling.<\br>
   
   See some recent posts:
 
@@ -11,24 +11,28 @@ layout: default
     {% for post in site.posts limit:5%}
 
     <li>
-      <span>{{ post.date | date: "%b %-d, %Y" }}</span> &nbsp; <a href="{{ post.url | prepend: site.baseurl }}"> {{post.title }}</a>
+      <span>{{ post.date | date: "%b %-d, %Y" }}</span> &nbsp; &nbsp; <a href="{{ post.url | prepend: site.baseurl }}"> {{post.title }}</a>
     </li>
 
     {% endfor %}
     
   </ul>
- <a href="{{ site.url }}all_posts/">See all posts</a>
+ &nbsp; <a href="{{ site.url }}all_posts/">See all posts</a>
  <br>
 
 
-### Projects
+<h1 class="page-heading">Projects</h1>
+  
+ <b><a href="{{ site.url }}perspective/">Modelling early-stage galaxy formaiton</a></br>
  
  <b><a href="{{ site.url }}perspective/">A semi-analytical perspective ...</a></br>
   
  <b><a href="{{ site.url }}multidark_gals/">The MultiDark-Galaxies</a></br>
 
   
-### Furter Information
+<h1 class="page-heading">Further Information</h1>
+
+<font size="+1">
 <b>
 <a href="{{ site.url }}my_cv/">My CV</a>
 <br>
