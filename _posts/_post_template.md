@@ -7,6 +7,6 @@ categories: name of the entry
 
 ### Headline
 
-<img src="{{ site.baseurl }}/plots/20210101_test.png">
+<img src="{{ site.baseurl }}/plots/yyyy-mm-dd_myname.png">
 
-<img src="{{ site.baseurl }}/plots/20210101_test.pdf">
+<img src="{{ site.baseurl }}/plots/yyyy-mm-dd_myname.pdf">
