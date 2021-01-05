@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: "Welcome to the postdoc's life"
 date: 2020-10-19
 categories: postdoc_life
