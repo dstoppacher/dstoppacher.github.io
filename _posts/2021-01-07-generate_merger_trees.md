@@ -34,3 +34,8 @@ Status: Tasked completed
 <img src="{{ site.baseurl }}/plots/2021-01-07_diverse_merger_trees.png">
 
 
+### Task4: Calculate halo mass function and accrection rates
+
+
+
+
