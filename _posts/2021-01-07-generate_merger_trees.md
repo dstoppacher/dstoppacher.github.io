@@ -27,6 +27,10 @@ Status: Tasked completed
 
 <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
 
+<img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23+51.png">
+
 ### Task3: Conctruct a merger tree of the main progenitors
+
+<img src="{{ site.baseurl }}/plots/2021-01-07_diverse_merger_trees.png">
 
 
