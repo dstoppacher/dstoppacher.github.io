@@ -12,8 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  /*color: #111;*/
-  color: #1;
+  color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -32,7 +31,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 5px; }
+  margin-bottom: 15px; }
 
 /**
  * `main` element
@@ -45,7 +44,7 @@ main {
  * Images
  */
 img {
-  max-width: 80%;
+  max-width: 100%;
   vertical-align: middle; }
 
 /**
@@ -71,7 +70,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 200; }
+  font-weight: 400; }
 
 /**
  * Links
