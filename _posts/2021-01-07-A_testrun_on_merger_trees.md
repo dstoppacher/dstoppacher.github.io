@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "A testrun on merger trees"
 date: 2021-01-07 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
