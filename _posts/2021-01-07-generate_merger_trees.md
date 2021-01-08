@@ -17,7 +17,7 @@ These merger tree will only use the descID to make a connection between halos as
 
 ### Task overview
 
-1) Run <b>Rockstar</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider & Robertson 2015</a>) (box with 50 $$h-1$$Mpc side-length)
+1) Run <b>Rockstar</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) (box with 50 $$h-1$$Mpc side-length)
 
 2)
 
