@@ -23,14 +23,16 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 3) Use the <tt>haloid</tt> (ID of a certain halo in this snapshot) and the <tt>descIDs</tt> (the ID of the same halo in the next snapshot) to link a halo between snapshots.
 
-4) Introduce to more IDs which form together with the <tt>haloid</tt> and <tt>descIDs</tt> a set of IDs which identifies a certain halo uniquly within the entire merger tree and at every snapshot. Those are the <tt>predID</tt> (the ID of the same halo a snapshot before) and the <tt>treeID</tt> (a uniquly defined ID of the tree the halo sits on. The ID is 
+4) Introduce to more IDs which form together with the <tt>haloid</tt> and <tt>descIDs</tt> a set of IDs which identifies a certain halo uniquely within the entire merger tree and at every snapshot. Those are the <tt>predID</tt> (the ID of the same halo a snapshot one step back in time) and the <tt>treeID</tt> (an ascending counter assigned when the very first halo in the merger tree was detected. The lower the number the earlier the first progenitor was detected!) of the tree the halo sits on.
 
-5) Construct a merger tree using the set of four IDs [haloid,descID,
+5) Construct a merger tree using the set of four IDs \[haloid,descID,predID,treeID\].
+
+6) Validate the merger tree with comparing the number of particles found for a certain halo.
 
 
 ### Task1: Find halos!
 
-Run the Rockstar halo finder catalog (Behroozi et. al 2013) on the Colla particle simulation box with side-lenght 50 $$h-1$$Mpc.\\
+Run the Rockstar halo finder catalog (Behroozi et. al 2013) on the Colla particle simulation box with side-lenght 50 $$h-1$$Mpc.
 
 Status: Tasked completed 
 
