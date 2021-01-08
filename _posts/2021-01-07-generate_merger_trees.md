@@ -6,7 +6,13 @@ categories: mergertrees
 ---
 
 ## Objectives of this testrun
-TBA
+
+In this testrun we aim to test if we can produce a valid merger tree of the main progenitor halos using only
+
+1) the <i>Rockstar</i> halo finder (<a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a>) to identify the halos
+2) the descendent identification numbers (IDs) -- descIDs provided by Rockstar to link halos between snaphots.
+
+These merger tree will only use the descID to make a connection between halos as a simple approach. Note that no tree builder alorithm was used therefore the merger tree was not fixed for e.g. missing links between snapshots or filling and correcting missing halos. See <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...763...18B">Behroozi et al. 2013b</a> for details on that topic.
 
 ### Milestones
 
