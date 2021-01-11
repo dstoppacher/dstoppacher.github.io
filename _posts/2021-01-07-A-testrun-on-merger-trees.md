@@ -47,9 +47,8 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 #### Task3: Link the halos between the snapshots
 
 <figure>
-  <p><img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
-    <figcaption>The tables show a list of halo properties over four subsequent snapshots SN 1 to SN 4. In each table a halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>.
-  </figcaption>
+  <img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
+    <figcaption>The tables show a list of halo properties over four subsequent snapshots SN 1 to SN 4. In each table a halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>.</figcaption>
 </figure>
 
 <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
