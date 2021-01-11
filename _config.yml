@@ -6,7 +6,7 @@ github_username:  dstoppacher
 permalink:   /:title/
 
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-modernist
 
 # Build settings
 mathjax: true
