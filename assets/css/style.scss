@@ -27,13 +27,13 @@ body {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(700px - (30px * 2));
-  max-width: calc(700px - (30px * 2));
+  max-width: -webkit-calc(650px - (30px * 2));
+  max-width: calc(650px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 100px;
+  padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 650px) {
     .wrapper {
       max-width: -webkit-calc(600px - (30px));
       max-width: calc(600px - (30px));
