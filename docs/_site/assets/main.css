@@ -109,7 +109,7 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #eef; #color of shadows of blog name letters}
 
 code {
   padding: 1px 5px; }
@@ -186,8 +186,8 @@ table {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #424242; #text color
+  border-bottom: 1px solid #e8e8e8; #color of the background of the post
   min-height: 55.95px;
   position: relative; }
 
