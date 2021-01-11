@@ -22,20 +22,3 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
-
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: -webkit-calc(650px - (30px * 2));
-  max-width: calc(650px - (30px * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
-  @media screen and (max-width: 800px) {
-    .wrapper {
-      max-width: -webkit-calc(800 - (30px));
-      max-width: calc(800 - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
