@@ -23,7 +23,7 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 2) Convert ASCII output files of Rockstar which are named as <small><tt>out[snapshot].list</tt></small>  into a custom HDF5 format.
 
-3) Use the <tt>haloid</tt>(ID of a certain halo in this snapshot) and the <tt>descIDs</tt> (the ID of the same halo in the next snapshot) to link a halo between snapshots.
+3) Use the <tt>haloid</tt> (ID of a certain halo in this snapshot) and the <tt>descIDs</tt> (the ID of the same halo in the next snapshot) to link a halo between snapshots.
 
 4) Introduce to more IDs which form together with the <tt>haloid</tt> and <tt>descIDs</tt> a set of IDs which identifies a certain halo uniquely within the entire merger tree and at every snapshot. Those are the <tt>predID</tt> (the ID of the same halo a snapshot one step back in time) and the <tt>treeID</tt> (an ascending counter assigned when the very first halo in the merger tree was detected. The lower the number the earlier the first progenitor was detected!) of the tree the halo sits on.
 
@@ -46,15 +46,21 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 #### Task3: Link the halos between the snapshots
 
-<figure>
+<figure
+  float: right;
+  width: 95%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 10px;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;>
   <p><img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
     width="136" height="200"
     alt="Tree3">
-  <figcaption>Scale model of the
-    The talbes show a list of halo properties over four subsequent snapshots.  In each table a halo is selected.</figcaption>
+  <figcaption>The tables show a list of halo properties over four subsequent snapshots SN 1 to SN 4. In each table a halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>.</figcaption>
 </figure>
-
-<img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
 
 <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
 
