@@ -24,17 +24,20 @@ body {
 }
 
 /**
- * Icons
+ * Wrapper
  */
-.svg-icon {
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  fill: #828282;
-  padding-right: 5px;
-  vertical-align: text-top; }
-
-.social-media-list li + li {
-  padding-top: 5px; }
+.wrapper {
+  max-width: -webkit-calc(600px - (30px * 2));
+  max-width: calc(600px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 600px) {
+    .wrapper {
+      max-width: -webkit-calc(600px - (30px));
+      max-width: calc(600px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
 
 
