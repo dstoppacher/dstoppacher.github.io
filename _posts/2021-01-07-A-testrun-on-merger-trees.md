@@ -82,7 +82,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr>
+<hr class="thick">
 
 ### Follow-up task & open questions
 
