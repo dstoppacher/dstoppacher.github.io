@@ -26,7 +26,7 @@ body {
 /**
  * Images
  */
-
+/*
 figure > img {
   display: block; }
 
@@ -35,7 +35,7 @@ img {
   display: inline-block;
   margin: 10px 10px; 
 }
-
+*/
 /**
  * Figures
  */
@@ -47,17 +47,13 @@ figcaption {
 
 figure {
   float: middle;
-  width: 90%;
+  width: 100%;
   text-align: left;
   font-size: smaller;
   text-indent: 0;
   border: 2px black solid;
   margin: 0.5em;
   padding: 1em;
-  #padding-bottom: 1em;
   background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-img.scaled {
-  width: 90%;
 }
