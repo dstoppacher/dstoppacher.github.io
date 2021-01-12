@@ -32,7 +32,7 @@ figure > img {
 
 img {
   max-width: 90%;
-  vertical-align: middle; 
+  #vertical-align: middle; 
 }
 
 /**
@@ -46,16 +46,17 @@ figcaption {
 
 figure {
   float: middle;
-  width: 80%;
+  width: 90%;
   text-align: left;
   font-size: smaller;
   text-indent: 0;
   border: 2px black solid;
   margin: 0.5em;
   padding: 1em;
+  padding-left: 1em;
   background-color: #ffffff;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 img.scaled {
-  width: 80%;
+  width: 90%;
 }
