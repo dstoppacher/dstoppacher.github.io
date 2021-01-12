@@ -58,12 +58,14 @@ figure {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.numbered-figures { 
-	counter-reset: figures;
+article {
+  counter-reset: figures;
 }
-.numbered-figures .figure figcaption { 
-	counter-increment: figures; 
+
+figure {
+  counter-increment: figures;
 }
-.numbered-figures .figure figcaption:before { 
-	content: 'Fig. ' counter(figures) ' - '; 
+
+figcaption:before {
+  content: "Fig. " counter(figures) " - "; /* For I18n support; use data-counter-string. */
 }
