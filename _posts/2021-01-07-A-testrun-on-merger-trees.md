@@ -36,7 +36,7 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 Run the Rockstar halo finder catalog <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a> on the Colla particle simulation box with side-lenght 50 $$h^{-1}$$Mpc.
 
-<tt>Status:</tt> Tasked completed 
+<small><tt>Status:</tt> <b>Tasked completed</b></small>
 
 #### Task2: Convert raw output from ROCKSTAR to custom file format
 
@@ -44,11 +44,13 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
+
 #### Task3: Link the halos between the snapshots
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
-    <figcaption>The tables show a list of halo properties over four subsequent snapshots SN 1 to SN 4. In each table a halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>.</figcaption>
+    <figcaption>The tables show a list of halo properties over four subsequent snapshots <tt>SN21</tt> to <tt>SN24</tt>. In each table a particular halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>. This halo can be traced from one snapshot to another by comparing the <tt>haloid</tt> with the <tt>descID</tt>. Thereby the <tt>descID</tt> of e.g. <tt>SN21</tt> for this halo is <tt>29</tt> which corrsponds to the <tt>haloid</tt> of the same halo in the next snapshot <tt>SN22</tt>.
+  </figcaption>
 </figure>
 
 <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
