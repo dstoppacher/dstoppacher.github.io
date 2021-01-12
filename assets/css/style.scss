@@ -23,18 +23,6 @@ body {
   flex-direction: column;
 }
 
-/**
- * Images
- */
-/*
-figure > img {
-  display: block; }
-
-img {
-  max-width: 90%;
-  display: inline-block;
-  margin: 10px 10px; 
-}
 */
 /**
  * Figures
@@ -46,8 +34,6 @@ figcaption {
 }
 
 figure {
-  #float: middle;
-  #width: 100%;
   text-align: justify;
   font-size: smaller;
   text-indent: 0;
@@ -58,6 +44,8 @@ figure {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+
+#Automatically numbering of figures on page
 article {
   counter-reset: figures;
 }
@@ -71,6 +59,9 @@ figcaption:before {
   font-weight: bold;
 }
 
-a.xref:after {
-  content: "Figure " target-counter(attr(href, url), figure-number);
+hr { 
+    width: 100%; 
+    height: 0.2em; 
+    margin: 0 auto;
+    color: #e8e8e8;
 }
