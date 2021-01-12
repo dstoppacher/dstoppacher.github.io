@@ -81,11 +81,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 </figure>
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
-<hr 
-width=0.2em;
-color='#e8e8e8';
->
-
+<hr>
 
 ### Follow-up task & open questions
 
