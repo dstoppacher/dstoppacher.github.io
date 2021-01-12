@@ -63,7 +63,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-24+51.png">
-    <figcaption>Figure 2: Same as Figure 1 but the main progenitor halos at snapshot <tt>SN51</tt> at $$z=0.81$$ are also visualized.
+    <figcaption>Figure 2: Same as Figure 1 but the main progenitor halos at snapshot <tt>SN51</tt> at z=0.81 are also visualized.
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_diverse_merger_trees.png">
-    <figcaption>Figure 3: The figure shows the location of all progenitors (progs) from selected trees (<i>pink</i> dots) from <tt>SN21</tt> to <tt>SN51</tt> at $$z=0.81$$ (the final snaphost for this test run was set abitrarly). Various main progenitor are highlighted by their colour coding corresponding to the <tt>treeID</tt>. Thereby our example form Figure 1 is represented by <i>salmon</i> dots. Some tree are marked extra with two colour cirles which represents their position at redshift z=2.03 (<i>green</i> circle) and z=0.81 (<i>grey</i> circle). If there are no cicle in a certain tree that means that it did not excits at that snapshot anymore.
+    <figcaption>Figure 3: The figure shows the location of all progenitors (progs) from selected trees (<i>pink</i> dots) from <tt>SN21</tt> to <tt>SN51</tt> at z=0.81 (the final snaphost for this test run was set abitrarly). Various main progenitor are highlighted by their colour coding corresponding to the <tt>treeID</tt>. Thereby our example form Figure 1 is represented by <i>salmon</i> dots. Some tree are marked extra with two colour cirles which represents their position at redshift z=2.03 (<i>green</i> circle) and z=0.81 (<i>grey</i> circle). If there are no cicle in a certain tree that means that it did not excits at that snapshot anymore.
   </figcaption>
 </figure>
 
