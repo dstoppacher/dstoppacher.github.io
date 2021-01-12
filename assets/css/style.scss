@@ -67,5 +67,5 @@ figure {
 }
 
 .figure figcaption:before {
-	content: 'Fig. ' counter(figures): ;
+	content: 'Fig. ' counter(figures) ':' ;
 }
