@@ -32,7 +32,8 @@ figure > img {
 
 img {
   max-width: 90%;
-  #vertical-align: middle; 
+  display: inline-block;
+  margin: 25px 10px; 
 }
 
 /**
