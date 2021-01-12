@@ -67,5 +67,6 @@ figure {
 }
 
 figcaption:before {
-  content: <b>"Fig. " counter(figures) ": "</b>; /* For I18n support; use data-counter-string. */
+  content: "Fig. " counter(figures) ": "; /* For I18n support; use data-counter-string. */
+  font-style: bold;
 }
