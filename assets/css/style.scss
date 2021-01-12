@@ -58,10 +58,11 @@ figcaption:before {
   content: "Figure " counter(figures) ": "; /* For I18n support; use data-counter-string. */
   font-weight: bold;
 }
-
+/*
 hr { 
     width: 100%; 
     height: 0.2em; 
     margin: 0 auto;
     color: #e8e8e8;
 }
+*/
