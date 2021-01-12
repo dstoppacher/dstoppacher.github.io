@@ -49,7 +49,7 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_Tree3.png">
-    <figcaption>The tables show a list of halo properties over four subsequent snapshots <tt>SN21</tt> to <tt>SN24</tt>. In each table a particular halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>. This halo can be traced from one snapshot to another by comparing the <tt>haloid</tt> with the <tt>descID</tt>. Thereby the <tt>descID</tt> of e.g. <tt>SN21</tt> for this halo is <tt>29</tt> which corrsponds to the <tt>haloid</tt> of the same halo in the next snapshot <tt>SN22</tt>.
+    <figcaption>The tables show a list of halo properties over four subsequent snapshots <tt>SN21</tt> to <tt>SN24</tt>. In each table a particular halo is selected with the initial <tt>haloid</tt> of <tt>3</tt>. This halo can be traced from one snapshot to another by comparing the <tt>haloid</tt> with the <tt>descID</tt>. Thereby the <tt>descID</tt> of e.g. <tt>SN21</tt> for this halo is <tt>29</tt> which corrsponds to the <tt>haloid</tt> of the same halo in the next snapshot <tt>SN22</tt>. The <tt>treeID</tt> of the halo in this example is <tt>3</tt> which means that is was the third tree ever identified. This ID stays for all progenitors on the tree of this particular halo. If a new halo is identified in another snapshot with no progenitor, the <tt>treeID</tt> for this tree is simply assigned with <tt>+1</tt> of the last identified progenitor tree.
   </figcaption>
 </figure>
 
