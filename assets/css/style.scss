@@ -27,21 +27,19 @@ body {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 90%;
   vertical-align: middle; }
 
 /**
  * Figures
  */
-figure > img {
-  display: block; }
 
 figcaption {
   font-size: 12px; }
 
 figure {
   #float: middle;
-  width: 95%;
+  width: 85%;
   text-align: left;
   font-size: smaller;
   text-indent: 0;
@@ -51,5 +49,5 @@ figure {
   background-color: #ffffff;
 }
 img.scaled {
-  width: 95%;
+  width: 85%;
 }
