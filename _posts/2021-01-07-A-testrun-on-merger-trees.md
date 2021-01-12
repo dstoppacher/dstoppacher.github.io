@@ -54,15 +54,10 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
-  <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
+  <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png"><img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-24+51.png">
     <figcaption>Figure 1: In this cube visualize the location of the halos from Tab 1 above for three subsequent snapshots. The halos in our initial snapshot <tt>SN21</tt> are marked with a red cross. One can see that their progenitors can be clearly identified at the same location (blue circles for <tt>SN22</tt> and green dots for <tt>SN23</tt>). If a halo was not already identified at <tt>SN21</tt> or <tt>SN22</tt>, so its was newly found in the current snaphsot it is only marked with a blue circle or a green dot, represently.
   </figcaption>
 </figure>
-
-
-
-<img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-24+51.png">
 
 ### Task3: Conctruct a merger tree of the main progenitors
 
