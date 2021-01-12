@@ -59,12 +59,13 @@ figcaption:before {
 }
 
 h3 { 
-    width: 95%; 
-    height: 0.75em; 
+    width: 100%; 
+    height: 1.5em; 
     margin: 0.2em;
-    padding: 0.5em;
+    padding: 1em;
     border-radius: 5px;
     align: center;
+    colour: #e8e8e8;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
