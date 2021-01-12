@@ -70,3 +70,7 @@ figcaption:before {
   content: "Figure " counter(figures) ": "; /* For I18n support; use data-counter-string. */
   font-weight: bold;
 }
+
+a.xref:after {
+  content: "Figure " target-counter(attr(href, url), figure-number);
+}
