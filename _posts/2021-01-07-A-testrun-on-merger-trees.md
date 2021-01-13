@@ -68,7 +68,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt> <b>Task completed</b></small>
+<small><tt>Status:</tt> <b>Task completed</b><i class="fa fa-check-square" aria-hidden="true"></i></small>
 
 <hr class="fancyLine">
 
@@ -83,7 +83,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt> <b>Task completed</b></small>
+<small><tt>Status:</tt> <b>Task completed</b></small><i class="fa fa-check-square" aria-hidden="true"></i>
 
 <hr class="fancyLine">
 
