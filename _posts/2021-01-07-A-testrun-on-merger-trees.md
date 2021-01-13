@@ -43,7 +43,7 @@ Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.e
 Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mpc</tt></small> and the Hubble parameter absorbed in the value of the halo property.
 
 
-<blockquote><i class="fa fa-rocket" aria-hidden="true"></blockquote>
+<blockquote><i class="fa fa-rocket"></blockquote>
 
 
 
