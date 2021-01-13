@@ -22,7 +22,7 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 ### Task overview
 
 <ol>
-  <li>Run <b>ROCKSTAR</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) (box with 50$h^{-1}$Mpc side-length)</li>
+  <li>Run <b>ROCKSTAR</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) (box with 50\\(h^{-1}\\)Mpc side-length)</li>
 
   <li>Convert ASCII output files of Rockstar which are named as <small><tt>out[snapshot].list</tt></small>  into a custom HDF5 format.</li>
 
