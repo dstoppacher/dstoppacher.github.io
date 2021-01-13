@@ -40,7 +40,7 @@ figure {
   margin: 2.5em;
   padding: 0.5em;
   background-color: #C6EAFA;
-  border-radius: 2px;
+  border-radius: 3px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -61,12 +61,12 @@ figcaption:before {
 
 h3 { 
     width: 95%; 
-    height: 1.5em; 
+    //height: 1.5em; 
     margin: 0 auto;
     margin-bottom: 20px;
-    padding: 0.5em;
+    padding: 1em;
     border-radius: 5px;
-    align: middle;
+    //align: middle;
     background-color: #C6EAFA;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
