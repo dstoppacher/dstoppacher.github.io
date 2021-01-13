@@ -70,7 +70,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr class="fancyline">
+<hr class="fancyLine">
 
 
 ### Task3: Conctruct a merger tree of the main progenitors
@@ -85,7 +85,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr class="fancyline">
+<hr class="fancyLine">
 
 ### Follow-up task & open questions
 
