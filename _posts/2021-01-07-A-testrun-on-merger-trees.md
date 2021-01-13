@@ -36,13 +36,13 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a> on the Colla particle simulation box with side-lenght 50 $$h^{-1}$$Mpc.
 
-<small><tt>Status:</tt> <b>Task completed</b></small>
+<small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
 #### Task2: Convert raw output from ROCKSTAR to custom file format
 
 Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mpc</tt></small> and the Hubble parameter absorbed in the value of the halo property.
 
-<small><tt>Status:</tt> <b>Task completed </b></small><i class="fa fa-check" aria-hidden="true"></i>
+<small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
 <hr>
 
@@ -68,7 +68,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt> <b>Task completed</b><i class="fa fa-check-square" aria-hidden="true"></i></small>
+<small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
 <hr class="fancyLine">
 
