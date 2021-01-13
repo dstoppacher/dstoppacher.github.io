@@ -11,9 +11,11 @@ categories: mergertrees
 
 In this test run we aim to test if we can produce a valid merger tree of the main progenitor halos using only
 
-1) the <b>ROCKSTAR</b> halo finder (<a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a>) to identify the halos
+<ol>
+  <li>the <b>ROCKSTAR</b> halo finder (<a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a>) to identify the halos</li>
 
-2) the descendant identification numbers (IDs) -- <tt>descIDs</tt> provided by <b>ROCKSTAR</b> to link halos between snapshots. This ID represents the ID of the same halo in the next snapshot (moved forward in time).
+  <li>the descendant identification numbers (IDs) -- <tt>descIDs</tt> provided by <b>ROCKSTAR</b> to link halos between snapshots. This ID represents the ID of the same halo in the next snapshot (moved forward in time).</li>
+</ol>
 
 These merger tree will only use the <tt>descID</tt> to make a connection between halos as a simple approach. Note that no tree builder algorithm was used therefore the merger tree was not fixed for e.g. missing links between snapshots or filling and correcting missing halos. See <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...763...18B">Behroozi et al. 2013b</a> for details on that topic.
 
