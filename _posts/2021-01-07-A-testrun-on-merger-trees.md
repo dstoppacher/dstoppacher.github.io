@@ -19,18 +19,19 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 ### Task overview
 
-1) Run <b>ROCKSTAR</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) (box with 50 $$h^{-1}$$Mpc side-length)
+<ol>
+  <li>Run <b>ROCKSTAR</b> on the <b>Cholla</b> simulation (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) (box with 50 $$h^{-1}$$Mpc side-length)</li>
 
-2) Convert ASCII output files of Rockstar which are named as <small><tt>out[snapshot].list</tt></small>  into a custom HDF5 format.
+  <li>Convert ASCII output files of Rockstar which are named as <small><tt>out[snapshot].list</tt></small>  into a custom HDF5 format.</li>
 
-3) Use the <tt>haloid</tt> (ID of a certain halo in this snapshot) and the <tt>descIDs</tt> (the ID of the same halo in the next snapshot) to link a halo between snapshots.
+  <li>Use the <tt>haloid</tt> (ID of a certain halo in this snapshot) and the <tt>descIDs</tt> (the ID of the same halo in the next snapshot) to link a halo between snapshots.</li>
 
-4) Introduce to more IDs which form together with the <tt>haloid</tt> and <tt>descIDs</tt> a set of IDs which identifies a certain halo uniquely within the entire merger tree and at every snapshot. Those are the <tt>predID</tt> (the ID of the same halo a snapshot one step back in time) and the <tt>treeID</tt> (an ascending counter assigned when the very first halo in the merger tree was detected. The lower the number the earlier the first progenitor was detected!) of the tree the halo sits on.
+  <li>Introduce to more IDs which form together with the <tt>haloid</tt> and <tt>descIDs</tt> a set of IDs which identifies a certain halo uniquely within the entire merger tree and at every snapshot. Those are the <tt>predID</tt> (the ID of the same halo a snapshot one step back in time) and the <tt>treeID</tt> (an ascending counter assigned when the very first halo in the merger tree was detected. The lower the number the earlier the first progenitor was detected!) of the tree the halo sits on.</li>
 
-5) Construct a merger tree using the set of four IDs <tt>[haloid,descID,predID,treeID]</tt>.
+  <li>Construct a merger tree using the set of four IDs <tt>[haloid,descID,predID,treeID]</tt>.</li>
 
-6) Validate the merger tree with comparing the number of particles found for a certain halo.
-
+  <li>Validate the merger tree with comparing the number of particles found for a certain halo.</li>
+</ol>
 
 #### Task1: Find halos!
 
