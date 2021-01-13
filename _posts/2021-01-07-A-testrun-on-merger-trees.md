@@ -5,7 +5,7 @@ date: 2021-01-07 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-## Redshift evolution of main progenitor halos in the Cholla simulation: A testrun
+<blockquote>Redshift evolution of main progenitor halos in the Cholla simulation</blockquote>
 
 ### Objectives of this testrun
 
