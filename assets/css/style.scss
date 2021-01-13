@@ -92,21 +92,28 @@ h2 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
-/*
-hr {
+
+hr.rocket-left {
+    width: 45%;
+    text-align: left;
+    margin-left: 0;
     border: none;
-    border-top: 3px double #333;
-    color: #333;
+    border-top: 3px double #111;
+    color: rgb(0, 0, 0.06);
     overflow: visible;
     text-align: center;
     height: 5px;
 }
 
-hr:after {
-    background: #111;
-    content: "\f135";
-    padding: 0 4px;
-    position: relative;
-    top: -13px;
+hr.rocket-right {
+    width: 45%;
+    text-align: right;
+    margin-left: 0;
+    border: none;
+    border-top: 3px double #111;
+    color: rgb(0, 0, 0.06);
+    overflow: visible;
+    text-align: center;
+    height: 5px;
 }
-*/
+
