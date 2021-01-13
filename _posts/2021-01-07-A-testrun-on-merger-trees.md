@@ -36,11 +36,10 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a> on the Colla particle simulation box with side-lenght 50 $$h^{-1}$$Mpc.
 
-<i class="fa fa-rocket" aria-hidden="true"></i>
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr><i class="fa fa-rocket" aria-hidden="true"></i><hr>
+<div class="container"><h2><span class="fa fa-rocket" aria-hidden="true" style="margin:10px 0"></span></h2></div>
 
 #### Task2: Convert raw output from ROCKSTAR to custom file format
 
