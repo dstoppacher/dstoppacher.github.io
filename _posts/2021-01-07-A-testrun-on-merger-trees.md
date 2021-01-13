@@ -7,15 +7,15 @@ categories: mergertrees
 
 <blockquote><b>Summary:</b> In this post we study the redshift evolution of main progenitor halos in the Cholla simulation and show how we can easily construct merger trees of the same progenitor using two identification numbers provided by the halo finder itself.</blockquote>
 
-### Objectives of this testrun
+### Objectives of this test run
 
-In this testrun we aim to test if we can produce a valid merger tree of the main progenitor halos using only
+In this test run we aim to test if we can produce a valid merger tree of the main progenitor halos using only
 
 1) the <b>ROCKSTAR</b> halo finder (<a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a>) to identify the halos
 
-2) the descendent identification numbers (IDs) -- <tt>descIDs</tt> provided by <b>ROCKSTAR</b> to link halos between snaphots. This ID represents the ID of the same halo in the next snapshot (moved forward in time).
+2) the descendant identification numbers (IDs) -- <tt>descIDs</tt> provided by <b>ROCKSTAR</b> to link halos between snapshots. This ID represents the ID of the same halo in the next snapshot (moved forward in time).
 
-These merger tree will only use the <tt>descID</tt> to make a connection between halos as a simple approach. Note that no tree builder alorithm was used therefore the merger tree was not fixed for e.g. missing links between snapshots or filling and correcting missing halos. See <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...763...18B">Behroozi et al. 2013b</a> for details on that topic.
+These merger tree will only use the <tt>descID</tt> to make a connection between halos as a simple approach. Note that no tree builder algorithm was used therefore the merger tree was not fixed for e.g. missing links between snapshots or filling and correcting missing halos. See <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...763...18B">Behroozi et al. 2013b</a> for details on that topic.
 
 ### Task overview
 
@@ -34,7 +34,7 @@ These merger tree will only use the <tt>descID</tt> to make a connection between
 
 #### Task1: Find halos!
 
-Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a> on the Colla particle simulation box with side-lenght 50 $$h^{-1}$$Mpc.
+Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a> on the Colla particle simulation box with side-length 50 $$h^{-1}$$Mpc.
 
 <small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
@@ -60,7 +60,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_test_cube_SN21-23.png">
-  <figcaption>In this cube visualize the location of the halos from Table 1 above for three subsequent snapshots. The halos in our initial snapshot <tt>SN21</tt> are marked with a red cross. One can see that their progenitors can be clearly identified at the same location (<i>blue</i> circles for <tt>SN22</tt> and <i>green</i> dots for <tt>SN23</tt>). If a halo was not already identified at <tt>SN21</tt> or <tt>SN22</tt>, so its was newly found in the current snaphsot it is only marked with a blue circle or a green dot, represently.
+  <figcaption>In this cube visualize the location of the halos from Table 1 above for three subsequent snapshots. The halos in our initial snapshot <tt>SN21</tt> are marked with a red cross. One can see that their progenitors can be clearly identified at the same location (<i>blue</i> circles for <tt>SN22</tt> and <i>green</i> dots for <tt>SN23</tt>). If a halo was not already identified at <tt>SN21</tt> or <tt>SN22</tt>, so its was newly found in the current snapshot it is only marked with a blue circle or a green dot, respectively.
   </figcaption>
 </figure>
 
@@ -74,13 +74,13 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <hr class="fancyLine3">
 
-### Task3: Conctruct a merger tree of the main progenitors
+### Task3: Construct a merger tree of the main progenitors
 
 After providing that we identify the correct halos when linking <tt>haloid</tt> and <tt>descID</tt> for each snapshot we can construct a simple merger tree considering the main progenitor halos.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-07_diverse_merger_trees.png">
-    <figcaption>The figure shows the location of all progenitors (progs) from selected trees (<i>pink</i> dots) from <tt>SN21</tt> to <tt>SN51</tt> at z=0.81 (the final snaphost for this test run was set abitrarly). Various main progenitor are highlighted by their colour coding corresponding to the <tt>treeID</tt>. Thereby our example form Figure 1 is represented by <i>salmon</i> dots. Some tree are marked extra with two colour cirles which represents their position at redshift z=2.03 (<i>green</i> circle) and z=0.81 (<i>grey</i> circle). If there are no cicle in a certain tree that means that it did not excits at that snapshot anymore.
+    <figcaption>The figure shows the location of all progenitors (progs) from selected trees (<i>pink</i> dots) from <tt>SN21</tt> to <tt>SN51</tt> at z=0.81 (the final snapshot for this test run was set arbitrarily). Various main progenitor are highlighted by their color coding corresponding to the <tt>treeID</tt>. Thereby our example form Figure 1 is represented by <i>salmon</i> dots. Some tree are marked extra with two color circles which represents their position at redshift z=2.03 (<i>green</i> circle) and z=0.81 (<i>gray</i> circle). If there are no circle in a certain tree that means that it did not exits at that snapshot anymore.
   </figcaption>
 </figure>
 
@@ -95,8 +95,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 (2) How does <b>ROCKSTAR</b> assign the <tt>descID</tt> when running?
 
-(3) Calculate halo mass function and accrection rates. 
-
+(3) Calculate halo mass function and accretion rates. 
 
 
 
