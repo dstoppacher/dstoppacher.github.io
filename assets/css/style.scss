@@ -128,7 +128,7 @@ hr.fancyLine3 {
       background: rgba(0, 0, 0, 0.01);
  }
 
-ul li::before {
+li::before {
     content: "\f005";
     font-family: "Font Awesome 5 Free";
 }
