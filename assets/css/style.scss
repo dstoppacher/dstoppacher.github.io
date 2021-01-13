@@ -75,23 +75,6 @@ h3 {
     
 }
 
-hr {
-    border: none;
-    border-top: 3px double #333;
-    color: #333;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-}
-
-hr:after {
-    background: #fff;
-    content: '§';
-    padding: 0 4px;
-    position: relative;
-    top: -13px;
-}
-
 /* Step 1: Common Properties: All required to make icons render reliably */
 .icon::before {
   display: inline-block;
@@ -113,4 +96,21 @@ hr:after {
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
   content: "\f1ea";
+}
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #111;
+    content: "\f135";
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
 }
