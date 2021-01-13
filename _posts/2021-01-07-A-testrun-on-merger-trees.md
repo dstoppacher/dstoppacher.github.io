@@ -72,6 +72,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <hr class="fancyLine">
 
+<hr class="fancyLine2">
 
 ### Task3: Conctruct a merger tree of the main progenitors
 
@@ -85,9 +86,10 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 <small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
-<hr class="fancyLine">
+<hr class="fancyLine3">
 
 ### Follow-up task & open questions
+
 
 (1) Verify the approach of connection halos by the provided <tt>haloid</tt> and <tt>descID</tt> by comparing directly with the numbers of particle assigned to the halos between snapshots.
 
