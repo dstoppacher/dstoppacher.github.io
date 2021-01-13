@@ -83,7 +83,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt> <b>Task completed</b></small><i class="fa fa-check-square" aria-hidden="true"></i>
+<small><tt>Status:</tt> <b>Task completed </b></small><i class="fa fa-check-square" aria-hidden="true"></i>
 
 <hr class="fancyLine">
 
