@@ -95,7 +95,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 (2) How does <b>ROCKSTAR</b> assign the <tt>descID</tt> when running?
 
-(3) Calculate halo mass function and accrection rates.
+(3) Calculate halo mass function and accrection rates. 
 
 
 
