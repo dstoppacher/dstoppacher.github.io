@@ -46,6 +46,8 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
+<i class="fa fa-rocket" aria-hidden="true"></i>
+
 <hr>
 
 
