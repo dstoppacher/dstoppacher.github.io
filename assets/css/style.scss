@@ -139,14 +139,6 @@ hr.rocket-right {
 /**
  * Blockquotes
  */
-blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
-  padding-left: 15px;
-  font-size: 18px;
-  letter-spacing: -1px;
-  font-style: italic;
-  font-family: "Cabin Sketch";}
-  blockquote > :last-child {
-    margin-bottom: 0; }
+.blockquote {
+  font-style: normal;}
 
