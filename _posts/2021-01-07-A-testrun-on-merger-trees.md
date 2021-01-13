@@ -70,7 +70,7 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr>
+<hr class="fancyline">
 
 
 ### Task3: Conctruct a merger tree of the main progenitors
