@@ -90,12 +90,13 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
 
 ### Follow-up task & open questions
 
+<ol>
+  <li>Verify the approach of connection halos by the provided <tt>haloid</tt> and <tt>descID</tt> by comparing directly with the numbers of particle assigned to the halos between snapshots.</li>
 
-(1) Verify the approach of connection halos by the provided <tt>haloid</tt> and <tt>descID</tt> by comparing directly with the numbers of particle assigned to the halos between snapshots.
+  <li>How does <b>ROCKSTAR</b> assign the <tt>descID</tt> when running?</li>
 
-(2) How does <b>ROCKSTAR</b> assign the <tt>descID</tt> when running?
-
-(3) Calculate halo mass function and accretion rates. 
+  <li>Calculate halo mass function and accretion rates.</li>
+ </ol>
 
 
 
