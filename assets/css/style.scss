@@ -75,6 +75,21 @@ h3 {
     
 }
 
+h3.title { 
+    width: 95%; 
+    height: 1.5em; 
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(178, 210, 225);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
 
 h2 { 
     width: 95%;
@@ -96,13 +111,13 @@ h2 {
 hr.rocket-left {
     width: 45%;
     text-align: left;
-    margin-left: 0;
-    border: none;
+    //margin-left: 0;
+    //border: none;
     border-top: 3px double #111;
     color: rgba(0, 0, 0, 0.06);
-    overflow: visible;
-    text-align: center;
-    height: 5px;
+    //overflow: visible;
+    //text-align: center;
+    //height: 5px;
 }
 
 hr.rocket-right {
