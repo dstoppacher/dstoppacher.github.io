@@ -129,7 +129,7 @@ hr.fancyLine3 {
  }
 
 ul.customList {
-    content: "";
+    list-style-type: none;
 }
 
 ul.customList li::before{
