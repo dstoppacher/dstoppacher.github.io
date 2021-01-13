@@ -113,10 +113,10 @@ h2 {
 
 hr.fancyLine {
       border: none;
-      border-top: 20px solid rgba(85, 85, 85, 0.1);
+      border-top: 35px solid rgba(85, 85, 85, 0.1);
       width: 100%;
-      margin-left: -10px;
-      margin-right: 10px;
+      margin-left: 0;
+      margin-right: 0;
       background: rgba(0, 0, 0, 0.01);
 }  
 hr.fancyLine3 {
@@ -127,5 +127,3 @@ hr.fancyLine3 {
       margin-right: auto;
       background: rgba(0, 0, 0, 0.01);
  }
-
-li:before { content: 'f137'; margin-left: -20px; margin-right: 10px; } 
