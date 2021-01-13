@@ -114,3 +114,19 @@ hr:after {
     position: relative;
     top: -13px;
 }
+
+.container:before{
+content: "";
+height: 1px;
+background: black;
+float:left;
+width:40%;
+}
+.container:after{
+content: "";
+height: 1px;
+background: black;
+float:left;
+width: 40%;
+}
+
