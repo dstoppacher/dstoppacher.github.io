@@ -38,7 +38,9 @@ Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.e
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr>
+
+<blockquote><i class="fa fa-rocket" aria-hidden="true"></blockquote>
+
 
 #### Task2: Convert raw output from ROCKSTAR to custom file format
 
