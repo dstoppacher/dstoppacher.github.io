@@ -138,3 +138,14 @@ ul.customList li::before{
     padding: 0 10px 0 0;
     color: #069;
 }
+
+ul.customListPosts {
+    list-style-type: none;
+}
+
+ul.customListPosts li::before{
+    content: "\f133";
+    font-family: "Font Awesome 5 Free";
+    padding: 0 10px 0 0;
+    color: #111;
+}
