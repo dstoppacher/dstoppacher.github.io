@@ -7,9 +7,6 @@ categories: mergertrees
 
 <blockquote><b>Summary:</b> In this post we study the redshift evolution of main progenitor halos in the Cholla simulation and show how we can easily construct merger trees of the same progenitor using two identification numbers provided by the halo finder itself ...</blockquote>
 
-<div align="center"><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i></div>
-
-
 ### Objectives of this testrun
 
 In this testrun we aim to test if we can produce a valid merger tree of the main progenitor halos using only
