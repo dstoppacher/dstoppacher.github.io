@@ -44,9 +44,7 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 <small><tt>Status:</tt> <b>Tasked completed</b></small>
 
-<hr class="rocket-left">
-<i class="fa fa-rocket">
-<hr class="rocket-left">
+<hr class="rocket-left"><i class="fa fa-rocket"><hr class="rocket-right">
 
 #### Task3: Link the halos between the snapshots
 
