@@ -113,11 +113,25 @@ h2 {
 
 hr.fancyLine {
       border: none;
-      border-top: 3px dashed rgb(85, 85, 85);
+      border-top: 2px dotted rgb(85, 85, 85);
       width: 68.2%;
       margin-left: auto;
       margin-right: auto;
       background: rgba(0, 0, 0, 0.01);
 }
+hr.fancyLine2 {
+      border: none;
+      border-top: 1.5px solid rgb(85, 85, 85);
+      width: 68.2%;
+      margin-left: auto;
+      margin-right: auto;
+      background: rgba(0, 0, 0, 0.01);
+hr.fancyLine3 {
+      border: none;
+      border-top: 2px dashed rgb(85, 85, 85);
+      width: 68.2%;
+      margin-left: auto;
+      margin-right: auto;
+      background: rgba(0, 0, 0, 0.01);
 
-li:before { content: '\f138'; margin-left: -20px; margin-right: 10px; } 
+li:before { content: 'fa fa-rocket'; margin-left: -20px; margin-right: 10px; } 
