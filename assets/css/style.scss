@@ -67,7 +67,9 @@ h3 {
     padding: 1em;
     border-radius: 5px;
     text-align: center;
-    display: table-cell;
+    display:flex;
+    align-items: center;
+    justify-content: center;
     background-color: #C6EAFA;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
