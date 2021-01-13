@@ -38,8 +38,7 @@ Run the <b>ROCKSTAR</b> halo finder catalog <a href="https://ui.adsabs.harvard.e
 
 <small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
-<div align="center" style="margin-bottom: 15px;">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>
-
+<hr class="fancyLine3">
 
 #### Task2: Convert raw output from ROCKSTAR to custom file format
 
@@ -47,7 +46,7 @@ Thereby the units of <small><tt>kpc</tt></small> were converted to <small><tt>Mp
 
 <small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
 
-<div align="center" style="margin-bottom: 15px;">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>
+<hr class="fancyLine3">
 
 #### Task3: Link the halos between the snapshots
 
@@ -71,8 +70,6 @@ In this section we show that with the combination of <tt>haloid</tt> and <tt>des
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
-
 <hr class="fancyLine3">
 
 ### Task3: Conctruct a merger tree of the main progenitors
@@ -85,9 +82,7 @@ After providing that we identify the correct halos when linking <tt>haloid</tt> 
   </figcaption>
 </figure>
 
-<small><tt>Status:</tt>&nbsp;<i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;<b>Task completed </b></small>
-
-<hr class="fancyLine">
+<hr class="fancyLine3">
 
 ### Follow-up task & open questions
 
