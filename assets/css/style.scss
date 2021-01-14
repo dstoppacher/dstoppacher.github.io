@@ -149,3 +149,21 @@ ul.customListPosts li::before{
     padding: 0 10px 0 0;
     color: #111;
 }
+
+div.button_left {
+    ffont-family: "monospace";
+    align= right;
+    width: 10%;
+    height: 1.5em; 
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(178, 210, 225);
+    color: #111;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
