@@ -54,6 +54,15 @@
       <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      
+      {% if site.github.is_project_page == false %}
+        <a href=#top><i class="fa fa-arrow-up fa-lg"></i></a>&nbsp;
+  
+        <a href="/"><i class='fa fa-home fa-lg'></i></a>&nbsp;
+  
+        <a href="mailto:Doris%20Stoppacher%20%3Cdstoppacher@ucsc.edu%3E"><i class="fa fa-paper-plane fa-lg"></i></a>
+      {% endif %}
+      
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
