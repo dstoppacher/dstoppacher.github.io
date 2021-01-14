@@ -153,14 +153,14 @@ ul.customListPosts li::before{
 div.tiny_box {
     font-family: monospace;
     float: right;
-    width: 18%;
+    width: 20%;
     height: 1.5em; 
     margin: 0 auto;
     margin-bottom: 3px;
-    padding: 0.2em;
+    padding: 0.5em;
     border-radius: 5px;
-    text-align: middle;
-    background-color: rgba(0, 0, 0, 0.06);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.02);
     color: #111;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
