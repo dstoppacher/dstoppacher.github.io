@@ -5,7 +5,7 @@ date: 2021-01-07 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b> In this post we study the redshift evolution of main progenitor halos in the Cholla simulation and show how we can easily construct merger trees of the same progenitor using two identification numbers provided by the halo finder itself.</tt></blockquote>
+<blockquote><tt><b>Summary:</b> In this post we study the redshift evolution of main progenitor halos in the Cholla simulation and show how we can easily construct merger trees of the same progenitors using two identification numbers provided by the halo finder as standard output.</tt></blockquote>
 
 ### Objectives of this test run
 
