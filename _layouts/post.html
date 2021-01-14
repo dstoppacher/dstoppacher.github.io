@@ -15,21 +15,13 @@ layout: default
 <div class="PageNavigation">
 
   {% if page.previous %}
-    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-arrow-left"></i>&nbsp;<small><tt>{{page.previous.title}}</tt></small></a>
+    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;<normal><tt>{{page.previous.title}}</tt></normal></a>
     <br>
   {% endif %}
 
 
   {% if page.next %}
-    <a class="next" href="{{ site.baseurl }}{{page.next.url}}"><small><tt>{{page.next.title}}</tt></small>&nbsp;<i class="fa fa-arrow-right"></i> </a>
-  {% endif %}<br>
-  
-  <a href=#top><i class="fa fa-arrow-up fa-lg"></i></a>&nbsp;
-  
-  <a href="/"><i class='fa fa-home fa-lg'></i></a>&nbsp;
-  
-  <a href="mailto:Doris%20Stoppacher%20%3Cdstoppacher@ucsc.edu%3E"><i class="fa fa-paper-plane fa-lg"></i></a>
-
-  
+    <a class="next" href="{{ site.baseurl }}{{page.next.url}}"><normal><tt>{{page.next.title}}</tt></normal>&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
+  {% endif %}  
 
 </div>
