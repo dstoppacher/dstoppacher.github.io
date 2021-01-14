@@ -151,16 +151,15 @@ ul.customListPosts li::before{
 }
 
 div.button-right {
-    ffont-family: "monospace";
-    align: right;
-    width: 10%;
+    font-family: "monospace";
+    width: 15%;
     height: 1.5em; 
     margin: 0 auto;
     margin-bottom: 15px;
     padding: 1em;
     border-radius: 5px;
-    text-align: center;
-    background-color: rgb(178, 210, 225);
+    text-align: right;
+    background-color: rgba(0, 0, 0, 0.06);
     color: #111;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
