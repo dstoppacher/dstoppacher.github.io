@@ -167,15 +167,16 @@ div.button_gray {
 
 div.button_white {
     font-family: monospace;
-    font-size: 1vw;
+    height: 7em;
+    font-size: 1.5vw;
     margin: 0 auto;
-    margin-bottom: 5px;
-    padding: 0.3em;
+    margin-bottom: 15px;
+    padding: 0.15em;
     border-radius: 5px;
     text-align: center;
     background-color: #ffffff;
     color: #069;
-    border: 2px solid #068;
+    border: 2px solid #069;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
@@ -185,12 +186,12 @@ div p.button_white {
     font-family: monospace;
     font-size: 1.5vw;
     margin: 0 auto;
-    margin-bottom: 25px;
-    padding: 0.3em;
+    margin-bottom: 15px;
+    padding: 0.15em;
     border-radius: 5px;
     text-align: center;
     background-color: #ffffff;
     color: #069;
-    border: 2px solid #068;
+    border: 2px solid #069;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
