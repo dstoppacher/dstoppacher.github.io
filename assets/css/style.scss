@@ -167,8 +167,9 @@ div.button_gray {
 
 div.button_white {
     font-family: monospace;
-    height: 7em;
-    font-size: 1vw;
+    display: inline-block;
+    height: 10em;
+    font-size: 1.2vw;
     margin: 0 auto;
     margin-bottom: 15px;
     padding: 0.15em;
@@ -182,7 +183,7 @@ div.button_white {
 
 div p.button_white {
     display: inline-block;
-    height: 7em;
+    height: 10em;
     font-family: monospace;
     font-size: 1.5vw;
     margin: 0 auto;
