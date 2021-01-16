@@ -178,3 +178,17 @@ div.button_white {
     border: 2px solid #068;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
+
+div p.button_white {
+    font-family: monospace;
+    font-size: 1vw;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    padding: 0.3em;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #069;
+    border: 2px solid #068;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
