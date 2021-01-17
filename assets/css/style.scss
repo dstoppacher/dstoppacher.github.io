@@ -169,11 +169,6 @@ div.button_white {
     font-family: monospace;
     height: 10em;
     font-size: 1.2vw;
-    margin-top: 0.1em;
-    margin-left: 0.1em;
-    margin-right: 0.1em;
-    margin-bottom: 1em;
-    padding: 0.15em;
     border-radius: 5px;
     text-align: center;
     overflow-wrap: break-word;
@@ -186,13 +181,13 @@ div.button_white {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 1em;
+  margin: 0.5em;
 }
 #container2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0.5em;
+  margin: 0.25em;
 }
 
 div p.button_white {
