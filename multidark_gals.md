@@ -3,6 +3,10 @@ layout: default
 title: "The MultiDark-Galaxies"
 ---
 
-# Here you find infos about the MultiDark-Galaxies-Projcet!
+<blockquote>
+	<tt><b>About: </b>Here you find infos about the MultiDark-Galaxies-Projcet!</tt>										     
+</blockquote>
 
-## Sorry, this page is currently under construction!
+<h3 class="title">Sorry, this page is currently under construction!</h3>
+
+<div><i class='fas fa-drafting-compass'></i></div>
