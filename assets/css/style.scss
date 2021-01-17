@@ -188,17 +188,17 @@ div.button_white {
     border: 2px solid #069;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
     }
-    @media screen and (max-width: 700px) {
+    @media screen and (max-width: 1500px) {
     div.button_white {
     height: 11em;
     width: 32%;
     font-size: 20px;
-    font-size: 6vw;
+    font-size: 3.5vw;
     border-radius: 10px;
     margin-bottom: 2.5em;      
     }
 }
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 800px) {
     div.button_white {
     height: 11em;
     width: 31%;
