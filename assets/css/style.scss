@@ -191,7 +191,7 @@ div.button_white {
     @media screen and (max-width: 600px) {
     div.button_white {
     height: 11em;
-    width: 150px;
+    width: 33%px;
     font-size: 20px;
     font-size: 5vw;
     border-radius: 10px;
@@ -199,10 +199,20 @@ div.button_white {
 }
     @media screen and (max-width: 400px) {
     div.button_white {
-    height: 100px;
-    width: 30%;
+    height: 11em;
+    width: 33%;
     font-size: 20px;
-    font-size: 4vw;
+    font-size: 3vw;
+    border-radius: 10px;
+    margin:0em;
+    }
+
+    @media screen and (max-width: 200px) {
+    div.button_white {
+    height: 15em;
+    width: 33%;
+    font-size: 20px;
+    font-size: 2vw;
     border-radius: 10px;
     margin:0em;
     }
