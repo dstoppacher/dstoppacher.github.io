@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Modelling early-time galaxy formation"
+title: "Modelling early-stage galaxy formation"
 ---
 
 <blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>Here you can find out more about my current reserach project on modelling early-time galaxy formation and the first galaxies in the Universe!</tt>										     
+	<tt><b>About: </b>Here you can find out more about my current reserach project on modelling early-stage galaxy formation and processes of the circumgalactic medium!</tt>										     
 </blockquote>
 
 <h3>Sorry, this page is currently under construction!</h3>
