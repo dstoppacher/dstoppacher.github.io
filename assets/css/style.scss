@@ -186,6 +186,11 @@ span.vetically-centered {
   display: table-cell;
   vertical-align: middle;
 }
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 div p.button_white {
     height: 10em;
