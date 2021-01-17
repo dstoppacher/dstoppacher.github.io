@@ -168,8 +168,9 @@ div.button_gray {
 div.button_white {
     font-family: monospace;
     height: 11em;
+    width:32%;
     font-size: 20px;
-    font-size: 1.4vw;
+    font-size: 1.3vw;
     border-radius: 5px;
     text-align: center;
     overflow-wrap: break-word;
@@ -180,20 +181,36 @@ div.button_white {
     }
     @media screen and (max-width: 600px) {
     div.button_white {
-     height: 15em;
+     height: 11em;
+     width: 150px;
      font-size: 20px;
      font-size: 4vw;
      border-radius: 10px; }
 }
     @media screen and (max-width: 400px) {
     div.button_white {
-     height: 15em;
+     height: 50px;
+     width: 75px;
      font-size: 20px;
      font-size: 5vw;
      border-radius: 10px;}
 }      
 #container1 {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5em;
+}
+#container1-font-smaller {
+  display: flex;
+  font-size: 0.9em;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5em;
+}
+#container1-font-larger {
+  display: flex;
+  font-size: 2.1em;
   justify-content: center;
   align-items: center;
   margin: 0.5em;
