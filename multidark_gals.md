@@ -7,6 +7,6 @@ title: "The MultiDark-Galaxies"
 	<tt><b>About: </b>Here you find infos about the MultiDark-Galaxies-Projcet!</tt>										     
 </blockquote>
 
-<h3 class="title">Sorry, this page is currently under construction!</h3>
+<h3>Sorry, this page is currently under construction!</h3>
 
-<div><i class='fas fa-drafting-compass'></i></div>
+<div id="container1" style="width=50%; display:inline-block"><i class='fas fa-drafting-compass fa-10x'></i></div>
