@@ -165,6 +165,15 @@ div.button_gray {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
+div.large-margin{
+  margin:2.5em;
+  }
+  @media screen and (max-width: 400px) {
+  div.large-margin {
+  margin:2.5em;
+  }
+}
+
 div.button_white {
     font-family: monospace;
     height: 11em;
@@ -190,10 +199,10 @@ div.button_white {
 }
     @media screen and (max-width: 400px) {
     div.button_white {
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 120px;
     font-size: 20px;
-    font-size: 3vw;
+    font-size: 4vw;
     border-radius: 10px;
     margin:0em;
     }
