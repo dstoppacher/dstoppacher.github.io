@@ -4,7 +4,7 @@ title:  "A semi-analytical perspective"
 ---
 
 <blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>HFind out more about my main reserach topic within my PhD!</tt>										     
+	<tt><b>About: </b>Here you can find out more about my main reserach topic within my PhD!</tt>										     
 </blockquote>
 
 <h3>Sorry, this page is currently under construction!</h3>
