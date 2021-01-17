@@ -178,9 +178,12 @@ div.button_white {
     border: 2px solid #069;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
     }
-    @media screen {
-      font-size: 20px;
-      font-size: 2vw;    
+    @media screen and (max-width: 400px) {
+    div.button_white {
+     font-size: 20px;
+     font-size: 2vw;
+}      
+      
 }
 #container1 {
   display: flex;
