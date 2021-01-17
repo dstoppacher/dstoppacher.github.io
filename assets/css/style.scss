@@ -168,6 +168,7 @@ div.button_gray {
 div.button_white {
     font-family: monospace;
     height: 10em;
+    width:32%;
     font-size: 16px;
     font-size: 1.2vw;
     border-radius: 5px;
@@ -179,12 +180,14 @@ div.button_white {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 #container1 {
+  width:32%;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0.5em;
 }
 #container2 {
+  width:32%;
   display: flex;
   justify-content: center;
   align-items: center;
