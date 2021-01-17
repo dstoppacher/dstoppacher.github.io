@@ -188,24 +188,5 @@ div.button_white {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0.5em;
-}
-
-div p.button_white {
-    height: 10em;
-    display: flex;
-    align-items: center ;
-    font-family: monospace;
-    font-size: 1.5vw;
-    margin: 0 auto;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-bottom: 15px;
-    padding: 0.15em;
-    border-radius: 5px;
-    text-align: center;
-    background-color: #ffffff;
-    color: #069;
-    border: 2px solid #069;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  margin: 0.75em;
 }
