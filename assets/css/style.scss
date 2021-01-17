@@ -184,6 +184,8 @@ div.button_white {
 
 div p.button_white {
     height: 10em;
+    display: flex;
+    align-items: center ;
     font-family: monospace;
     font-size: 1.5vw;
     margin: 0 auto;
