@@ -9,4 +9,4 @@ title: "The MultiDark-Galaxies"
 
 <h3>Sorry, this page is currently under construction!</h3>
 
-<div id="container1" style="width=100%; display:inline-block; align:center; margin:3em"><i class='fas fa-drafting-compass fa-10x'></i></div>
+<div id="container1" style="width=100%; align:center; margin:3em"><i class='fas fa-drafting-compass fa-10x'></i></div>
