@@ -14,9 +14,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
   <li>Calculate halo mass function and accretion rates.</li>
  </ol>
- 
- <hr class="fancyLine3"> 
- 
+  
  ### Task1: Merger tree verification
  
  
@@ -44,7 +42,7 @@ Although the difference in halo masses are significant high, we can still confir
   </figcaption>
 </figure>
 
- #### Position of all main progenitors at z=4.15
+ #### Positions of all main progenitors at z=4.15
  
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_4.15.png">
@@ -56,23 +54,23 @@ Although the difference in halo masses are significant high, we can still confir
  #### Halo mass function (HMF) of all main progenitors at z=4.15
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_HMF.png">
-  <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
+  <figcaption>Halo mass function of the main progenitor halos at z=4.15 for <b>ROCKSTAR</b> (red line), <b>Cholla</b> (blue line), and halos with less than 10% difference in halo mass (black dashed line).
   </figcaption>
 </figure>
  
-  #### Position of all main progenitors between 2<z11
+  #### Position of all main progenitors between 2<z<11
 
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_2.19_z_11.51.png">
-  <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
+  <figcaption>Positions of the main progenitor halos for the merger tree <tt>treeID13</tt> througout redshift.
   </figcaption>
 </figure>
 
- #### Halo mass function (HMF) of all main progenitors between 2<z11
+ #### Halo mass function (HMF) of all main progenitors between 2<z<11
  
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_HMF_4.15.png">
-  <figcaption>Positions of 25% of the main progenitor halos between 2.19<z<11.15. The black dots show halos which have less then 10% difference in the halo masses for <b>ROCKSTAR</b> and <b>Cholla</b>.
+  <figcaption>Halo mass function of the main progenitor halos bewteen 2<z<11 for <b>ROCKSTAR</b> (red line), <b>Cholla</b> (blue line), and halos with less than 10% difference in halo mass (black dashed line).
   </figcaption>
 </figure>
 
