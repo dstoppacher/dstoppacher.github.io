@@ -40,36 +40,39 @@ Although the difference in halo masses are significant high, we can still confir
 
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_treeID13_2.19_z_11.51.png">
-  <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
+  <figcaption>Positions of the main progenitor halos for the merger tree <tt>treeID13</tt> througout redshift.
   </figcaption>
 </figure>
 
- #### Taking a lot onto all progenitor between $$2<z<11$$
+ #### Position of all main progenitors at z=4.15
  
- ### Main progenitors with $$\Delta_{M_{halo}}<\pm 10\%$$ at z=4.15
- 
- <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-21_HMF_4.15.png">
-  <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
+  <figure>
+  <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_4.15.png">
+  <figcaption>Positions of the main progenitor halos at z=4.15. The black dots show halos which have less then 10% difference in the halo masses for <b>ROCKSTAR</b> and <b>Cholla</b>.
   </figcaption>
 </figure>
- 
+
+
+ #### Halo mass function (HMF) of all main progenitors at z=4.15
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_HMF.png">
   <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
   </figcaption>
 </figure>
-
- <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_4.15.png">
-  <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
-  </figcaption>
-</figure>
-
+ 
+  #### Position of all main progenitors between 2<z11
 
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_2.19_z_11.51.png">
   <figcaption>Positions of the main progenitor halos for the merger tree <tt<treeID13</tt> througout redshift.
+  </figcaption>
+</figure>
+
+ #### Halo mass function (HMF) of all main progenitors between 2<z11
+ 
+ <figure>
+  <img src="{{ site.baseurl }}/plots/2021-01-21_HMF_4.15.png">
+  <figcaption>Positions of 25% of the main progenitor halos between 2.19<z<11.15. The black dots show halos which have less then 10% difference in the halo masses for <b>ROCKSTAR</b> and <b>Cholla</b>.
   </figcaption>
 </figure>
 
