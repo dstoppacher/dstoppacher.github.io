@@ -34,11 +34,11 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
   </figcaption>
 </figure>
 
-Although the difference in halo masses are significant high, we can still confirm that <b>ROCKSTAR</b> sets the <tt>descIDs</tt> correctly. In <i>Figure 3</i> we illustrated that by tracking the position of the main progenitor halos of <tt>treeID13</tt>.
+Although the difference in halo masses are significant high, we can still confirm that <b>ROCKSTAR</b> sets the <tt>descIDs</tt> correctly. In <i>Figure 3</i> we illustrated that by tracking the position of the main progenitor halos of <tt>treeID13</tt> between $$2.19<z<11.51$$.
 
  <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-21_treeID13_2.19_z_11.51_IDs.png">
-  <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt>mhalo-m_particle(%)</tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in \%. The halo masses are given in $[h^{-1}M_{\odot}$ and the positions columns <tt>X</tt>, <tt>X</tt>, and <tt>X</tt> in $[h^{-1}comvkpc]$.
+  <img src="{{ site.baseurl }}/plots/2021-01-21_treeID13_2.19_z_11.51.png">
+  <figcaption>Positions of the main progenitor halos for the merger tree $$treeID13$$ througout redshift.
   </figcaption>
 </figure>
 
