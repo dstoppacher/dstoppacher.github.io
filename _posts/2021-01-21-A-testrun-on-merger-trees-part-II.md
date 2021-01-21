@@ -17,14 +17,23 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
  
  <hr class="fancyLine3">
  
- ### Merger tree verification
+ 
+ ### Task1: Merger tree verification
  
  In this analysis we scanned through the entire box of Cholla 256 with side-lenght 50$$h^{-1}$$Mpc and gathered all dark matter particle within a certain radius. Then we multiplied the number of particel $$n_{particle}$$ by the mass of one dark matter particle in the simulation being $$m_DM=5.407\times10^8$$ $$[h^{-1}M_{\odot}]$$. We compare this result with the halo mass the halo finder <b>ROCKSTAR</b> provided.
  
  <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-21_.mhalo_offset.png">
+  <img src="{{ site.baseurl }}/plots/2021-01-21_mhalo_offset.png">
   <figcaption>The figure visualizes the offset between the halos from merger tree with ID13 provided by <b>ROCKSTAR</b> in comparision what we can approximate when summing up dark matter particles within $$5\times$$ the virial radius $$R_{vir}$$.
   </figcaption>
 </figure>
+
+ <figure>
+  <img src="{{ site.baseurl }}/plots/2021-01-21_tree13.png">
+  <figcaption>The figure visualizes the offset between the halos from merger tree with ID13 provided by <b>ROCKSTAR</b> in comparision what we can approximate when summing up dark matter particles within $$5\times$$ the virial radius $$R_{vir}$$.
+  </figcaption>
+</figure>
+
+
  
  
