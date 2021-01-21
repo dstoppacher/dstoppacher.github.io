@@ -24,15 +24,20 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
  
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_mhalo_offset.png">
-  <figcaption>The figure visualizes the offset between the halos from merger tree with ID13 provided by <b>ROCKSTAR</b> in comparision what we can approximate when summing up dark matter particles within $$5\times$$ the virial radius $$R_{vir}$$.
+  <figcaption>The figure visualizes the offset between the halos from merger tree with ID13 provided by <b>ROCKSTAR</b> (x-axis) in comparision what we can approximate when summing up dark matter particles within $5\times$ the virial radius $R_{vir}$ (y-axis).
   </figcaption>
 </figure>
 
+In <i>Figure 1</i> we show the offset 
+
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_Table_treeID13.png">
-  <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt>mhalo-m_particle(%)</tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in \%.
+  <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt>mhalo-m_particle(%)</tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in \%. The halo masses are given in $[h^{-1}M_{\odot}$ and the positions columns <tt>X</tt>, <tt>X</tt>, and <tt>X</tt> in $[h^{-1}comvkpc]$.
   </figcaption>
 </figure>
+
+
+
 
 
  
