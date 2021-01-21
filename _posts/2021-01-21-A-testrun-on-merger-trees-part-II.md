@@ -29,7 +29,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 </figure>
 
  <figure>
-  <img src="{{ site.baseurl }}/plots/2021-01-21_tree13.png">
+  <img src="{{ site.baseurl }}/plots/2021-01-21_Table_treeID13.png">
   <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt></tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in $$\%$$.
   </figcaption>
 </figure>
