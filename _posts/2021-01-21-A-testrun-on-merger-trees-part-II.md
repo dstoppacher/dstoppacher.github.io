@@ -20,7 +20,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
  
  ### Task1: Merger tree verification
  
- In this analysis we scanned through the entire box of <b>Cholla</b> with side-lenght 50$$h^{-1}$$Mpc and a resolution of $$256^3$$. We approximate the halo mass of <b>Cholla</b> buy gathering all dark matter particles within a certain radius (e.g. $$5\times$ the virial radius $$R_{vir}$$). Then we multiplied the number of particel $$n_{particle}$$ by the mass of one dark matter particle in the simulation being $$m_DM=5.407\times10^8$$ $$[h^{-1}M_{\odot}]$$. We compare this result with the halo mass the halo finder <b>ROCKSTAR</b> provided.
+ In this analysis we scanned through the entire box of <b>Cholla</b> with side-lenght 50$$h^{-1}$$Mpc and a resolution of $$256^3$$. We approximate the halo mass of <b>Cholla</b> buy gathering all dark matter particles within a certain radius (e.g. $$5\times$$ the virial radius $$R_{vir}$$). Then we multiplied the number of particel $$n_{particle}$$ by the mass of one dark matter particle in the simulation being $$m_{DM}=5.407\times 10^8$$ $$[h^{-1}M_{\odot}]$$. We compare this result with the halo mass the halo finder <b>ROCKSTAR</b> provided.
  
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_mhalo_offset.png">
@@ -30,7 +30,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
  <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_Table_treeID13.png">
-  <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt></tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in $$\%$$.
+  <figcaption>In this table we list all main progenitor halos for the merger tree $$treeID13$$. The halo mass provided by <b>ROCKSTAR</b> is shown in column <tt>mhalo</tt> and the approximated in column <tt>m_particles</tt>. In column <tt>n_particles</tt> we shown the number of dark matter particles we found to determine the halo mass. In column <tt>mhalo-m_particle(%)</tt> we show the difference between the halo masses from <b>ROCKSTAR</b> and <b>Cholla</b> in \%.
   </figcaption>
 </figure>
 
