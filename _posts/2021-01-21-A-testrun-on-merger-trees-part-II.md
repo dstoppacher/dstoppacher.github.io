@@ -61,7 +61,7 @@ Although the difference in halo masses are significant high, we can still confir
   </figcaption>
 </figure>
  
- #### Position of all main progenitors between 2<z<11
+#### Position of all main progenitors between 2<z<11
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_all_main_prog_2.19_z_11.51.png">
@@ -69,7 +69,7 @@ Although the difference in halo masses are significant high, we can still confir
   </figcaption>
 </figure>
 
- #### Halo mass function (HMF) of all main progenitors between 2<z<11
+#### Halo mass function (HMF) of all main progenitors between 2<z<11
  
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-01-21_HMF_4.15.png">
