@@ -7,3 +7,15 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
   <figcaption>
   </figcaption>
 </figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-02-22_Cholla-256_mhalo1.png">
+  <figcaption>
+  </figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-02-22_Cholla-256_rvir1.png">
+  <figcaption>
+  </figcaption>
+</figure>
