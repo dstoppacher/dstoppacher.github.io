@@ -3,7 +3,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
 
 <figure>
-  <img src="{{ site.baseurl }}/plots/2021-02-22_Cholla_n_particles_shared1.pdf">
+  <img src="{{ site.baseurl }}/plots/2021-02-22_Cholla-256_n_particles_shared1.pdf">
   <figcaption>
   </figcaption>
 </figure>
