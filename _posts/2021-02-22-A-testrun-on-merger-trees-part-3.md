@@ -1,5 +1,5 @@
 
-This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees/">2021-01-21</a>. The following questions are still open will be discussed in this post.
+This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees/">2021-01-21</a>. The following questions are still open will be discussed in this post. Our main goal is to investigate wether the descendent information 'DescID' in the ROCKSTAR standard output can be used to correctlyc track the halo on the main progenitor tree.
 
 
 <figure>
