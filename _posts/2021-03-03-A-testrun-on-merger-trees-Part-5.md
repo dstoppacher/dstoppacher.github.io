@@ -15,7 +15,7 @@
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-03_MB-TreeID79509_delta.png">
-  <figcaption>Redshift evolution ofthe variation in the shared fraction of particle IDs in \% between two halos found by ROCKSTAR and connected by Consitent-Trees. The particle fractions are given in red (fraction of particle of the halo at certain snapshot $$SN_z$$ in comparision to the subsequent $$SN_{z+1}$$) and blue red (fraction of particle of the halo at certain snapshot $$SN_{z+1}$$ in comparision to the subsequent $$SN_z$$) of the halos on the main branch of rootIndex 79509.
+  <figcaption>Redshift evolution ofthe variation in the shared fraction of particle IDs in % between two halos found by ROCKSTAR and connected by Consitent-Trees. The particle fractions are given in red (fraction of particle of the halo at certain snapshot SN(z) in comparision to the subsequent  SN(z+1)) and blue red (fraction of particle of the halo at certain snapshot SN(z+1) in comparision to the subsequent SN(z)) of the halos on the main branch of rootIndex 79509.
   </figcaption>
 </figure>
 
