@@ -1,4 +1,6 @@
 
+<blockquote><tt><b>Summary:</b> In this post we compare the redshift evolution of halo properties of main branch halos using descentend information from a halo finder directly and descented informaiton when a tree builder was run on top. We found that for this particular example of the most massive halo identified in both case that there is little difference between the two approaches when comparing the halo properties. However, if a tree builder is not run then the main branch cannot be followed troughout to redshift z=0.</tt></blockquote>
+
 This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-02-26</a> were we showed results on the median variation of halo properties when following halos on the their main progenitor branch. Thereby we used only descendent information provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. In this post we compare our findings using this simplified approach with results when running the tree finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consitent-Trees (CT)</tt></a>.
 
 <figure>
