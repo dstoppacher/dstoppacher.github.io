@@ -1,3 +1,10 @@
+---
+layout: post
+title: "A testrun on merger trees part III"
+date: 2021-02-22 #Default format is yyyy.mm.dd
+categories: mergertrees
+---
+
 
 This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-II/">2021-02-22</a>. The following questions are still open will be discussed in this post. Our main goal is to investigate wether the descendent information <tt>DescID</tt> in the <b>ROCKSTAR</b> (<a href="https://ui.adsabs.harvard.edu/#abs/2013ApJ...762..109B">Behroozi et al. 2013a</a>) standard output can be used to correctlyc track the halo on the main progenitor tree. To investigate that we use here particle data from the cosmological simulation <b>Cholla</b> (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>) where <b>ROCKSTAR</b> was run on top of it between redshift $$0<z<6$$ (divided into 194 snapshots).
 
