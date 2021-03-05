@@ -13,26 +13,26 @@ We show in Fig. 1 the median values of variation of shared fraction of particle 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_10_90.png">
-  <figcaption>Median values with in 10 and 90 percentiles of the redshift evolution of the variation in the shared fraction of particle IDs in % between two halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The particle fractions are given in dashed blue (fraction of particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1)) and in solid yellow (fraction of particle of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z)) lines of the halos on the main branch of <tt>treeID19</tt>. 
+  <figcaption>Redshift evolution of median values of the variations the fraction of shared particle IDs in % and their estimated errors within 10 and 90 percentiles between direct progenitor halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The dashed blue lines corresponds to the fraction of shared particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1) and the solid yellow line to the fraction of particles of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z) of the halos on the main progenitor branch of <tt>treeID19</tt>. 
   </figcaption>
 </figure>
 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_MM_10_90.png">
-  <figcaption>Median values within 10 and 90 percentiles of the redshift evolution of the variations of halo properties in % between two halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The particle fractions are given in dashed blue (fraction of particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1)) and in solid yellow (fraction of particle of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z)) lines of the halos on the main branch of <tt>treeID19</tt>. 
+  <figcaption>Redshift evolution of median values of the variations of halo properties in % and their estimated errors within 10 and 90 percentiles between direct progenitor halos from <tt>treeID19</tt> found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. 
   </figcaption>
 </figure>
 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_MAD.png">
-  <figcaption>Median values their estimated errors of the redshift evolution of the variation in the shared fraction of particle IDs in % between two halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The particle fractions are given in dashed blue (fraction of particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1)) and in solid yellow (fraction of particle of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z)) lines of the halos on the main branch of <tt>treeID19</tt>. 
+  <figcaption>Redshift evolution of median values of the variations the fraction of shared particle IDs in % and their estimated errors using the MAD between direct progenitor halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The dashed blue lines corresponds to the fraction of shared particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1) and the solid yellow line to the fraction of particles of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z) of the halos on the main progenitor branch of <tt>treeID19</tt>. 
   </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_MAD.png">
-  <figcaption>Median values their estimated errors of the redshift evolution of theevolution of the variations of halo properties in % between two halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The particle fractions are given in dashed blue (fraction of particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1)) and in solid yellow (fraction of particle of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z)) lines of the halos on the main branch of <tt>treeID19</tt>. 
+  <figcaption>Redshift evolution of median values of the variations of halo properties in % and their estimated errors using the MAD between direct progenitor halos from <tt>treeID19</tt> found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. 
   </figcaption>
 </figure>
