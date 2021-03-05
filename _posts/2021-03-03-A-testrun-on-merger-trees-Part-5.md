@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A testrun on merger trees Part 5"
+date: 2021-03-03 #Default format is yyyy.mm.dd
+categories: mergertrees
+---
 
 <blockquote><tt><b>Summary:</b> In this post we compare the redshift evolution of halo properties of main branch halos of the most massive halo in the simulatin using descentend information from a halo finder directly and from a tree finder run on top. We found that there is little difference between the two approaches and that suprisingly less variation in e.g. the fraction of shared particle IDs between two snapshots was found (compare Fig. 3 and Fig. 4). However, if a tree builder is not used then the full redshift history of the particular halo might not be able to be traced (see Fig. 2).</tt></blockquote>
 
