@@ -7,13 +7,13 @@ layout: default
 <div class="PageNavigation">
 
   {% if page.previous %}
-    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;<normal><tt>{{page.previous.title}}</tt></normal></a>
+    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;<small><tt>{{page.previous.title}}</tt></small></a>
     <br>
   {% endif %}
 
 
   {% if page.next %}
-    <a class="next" href="{{ site.baseurl }}{{page.next.url}}"><normal><tt>{{page.next.title}}</tt></normal>&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
+    <a class="next" href="{{ site.baseurl }}{{page.next.url}}"><small><tt>{{page.next.title}}</tt></small>&nbsp;&nbsp;<i class="fa fa-arrow-right"></i> </a>
   {% endif %}  
 
 </div>
