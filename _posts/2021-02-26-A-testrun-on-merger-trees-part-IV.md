@@ -13,7 +13,7 @@ We show in Fig. 1 the median values of variation of shared fraction of particle 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_10_90.png">
-  <figcaption>Redshift evolution of median values of the variations the fraction of shared particle IDs in % and their estimated errors within 10 and 90 percentiles between direct progenitor halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The dashed blue lines corresponds to the fraction of shared particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1) and the solid yellow line to the fraction of particles of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z) of the halos on the main progenitor branch of <tt>treeID19</tt> test. 
+  <figcaption>Redshift evolution of median values of the variations the fraction of shared particle IDs in % and their estimated errors within 10 and 90 percentiles between direct progenitor halos found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. The dashed blue lines corresponds to the fraction of shared particle of the halo at certain snapshot SN(z) in comparison to the subsequent  SN(z+1) and the solid yellow line to the fraction of particles of the halo at certain snapshot SN(z+1) in comparison to the subsequent SN(z) of the halos on the main progenitor branch of <tt>treeID19</tt>. 
   </figcaption>
 </figure>
 
