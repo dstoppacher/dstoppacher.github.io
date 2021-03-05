@@ -32,7 +32,7 @@ We show in Fig. 1 the median values of variation of shared fraction of particle 
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_MAD.png">
+  <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_MM_MAD.png">
   <figcaption>Redshift evolution of median values of the variations of halo properties in % and their estimated errors using the MAD between direct progenitor halos from <tt>treeID19</tt> found by <tt>Rockstar (RS)</tt> and connected by the descendant ID <tt>'DescID'</tt>. 
   </figcaption>
 </figure>
