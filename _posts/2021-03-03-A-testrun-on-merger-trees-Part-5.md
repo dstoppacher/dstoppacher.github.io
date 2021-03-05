@@ -1,4 +1,6 @@
 
+This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-02-26</a> were we showed results on the median variation of halo properties when following halos on the their main progenitor branch. Thereby we used only descendent information provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. In this post we compare our findings using this simplified approach with results when running the tree finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consitent-Trees (CT)</tt></a>.
+
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-03_MB-TreeID79509.png">
   <figcaption>Full merger tree and main branch only of most massive halo with top node rootIndex/treeID 79509. The halo was found by ROCKSTAR and the merger trees build by Consitent-Trees.
