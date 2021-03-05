@@ -5,9 +5,9 @@ date: 2021-02-26 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b>Here we show the median variation of halo properties of main branch halos connected by the descendant information provided by a halo finder without running a tree builder on top of it. The median variations of the halo properties are shown within different uncertainty levels.</tt></blockquote>
+<blockquote><tt><b>Summary:</b> In this post we show the median variations of main branch halo properties connected by the descendant information without running a tree builder on top of it within uncertainties.</tt></blockquote>
 
-This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-III/">2021-02-22</a>. Thereby we use only descendant information as the <tt>'DescID'</tt> provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. we show the redshift  between halos of different snapshots connected by the desctant ID provided by <tt>Rockstar</tt> as a standard output. We show in Fig. 1 the median values of variation of shared fraction of particle IDs with in 10 and 90^{-1
+This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-III/">2021-02-22</a>. Thereby we use only descendant information as the <tt>'DescID'</tt> provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. The halos between snapshots are connected by the desctant ID provided by <tt>Rockstar</tt> as a standard output. We show in Fig. 1 the median values of variation of shared fraction of particle IDs within $$10^{th}$$ and $$90^{th}$$ percentiles. When we need to decide wheter a halo is serves a main progenitor or not in case on halo has various progenitors, then we choose the most massive (MM) one.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-02-26_Cholla256_50Mpc_stats_one_np_MM_10_90.png">
