@@ -5,7 +5,7 @@ date: 2021-03-03 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b> In this post we compare the redshift evolution of halo properties of main branch halos of the most massive halo in the simulation using descendant information from a halo finder directly and from a tree finder run on top. We found that there is little difference between the two approaches and that surprisingly less variation in e.g. the fraction of shared particle IDs between two snapshots was found (compare Fig. 3 and Fig. 4). However, if a tree builder is not used then the full redshift history of the particular halo might not be traced correctly (see Fig. 2).</tt></blockquote>
+<blockquote><tt><b>Summary:</b> In this post we compare the redshift evolution of halo properties using descendant information from a halo finder directly and from a tree finder run on top. We found that there is little difference between the two approaches and that surprisingly less variation in e.g. the fraction of shared particle IDs between two snapshots was found (compare Fig. 3 and Fig. 4). However, if a tree builder is not used then the full redshift history of the particular halo might not be traced correctly (see Fig. 2).</tt></blockquote>
 
 This is the continuation of the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-02-26</a> were we showed results on the median variation of halo properties when following halos on the their main progenitor branch. Thereby we used only descendant information provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. In this post we compare our findings using this simplified approach with results when running the tree finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
 
@@ -31,6 +31,10 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-03_TreeID3_delta.png">
-  <figcaption>Same as in Fig.4 but here the halos were connected only by the descendant ID <tt>descID<\tt> provided directly by <tt>Rockstar</tt>. Interestingly our results show less variations in the fraction of shared particle IDs and halo mass for the most massive halo found in our simulation <tt>treeID3</tt>.
+  <figcaption>Same as in Fig.4 but here the halos were connected only by the descendant ID <tt>descID</tt> provided directly by <tt>Rockstar</tt>. Interestingly our results show less variations in the fraction of shared particle IDs and halo mass for the most massive halo found in our simulation <tt>treeID3</tt>.
   </figcaption>
 </figure>
+
+Possible reason of uncertainties might be:
+
+
