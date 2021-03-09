@@ -31,7 +31,7 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-03_TreeID3_delta.png">
-  <figcaption>Same as in Fig.4 but here the halos were connected only by the descendant ID <tt>descID</tt> provided directly by <tt>Rockstar</tt>. Interestingly our results show less variations in the fraction of shared particle IDs and halo mass for the most massive halo found in our simulation <tt>treeID3</tt>.
+  <figcaption>Same as in Fig.4 but here the halos were connected only by the descendant ID <tt>descID</tt> provided directly by <tt>Rockstar</tt>. Interestingly our results show less variations in the fraction of shared particle IDs and halo mass for the most massive halo found in our simulation <tt>treeID3</tt> (Note that this halo is not the same as in Fig. 3).
   </figcaption>
 </figure>
 
