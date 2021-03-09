@@ -37,4 +37,10 @@ This is the continuation of the post from <a href="https://dstoppacher.github.io
 
 Possible reason of uncertainties might be:
 
+<ol>
+  <li>the resolution of the simulation (only $$256^3$$ particles in a box of 50$$h^{-1}$$Mpc)</li>
+  <li>too large time steps between simulation</li>
+  <li>parameter using for <tt>Consitent-Trees</tt> were not particularly chosen but the default setting used</li>
+</ul>
+
 
