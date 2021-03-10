@@ -21,7 +21,7 @@ to parametrize the halo mass growth history. In Fig. 1 we compare the parametriz
   </figcaption>
 </figure>
 
-In the Fig.2 we show various mass assembly histories of the main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparision with the main brach tree from Fig. 1 <tt>CT-ID79509</tt> and the paramerized function using $$M_0=1 \times 10^{14}$$, $$a_0=1$$, S=2, and $$\alpha=1.33$$.
+In the Fig.2 we show various visually inspected mass assembly histories of the main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparision to the assembly historoy of <tt>CT-ID79509</tt> and various the paramerized functions using $$M_0=1 \times 10^{14}$$, S=2, and values for $$\alpha$$ as indicated in Fig.2.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test2.png">
