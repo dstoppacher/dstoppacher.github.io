@@ -5,7 +5,7 @@ date: 2021-03-10 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b> We use a one parameter model form <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> to parametrize the mass growth history of the main progenitor branch of a merger tree. </tt></blockquote>
+<blockquote><tt><b>Summary:</b> We use a one parameter model form <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> to parametrize the mass assembly history of the main progenitor branch of a merger tree. </tt></blockquote>
 
 We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their Eq.4 and Eq.5, respectively:
 
@@ -14,8 +14,6 @@ $$ a_c= a_0 \alpha/S $$
 $$ M(a) = M_0 \times \exp  \Big[ -a_c S \big(a_0/a - 1\big)  \Big] $$
 
 to parametrize the halo mass growth history. In Fig. 1 we compare the parametrizied mass accrection history using $$M_0$$ as the halo mass our main progenitor halo <tt>TreeID79509</tt> tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt> holds at the snaphost of last detection and the parameter $$S=2$$ and $$\alpha=1.33$$ as suggested by the authors with the main branch progenitor. The merger tree and the main progentiors branch can be found also in Fig. 1 and Fig. 2 in the post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-03-23</a> we use the halo mass at the last snapshot the halo was detected as $$M_0$$ and S=2 and $$\alpha=1.33$$in the funciton.
-  
-  Thereby we used only descendant information provided directly by the halo finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>. In this post we compare our findings using this simplified approach with results when running the tree finder <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-03_test.png">
