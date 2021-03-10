@@ -9,7 +9,7 @@ categories: mergertrees
 
 We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their Eq.5:
 
-$$M(a) = M_0 \times exp \left -a_0*S(a_0/a - 1) \right$$
+$$ M(a) = M_0  exp  \Bigg( -a_0*S(a_0/a - 1)  \Bigg) $$
 
 to parametrize the halo mass growth history. In Fig. 1 we use this parametrization and compare to the mass accrection history of the main branch progenitor halo tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt>. Thereby we use the halo mass at the last snapshot the halo was detected as $$M_0$$ in the funciton.
   
