@@ -5,7 +5,7 @@ date: 2021-03-10 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b> We use a one parameter model form <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> to parameterize the mass assembly history of the main progenitor branch of a merger tree. </tt></blockquote>
+<blockquote><tt><b>Summary:</b> We use a one parameter model from <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> to parameterize the mass assembly history of the main progenitor branch of a merger tree or the most massive progenitor of a halo, respectively. </tt></blockquote>
 
 We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their Eq.4 and Eq.5, respectively:
 
