@@ -34,7 +34,7 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/plots/2021-03-10_test2.png">
+  <img src="{{ site.baseurl }}/plots/2021-03-10_test_median.png">
   <figcaption>Median mass accretion history all most massive progenitor halos identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  (solid red line, the shaded region represent the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
