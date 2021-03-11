@@ -25,7 +25,7 @@ In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$
   </figcaption>
 </figure>
 
-In the <b>Fig.2</b> we show various visually inspected mass assembly histories of the main progenitor trees found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> (solid colored lines) in comparison to the assembly history of <tt>CT-ID79509</tt> and various the paramerized functions using $$M_0=1 \times 10^{14}$$ $$[h^{-1}M_{\odot}]$$, $$S=2$$, and values for $$\alpha$$ as indicated in <b>Fig.2</b>.
+In the <b>Fig.2</b> we show various visually inspected mass assembly histories of the main progenitor trees found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> (solid colored lines) in comparison to the assembly history of <tt>CT-ID79509</tt> and various the parameterized functions using $$M_0=1 \times 10^{14}$$ $$[h^{-1}M_{\odot}]$$, $$S=2$$, and values for $$\alpha$$ as indicated in <b>Fig.2</b>. In <b>Fig.3</b> we show the median mass accretion history within uncertainties for all identified halos and their most massive progenitors.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test2.png">
@@ -35,6 +35,6 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test_median.png">
-  <figcaption>Median mass accretion history all most massive progenitor halos identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  (solid red line, the shaded region represent the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the free parameter alpha (solid, dashed, and dotted black lines).
+  <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
