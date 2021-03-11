@@ -38,3 +38,6 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
+
+Download the <i>Jupyter-Lab</i> file for these plots:  <a href=""><tt>Parameterization_test.ipynb</tt></a>
+Go to <i>PyLysis</i> package for halo analysis: <a href=""><tt>Parameterization_test.ipynb</tt></a>
