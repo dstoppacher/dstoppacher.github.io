@@ -25,6 +25,6 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test2.png">
-  <figcaption>Compilation of visual inspected main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparison to the parameterized function using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha.
+  <figcaption>Compilation of visual inspected main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparison to the parameterized function using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
