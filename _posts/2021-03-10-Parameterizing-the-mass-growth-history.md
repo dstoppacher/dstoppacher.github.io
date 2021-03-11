@@ -17,7 +17,7 @@ to parametrize the halo mass growth history. In <b>Fig.1</b> we compare the para
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test.png">
-  <figcaption>Mass accretion history of the main branch halo with top node ID <tt>CT-ID79509</tt> as solid line and parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a>. The halo was found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
+  <figcaption>Mass accretion history of the main branch halo with top node ID <tt>CT-ID79509</tt> as solid blue line and parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> as dashed black line. The halo was found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
   </figcaption>
 </figure>
 
