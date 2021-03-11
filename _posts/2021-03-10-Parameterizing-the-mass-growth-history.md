@@ -13,7 +13,11 @@ $$ a_c= a_0 \alpha/S \text{  (1)}$$
 
 $$ M(a) = M_0 \times \exp  \Big[ -a_c S \big(a_0/a - 1\big)  \Big] \text{  (2)}$$
 
-to parametrize the halo mass growth history. In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$$ as the halo mass our main progenitor halo <tt>CT-ID79509</tt> found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> holds at the snapshot of last detection. More details about this particular tree can be found in <b>Fig.1</b> and <b>Fig.2</b> our previous post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-03-03</a>. We further us $$S=2$$, and $$\alpha=1.33$$ in the equations (1) and (2).
+to parametrize the halo mass growth history. $$\alpha$$ is the singe free parameter in the model and can be related to a characteristic epoch of formation $$a_c$$. $$a_c$$ is defined as the expansion factor $$a$$ when the logarithmic slope of the accrection rad $$d\log M/d\log a$$ fals below some spepcified value $$S$$. $$S$$ is connected via $$a_c$$ to the singe free parameter $$\alpha$$ as $$a_c=\alpha/S$$. In the same way the formation epoch is defined for any "observing" epoch $$z_0$$ by replacing $$a$$ by $$a/a_0$$ to find Eq.(1).
+
+At any observing redshif $$z_0$$ with the scale factor $$a_0=1/(1+z_0)$$ and the mass of the halo $$M_0=M(z_0)$$ the mass growth is fit by Eq.(2). For more details please see Sec.4 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a>.
+
+In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$$ as the halo mass our main progenitor halo <tt>CT-ID79509</tt> found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> holds at the snapshot of last detection. More details about this particular tree can be found in <b>Fig.1</b> and <b>Fig.2</b> our previous post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-03-03</a>. We further us $$S=2$$, and $$\alpha=1.33$$ in the Eq.(1) and Eq.(2).
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test.png">
