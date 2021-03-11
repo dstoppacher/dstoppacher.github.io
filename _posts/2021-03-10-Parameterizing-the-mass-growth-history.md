@@ -39,4 +39,5 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   </figcaption>
 </figure>
 
-Python script for figure in this post can be found <a href="https://dstoppacher.github.io/python_scripts/2021-03-10_Parameterization_test.py"><tt>here</tt></a>
+
+A <i>Python</i> script which creates the figures in this post can be found <a href="https://dstoppacher.github.io/python_scripts/2021-03-10_Parameterization_test.py"><tt>here</tt></a>
