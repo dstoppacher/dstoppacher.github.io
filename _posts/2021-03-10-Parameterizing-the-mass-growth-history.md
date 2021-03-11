@@ -39,5 +39,4 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   </figcaption>
 </figure>
 
-Download the <i>Jupyter-Lab</i> file for these plots:  <a href=""><tt>Parameterization_test.ipynb</tt></a>
-Go to <i>PyLysis</i> package for halo analysis: <a href=""><tt>Parameterization_test.ipynb</tt></a>
+Python script for figure in this post can be found <a href="https://dstoppacher.github.io/python_scripts/2021-03-10_Parameterization_test.py"><tt>here</tt></a>
