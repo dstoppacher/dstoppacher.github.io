@@ -39,5 +39,10 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   </figcaption>
 </figure>
 
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-03-15_Parameterization_Test_CT.png">
+  <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
+  </figcaption>
+</figure>
 
 A <i>Python</i> script which creates the figures in this post can be found <a href="https://dstoppacher.github.io/python_scripts/2021-03-10_Parameterization_test.py"><tt>here</tt></a>
