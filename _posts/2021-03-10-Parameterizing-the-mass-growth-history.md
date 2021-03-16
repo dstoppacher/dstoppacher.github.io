@@ -7,6 +7,8 @@ categories: mergertrees
 
 <blockquote><tt><b>Summary:</b> We use a one parameter model from <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> to parameterize the mass assembly history of the main progenitor branch of a merger tree or the most massive progenitor of a halo, respectively. </tt></blockquote>
 
+### Background
+
 We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their Eq.4 and Eq.5, respectively:
 
 $$ a_c= a_0 \alpha/S \text{  (1)}$$
@@ -25,6 +27,8 @@ In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$
   </figcaption>
 </figure>
 
+### Parameterization Test with using custom-built trees \& Consitent-Trees
+
 In the <b>Fig.2</b> we show various visually inspected mass assembly histories of the main progenitor trees found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> (solid colored lines) in comparison to the assembly history of <tt>CT-ID79509</tt> and various the parameterized functions using $$M_0=1 \times 10^{14}$$ $$[h^{-1}M_{\odot}]$$, $$S=2$$, and values for $$\alpha$$ as indicated in <b>Fig.2</b>. In <b>Fig.3</b> we show the median mass accretion history within uncertainties for all identified halos and their most massive progenitors.
 
 <figure>
@@ -38,6 +42,18 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
+
+### Parameterization Test using only trees from Consitent-Trees
+
+Here we show plots using the merger tree information from Consiten-Trees. In Fig. 5 we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In Fig.6 we show in different colors selected merger trees from that box, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224).
+
+
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-03-11_all_CT.png">
+  <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
+  </figcaption>
+</figure>
+
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-15_Parameterization_Test_CT.png">
