@@ -43,7 +43,7 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
   </figcaption>
 </figure>
 
-### Parameterization Test using only trees from Consitent-Trees
+### Parameterization Test using only trees from <i>Consitent-Trees</i>
 
 Here we show plots using the merger tree information from Consiten-Trees. In <b>Fig.4</b> we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In <b>Fig.5</b> and <b>Fig.6</b> we show in the redshift evolution of the position of selected mergertrees from the same box, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224).
 
@@ -64,7 +64,6 @@ Here we show plots using the merger tree information from Consiten-Trees. In <b>
   <figcaption>Positions and identification numbers of selected merger trees as shown in <b>Fig.5</b> and indicated in the description. Among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224) as indicated by the colors.
   </figcaption>
 </figure>
-
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-16_selected_traj_CT.png">
