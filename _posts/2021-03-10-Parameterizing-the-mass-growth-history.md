@@ -15,15 +15,15 @@ $$ a_c= a_0 \alpha/S \text{  (1)}$$
 
 $$ M(a) = M_0 \times \exp  \Big[ -a_c S \big(a_0/a - 1\big)  \Big] \text{  (2)}$$
 
-to parametrize the halo mass growth history. $$\alpha$$ is the singe free parameter in the model and can be related to a characteristic epoch of formation $$a_c$$. $$a_c$$ is defined as the expansion factor $$a$$ when the logarithmic slope of the accretion rate $$d\log M/d\log a$$ falls below some specified value $$S$$. $$S$$ is connected via $$a_c$$ to the singe free parameter $$\alpha$$ as $$a_c=\alpha/S$$. In the same way the formation epoch is defined for any "observing" epoch $$z_0$$ by replacing $$a$$ by $$a/a_0$$ to find Eq.(1).
+to parametrize the halo mass growth history. $$\alpha$$ is the singe free parameter in the model and can be related to a characteristic epoch of formation $$a_c$$. $$a_c$$ is defined as the expansion factor $$a$$ when the logarithmic slope of the accretion rate $$d\log M/d\log a$$ falls below some specified value $$S$$. $$S$$ is connected via $$a_c$$ to the singe free parameter $$\alpha$$ as $$a_c=\alpha/S$$. In the same way the formation epoch is defined for any "observing" epoch $$z_0$$ by replacing $$a$$ by $$a/a_0$$ to find <i>Eq.(1)</i>.
 
-At any observing redshift $$z_0$$ with the scale factor $$a_0=1/(1+z_0)$$ and the mass of the halo $$M_0=M(z_0)$$ the mass growth is fit by Eq.(2). For more details please see Sec.4 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a>.
+At any observing redshift $$z_0$$ with the scale factor $$a_0=1/(1+z_0)$$ and the mass of the halo $$M_0=M(z_0)$$ the mass growth is fit by <i>Eq.(2)</i>. For more details please see <i>Sec.(4)</i> in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a>.
 
-In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$$ as the halo mass our main progenitor halo <tt>CT-ID79509</tt> found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> holds at the snapshot of last detection. More details about this particular tree can be found in <b>Fig.1</b> and <b>Fig.2</b> our previous post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-03-03</a>. We further us $$S=2$$, and $$\alpha=1.33$$ in the Eq.(1) and Eq.(2).
+In <b>Fig.1</b> we compare the parameterized mass accretion history using $$M_0$$ as the halo mass our main progenitor halo <tt>CT-ID79509</tt> found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> holds at the snapshot of last detection. More details about this particular tree can be found in <b>Fig.1</b> and <b>Fig.2</b> our previous post from <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-4/">2021-03-03</a>. We further us $$S=2$$, and $$\alpha=1.33$$ in the <i>Eq.(1)</i> and <i>Eq.(2)</i>.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test.png">
-  <figcaption>Mass accretion history of the main branch halo with top node ID <tt>CT-ID79509</tt> as solid blue line and parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> as dashed black line. The halo was found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
+  <figcaption>Mass accretion history of the main branch halo with top node ID <tt>CT-ID79509</tt> as solid blue line and parameterized using <i>Eq.5</i> in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> as dashed black line. The halo was found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>.
   </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-10_test2.png">
-  <figcaption>Compilation of visual inspected main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparison to the parameterized function using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha (solid, dashed, and dotted black lines).
+  <figcaption>Compilation of visual inspected main progenitor trees found by <tt>Rockstar (RS)</tt> (solid colored lines) in comparison to the parameterized function using <i>Eq.5</i> in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 
 ### Parameterization test using only trees from "Consitent-Trees"
 
-Here we show plots using the merger tree information from Consiten-Trees. In <b>Fig.4</b> we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In <b>Fig.5</b> and <b>Fig.6</b> we show in the redshift evolution of the position of selected mergertrees from the same box, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224) as indicated by the colors. Inf <b>Fig.7</b> we shown the trajectories of four selectd merger trees from <b>Fig.6</b>. The scale factor of each snapshot is represented by the colorbar. Their main branch is marked by a black open cycle. In <b>Fig.7</b> we use the main brachnes of our selected halos shown in <b>Fig.6</b> and calculated the mass accrection history of each individual treeand main branch. Median mass accretion history incorporating all halos on the main branch as shown in <b>Fig.5</b> within its uncertainty.
+Here we show plots using the merger tree information from Consiten-Trees. In <b>Fig.4</b> we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In <b>Fig.5</b> and <b>Fig.6</b> we show in the redshift evolution of the position of selected mergertrees from the same box, among them the most massive (<tt>CT-ID79509</tt>), largest (<tt>CT-ID79622</tt>), and least massive trees (<tt>CT-ID79224<tt>) as indicated by the colors. Inf <b>Fig.7</b> we shown the trajectories of four selectd merger trees from <b>Fig.6</b>. The scale factor of each snapshot is represented by the colorbar. Their main branch is marked by a black open cycle. In <b>Fig.7</b> we use the main brachnes of our selected halos shown in <b>Fig.6</b> and calculated the mass accrection history of each individual treeand main branch. Median mass accretion history incorporating all halos on the main branch as shown in <b>Fig.5</b> within its uncertainty.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-11_all_CT.png">
@@ -61,7 +61,7 @@ Here we show plots using the merger tree information from Consiten-Trees. In <b>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-11_selected_indv_color_CT.png">
-  <figcaption>Positions and identification numbers of selected merger trees as shown in <b>Fig.5</b> and indicated in the description. Among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224) as indicated by the colors.
+  <figcaption>Positions and identification numbers of selected merger trees as shown in <b>Fig.5</b> and indicated in the description. Among them the most massive (<tt>CT-ID79509</tt>), largest (<tt>CT-ID79622</tt>),and least massive trees (<tt>CT-ID79224<tt>) as indicated by the colors.
   </figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Here we show plots using the merger tree information from Consiten-Trees. In <b>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-15_Parameterization_Test_CT.png">
-  <figcaption>Median mass accretion history incorporating all halos on the main branch as shown in <b>Fig.5</b> (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
+  <figcaption>Median mass accretion history incorporating all halos on the main branch as shown in <b>Fig.5</b> (solid red line, the shaded region represents the median absolute deviation) parameterized using <i>Eq.5</i> in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
 
