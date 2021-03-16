@@ -45,42 +45,42 @@ In the <b>Fig.2</b> we show various visually inspected mass assembly histories o
 
 ### Parameterization Test using only trees from Consitent-Trees
 
-Here we show plots using the merger tree information from Consiten-Trees. In Fig. 5 we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In Fig.6 and Fig.7we show in the redshift evolution of the position of selected mergertrees from the same box, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224).
+Here we show plots using the merger tree information from Consiten-Trees. In <b>Fig.4</b> we show the posistions of all halos found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> in the 3D-box of Cholla-256 with a side-lenght of 50$$h^{-1}$$Mpc. In <b>Fig.5</b> and <b>Fig.6</b> we show in the redshift evolution of the position of selected mergertrees from the same box, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224).
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-11_all_CT.png">
-  <figcaption>Redshift evolution of the positions of all halos and their corresponding trees found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> from the Cholla-256 simulation with a side-lenght of 50$$h^{-1}$$Mpc. The scale factor of each snapshot is represented by the colorbar.
+  <figcaption>Redshift evolution of the positions of all halos and their corresponding trees found by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  and tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> from the Cholla-256 simulation with a side-lenght of 50h-1Mpc. The scale factor of each snapshot is represented by the colorbar.
   </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-11_selected_CT.png">
-  <figcaption>Redshift evolution of the positions of selected merger trees tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> from the Cholla-256 simulation with a side-lenght of 50$$h^{-1}$$Mpc. The scale factor of each snapshot is represented by the colorbar.
+  <figcaption>Redshift evolution of the positions of selected merger trees as in <b>Fig.4</b>.
   </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-11_selected_indv_color_CT.png">
-  <figcaption>Positions of selected merger trees tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> from the Cholla-256 simulation with a side-lenght of 50$$h^{-1}$$Mpc$$, among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224) as indicated by the colors.
+  <figcaption>Positions and identification numbers of selected merger trees as shown in <b>Fig.5</b> and indicated in the description. Among them the most massive (CT-ID79509), largest (CT-ID79622) and the least massive trees (CT-ID79224) as indicated by the colors.
   </figcaption>
 </figure>
 
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-16_selected_traj_CT.png">
-  <figcaption>Redshift evolution of the positions of four selected merger trees shown in Fig.8 tracked by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> from the Cholla-256 simulation with a side-lenght of 50$$h^{-1}$$Mpc. The scale factor of each snapshot is represented by the colorbar. Their main branch is marked by a black open cycle.
+  <figcaption>Trajectories of four selected merger trees shown in <b>Fig.6</b>. The scale factor of each snapshot is represented by the colorbar. Their main branch is marked by a black open cycle.
   </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-16_Parameterization_Test_selected_CT.png">
-  <figcaptionP>arameterized function of our selected merger trees from Fig.8 using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha and M_0 (solid, dashed, and dotted black lines).
+  <figcaption>Parameterized function of our selected merger trees from <b>Fig.6</b> using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> using various values for the parameter alpha and M_0 (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-03-15_Parameterization_Test_CT.png">
-  <figcaption>Median mass accretion history incorporating all halos and their most massive progenitor identified in the simulation with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a>  and the merger trees build by <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a> (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
+  <figcaption>Median mass accretion history incorporating all halos as shown in <b>Fig.5</b> (solid red line, the shaded region represents the median absolute deviation) parameterized using Ep.5 in <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and various values for the free parameter alpha (solid, dashed, and dotted black lines).
   </figcaption>
 </figure>
 
