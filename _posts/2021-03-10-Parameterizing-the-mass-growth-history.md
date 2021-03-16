@@ -9,7 +9,7 @@ categories: mergertrees
 
 ### Theoretical background
 
-We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their Eq.4 and Eq.5, respectively:
+We use the approach of <a href="https://ui.adsabs.harvard.edu/abs/2002ApJ...568...52W/abstract">Wechsler et al. 2002</a> and their <i>Eq.4</i> and <i>Eq.5</i>, respectively:
 
 $$ a_c= a_0 \alpha/S \text{  (1)}$$
 
