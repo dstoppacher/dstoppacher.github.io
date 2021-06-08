@@ -59,7 +59,7 @@ In this post we compare mass accrection and growth history of halos from various
  For comparision reason the redshift evolution of $$V_{max}$$.
    
   <figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-fraction_var-sims.png.png">
+  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-fraction_var-sims.png">
   <figcaption>Fractional variation in % of the V_max property of most massive top node halos from various dark matter simulations.
   </figcaption>
 </figure>
