@@ -27,7 +27,7 @@ In this post we compare mass accrection and growth history of halos from various
  For comparision reason the redshift evolution of $$V_{max}$$.
 
   <figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-growth_most_massive_var-sims.png">
+  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
   <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
   </figcaption>
 </figure>
@@ -39,12 +39,6 @@ In this post we compare mass accrection and growth history of halos from various
   <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
   </figcaption>
 </figure>
-    
-<figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
-  <figcaption>Mass accretion histories of most massive top node halos from various dark matter simulations.
-  </figcaption>
-</figure>  
 
 ### Halo mass growth history compared to its final mass
 
@@ -57,7 +51,7 @@ In this post we compare mass accrection and growth history of halos from various
 ### Fractional variation of the mass accrection history (MAH)
   
   <figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir_most_massive_var-sims.png">
+  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir_fraction_var-sims.png">
   <figcaption>Fractional variation in % of the mass growth histories of most massive top node halos from various dark matter simulations.
   </figcaption>
 </figure>
@@ -65,7 +59,7 @@ In this post we compare mass accrection and growth history of halos from various
  For comparision reason the redshift evolution of $$V_{max}$$.
    
   <figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
+  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-fraction_var-sims.png.png">
   <figcaption>Fractional variation in % of the V_max property of most massive top node halos from various dark matter simulations.
   </figcaption>
 </figure>
