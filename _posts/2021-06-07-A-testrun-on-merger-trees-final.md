@@ -5,7 +5,7 @@ date: 2021-06-07 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary: We evaluate the mass accrection history of 512-Cholla halos and compare to MultiDark simulation boxes</tt></blockquote>
+<blockquote><tt><b>Summary: We evaluate the mass accrection history of 512-Cholla halos and compare to MultiDark simulation boxes</b></tt></blockquote>
 
 ### Halo Mass Growth History
   
