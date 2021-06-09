@@ -42,7 +42,7 @@ In this post we compare mass accretion and growth histories of halos from variou
     </ul>
 </ul>
 
-All three simulations have comparable cosmologies and use the same <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>RS</tt></a>-configurations (e.g. FOF refinment: 0.7, linking length: 0.28, unbound threshold: 0.5). <small>The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi and pr47no (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).</small>  
+<small>All three simulations have comparable cosmologies and use the same <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>RS</tt></a>-configurations (e.g. FOF refinment: 0.7, linking length: 0.28, unbound threshold: 0.5). The 3840-SMDPL and 3840-VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi and pr47no (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).</small>  
   
 ### Halo mass assembly history
   
