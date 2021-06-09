@@ -22,10 +22,10 @@ In this post we compare mass accrection and growth history of halos from various
 and <a href="https://www.cosmosim.org/cms/simulations/vsmdpl/"><tt>Very Small MultiDark Planck</tt></a>
 
 <ul class="post-list">
-  <li>thereafter <tt>3840-VSMDPL</tt> <a href="https://arxiv.org/abs/1411.4001"><Klypin et al. 2016</a></li>
-  <li>160$$h^{-1}$$Mpc box</li>
-  <li>particle mass $$M_p=6.20\times 10^7$$ $$h^{-1}M_{\odot}$$</li>
-  <li>force resolution: 1.5$$h^{-1}$$kpc </li>  
+  <li>hereafter <tt>3840-VSMDPL</tt> <a href="https://arxiv.org/abs/1411.4001"><Klypin et al. 2016</a></li>
+  <li>160 h-1Mpc box</li>
+  <li>particle mass 6.20x10^7 h-1Msun/li>
+  <li>force resolution: 1.5 h-1kpc </li>  
 </ul>
 
 dark matter only simulation to compare to Cholla. Here we also summarize the Cholla configuration:
