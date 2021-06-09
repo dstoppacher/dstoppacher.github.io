@@ -13,28 +13,28 @@ In our previous posts we studied the accrection history of main branches with Ro
   
 In this post we compare mass accrection and growth history of halos from various dark matter simulation all run with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>RS</tt></a> and <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>CT</tt></a>. We use a new version of Cholla-512 with a higher resolution of $$512^3$$ particles but equal initial conditions. The purpose of this post is to verify that the obtained halo catalog from Cholla-512 and merger trees are valid to develop a star formation feedback model on its basis. We use <a href="https://www.cosmosim.org/cms/simulations/smdpl/"><tt>Small MultiDark Planck</tt></a> 
 <ul class="post-list">
-  <li>thereafter <tt>3840-SMDPL</tt> <a href="https://arxiv.org/abs/1411.4001"><Klypin et al. 2016</a></li>
-  <li>400$$h^{-1}$$Mpc box</li>
-  <li>particle mass $$M_p=9.63\times 10^7$$ $$h^{-1}M_{\odot}$$</li>
-  <li>force resolution: 1.5$$h^{-1}$$kpc </li>  
+  <li>thereafter <tt>3840-SMDPL</tt> <a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a></li>
+  <li>400 h-1Mpc box</li>
+  <li>particle mass 9.63x10^7 h-1Msun/li>
+  <li>force resolution: 1.5 h-1kpc </li>  
 </ul>
 
-and <a href="https://www.cosmosim.org/cms/simulations/vsmdpl/"><tt>Very Small MultiDark Planck</tt></a>
+and the <a href="https://www.cosmosim.org/cms/simulations/vsmdpl/"><tt>Very Small MultiDark Planck</tt></a>
 
 <ul class="post-list">
-  <li>hereafter <tt>3840-VSMDPL</tt> <a href="https://arxiv.org/abs/1411.4001"><Klypin et al. 2016</a></li>
+  <li>hereafter <tt>3840-VSMDPL</tt> <a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a></li>
   <li>160 h-1Mpc box</li>
-  <li>particle mass 6.20x10^7 h-1Msun/li>
-  <li>force resolution: 1.5 h-1kpc </li>  
+  <li>particle mass 6.20x10^6 h-1Msun/li>
+  <li>force resolution: -- </li>  
 </ul>
 
 dark matter only simulation to compare to Cholla. Here we also summarize the Cholla configuration:
 
 <ul class="post-list">
   <li>thereafter <tt>512-Cholla</tt></li>
-  <li>50$$h^{-1}$$Mpc box</li>
-  <li>particle mass $$M_p=8.04\times 10^7$$ $$h^{-1}M_{\odot}$$</li>
-  <li>force resolution: 97.7$$h^{-1}$$kpc </li>  
+  <li>50 h-1Mpc box</li>
+  <li>particle mass 8.04x10^7 h-1Msun/li>
+  <li>force resolution: 97.7 h-1kpc </li>  
 </ul>
 
 All three simulations have comparable cosmolog and use the same ROCKSTAR-configuration. The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).
