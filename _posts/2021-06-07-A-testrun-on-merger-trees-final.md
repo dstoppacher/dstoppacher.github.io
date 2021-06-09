@@ -59,27 +59,21 @@ The 512-Cholla main branch halos show considerable variations in the mass accrec
   </figcaption>
 </figure>
   
-### Halo mass growth history compared to their final masses
+### Halo mass growth history normalized by their final masses
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir-growth_most_massive_var-sims.png">
-  <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
+  <figcaption>Halo mass growth histories of most massive top-node halos from various dark matter simulation normalised by there final mass.
   </figcaption>
 </figure>
 
-### Halo mass growth history compared to its final mass
-
-<figure>
-  <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir-growth_most_massive_var-sims.png">
-  <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
-  </figcaption>
-</figure>
+The growth history normalized by the final halo mass of each main progenitor draws a similar picture as Fig.1 and Fig.2. Two of the three selected most massive top-node halos show considerable dips in the growth function.
   
 ### Fractional variation of the mass accrection history (MAH)
   
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir_fraction_var-sims.png">
-  <figcaption>Fractional variation in % of the mass growth histories of most massive top node halos from various dark matter simulations.
+  <figcaption>Fractional variation in % of the mass growth histories of most massive top-node halos from various dark matter simulations.
   </figcaption>
 </figure>
 
@@ -87,7 +81,7 @@ The 512-Cholla main branch halos show considerable variations in the mass accrec
    
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-fraction_var-sims.png">
-  <figcaption>Fractional variation in % of the V_max property of most massive top node halos from various dark matter simulations.
+  <figcaption>Fractional variation in % of the V_max property of most massive top-node halos from various dark matter simulations.
   </figcaption>
 </figure>
 
