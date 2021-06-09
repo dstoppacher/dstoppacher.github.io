@@ -11,9 +11,10 @@ categories: mergertrees
 
 In our previous posts we studied the accrection history of main branches with Rockstar and also parameterized the mass growth history. We used therefore the 256-Cholla dark matter simulation run a side-length of 50$$h^{-1}$$Mpc box with a total amount of particle of $$256^3$$ (see these references for details on the Cholla code <a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>).  We used further <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>Rockstar (RS)</tt></a> to find halos and tracked them with the tree-builder code <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>Consistent-Trees (CT)</tt></a>. However, we used an older version of CT, namely 1.00, in all previous posts. There was an update of it released as 1.01 which has the advantage to easily extracth the main progenitor branch of any top-node halo. More information on that procedure can be found on <a href="https://www.cosmosim.org/cms/documentation/database-structure/merger-trees/"><tt>CosmoSim-documentation</tt></a> and in <a href="https://arxiv.org/abs/1602.04813v2"><tt>Rodriguez-Puebla et al. 2016</tt></a> and <a href="https://ui.adsabs.harvard.edu/abs/2013AN....334..691R/abstract"><tt>Riebe et al. 2013</tt></a>.
   
-In this post we compare mass accrection and growth history of halos from various dark matter simulation all run with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>RS</tt></a> and <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>CT</tt></a>. We use a new version of Cholla-512 with a higher resolution of $$512^3$$ particles but equal initial conditions. The purpose of this post is to verify that the obtained halo catalog from Cholla-512 and merger trees are valid to develop a star formation feedback model on its basis. We use <a href="https://www.cosmosim.org/cms/simulations/smdpl/"><tt>Small MultiDark Planck</tt></a> 
+In this post we compare mass accrection and growth history of halos from various dark matter simulation all run with <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10008B/abstract"><tt>RS</tt></a> and <a href="https://ui.adsabs.harvard.edu/abs/2012ascl.soft10011B/abstract"><tt>CT</tt></a>. We use a new version of Cholla-512 with a higher resolution of $$512^3$$ particles but equal initial conditions. The purpose of this post is to verify that the obtained halo catalog from Cholla-512 and merger trees are valid to develop a star formation feedback model on its basis. We use <a href="https://www.cosmosim.org/cms/simulations/smdpl/"><tt>Small MultiDark Planck</tt></a>
+
 <ul class="post-list">
-  <li>thereafter <tt>3840-SMDPL</tt> <a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a></li>
+  <li>hereafter <tt>3840-SMDPL</tt> <a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a></li>
   <li>400 h-1Mpc box</li>
   <li>particle mass 9.63x10^7 h-1Msun/li>
   <li>force resolution: 1.5 h-1kpc </li>  
@@ -31,7 +32,7 @@ and the <a href="https://www.cosmosim.org/cms/simulations/vsmdpl/"><tt>Very Smal
 dark matter only simulation to compare to Cholla. Here we also summarize the Cholla configuration:
 
 <ul class="post-list">
-  <li>thereafter <tt>512-Cholla</tt></li>
+  <li>hereafter <tt>512-Cholla</tt></li>
   <li>50 h-1Mpc box</li>
   <li>particle mass 8.04x10^7 h-1Msun/li>
   <li>force resolution: 97.7 h-1kpc </li>  
