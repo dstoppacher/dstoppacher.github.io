@@ -41,7 +41,7 @@ In this post we compare mass accrection and growth history of halos from various
       <li>force resolution: 97.7 h-1kpc </li>  
     </ul>
 </ul>
-All three simulations have comparable cosmolog and use the same ROCKSTAR-configuration. The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).  
+All three simulations have comparable cosmologies and use the same ROCKSTAR-configurations (FOF refi 0.7, linking lenght 0.28, unbound threshold 0.5). The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi and pr47no q(PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).  
   
 ### Halo mass accembly history
   
@@ -51,9 +51,9 @@ All three simulations have comparable cosmolog and use the same ROCKSTAR-configu
   </figcaption>
 </figure>
   
- For comparision reason the redshift evolution of $$V_{max}$$.
+For comparision reason the redshift evolution of $$V_{max}$$.
 
-  <figure>
+<figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
   <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
   </figcaption>
