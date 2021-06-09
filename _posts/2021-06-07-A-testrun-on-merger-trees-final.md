@@ -16,28 +16,28 @@ In this post we compare mass accrection and growth history of halos from various
 <ul class="post-list">
   <li><a href="https://www.cosmosim.org/cms/simulations/smdpl/"><tt>Small MultiDark Planck</tt></a></li>
       <ul class="post-list">
-        <li>3840^3 particles</li>
-        <li>hereafter <tt>3840-SMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
-        <li>400 h-1Mpc box</li>
-        <li>particle mass 9.63x10^7 h-1Msun</li>
+        <li>resolution: 3840^3 particles</li>
+        <li>hereafter: <tt>3840-SMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
+        <li>box side-length: 400 h-1Mpc</li>
+        <li>particle mass: 9.63x10^7 h-1Msun</li>
         <li>force resolution: 1.5 h-1kpc </li>  
       </ul>
 
   <li><a href="https://www.cosmosim.org/cms/simulations/vsmdpl/"><tt>Very Small MultiDark Planck</tt></a></li>
     <ul class="post-list">
-      <li>3840^3 particles</li>
-      <li>hereafter <tt>3840-VSMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
-      <li>160 h-1Mpc box</li>
-      <li>particle mass 6.20x10^6 h-1Msun</li>
+      <li>resolution: 3840^3 particles</li>
+      <li>hereafter: <tt>3840-VSMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
+      <li>box side-length: 160 h-1Mpc</li>
+      <li>particle mass: 6.20x10^6 h-1Msun</li>
       <li>force resolution: -- </li>  
     </ul>
 
-  <li>Cholla</li>
+  <li><tt>Cholla</tt></li>
     <ul class="post-list">
-      <li>512^3 particles</li>
-      <li>hereafter <tt>512-Cholla</tt> (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>)</li>
-      <li>50 h-1Mpc box</li>
-      <li>particle mass 8.04x10^7 h-1Msun</li>
+      <li>resolution: 512^3 particles</li>
+      <li>hereafter: <tt>512-Cholla</tt> (<a href="https://ui.adsabs.harvard.edu/abs/2015ApJS..217...24S">Schneider &amp; Robertson 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200906652V">Villase&ntilde;or et al. 2020</a>)</li>
+      <li>box side-length: 50 h-1Mpc</li>
+      <li>particle mass: 8.04x10^7 h-1Msun</li>
       <li>force resolution: 97.7 h-1kpc </li>  
     </ul>
 </ul>
