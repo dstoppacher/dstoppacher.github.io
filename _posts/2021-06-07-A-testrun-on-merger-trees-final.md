@@ -19,7 +19,7 @@ In this post we compare mass accrection and growth history of halos from various
         <li>3840^3 particles</li>
         <li>hereafter <tt>3840-SMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
         <li>400 h-1Mpc box</li>
-        <li>particle mass 9.63x10^7 h-1Msun/li>
+        <li>particle mass 9.63x10^7 h-1Msun</li>
         <li>force resolution: 1.5 h-1kpc </li>  
       </ul>
 
@@ -28,7 +28,7 @@ In this post we compare mass accrection and growth history of halos from various
       <li>3840^3 particles</li>
       <li>hereafter <tt>3840-VSMDPL</tt> (<a href="https://arxiv.org/abs/1411.4001">Klypin et al. 2016</a>)</li>
       <li>160 h-1Mpc box</li>
-      <li>particle mass 6.20x10^6 h-1Msun/li>
+      <li>particle mass 6.20x10^6 h-1Msun</li>
       <li>force resolution: -- </li>  
     </ul>
 
@@ -41,10 +41,7 @@ In this post we compare mass accrection and growth history of halos from various
       <li>force resolution: 97.7 h-1kpc </li>  
     </ul>
 </ul>
-All three simulations have comparable cosmolog and use the same ROCKSTAR-configuration. The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).
- 
-  
-  
+All three simulations have comparable cosmolog and use the same ROCKSTAR-configuration. The SMDPL and VSMDPL simulation and halo finding has been performed at LRZ Munich within the project pr87yi (PI: Stefan Gottloeber). <a href="www.cosmosim.org">The CosmoSim database</a> providing the file access is a service by the Leibniz-Institute for Astrophysics Potsdam (AIP).  
   
 ### Halo mass accembly history
   
