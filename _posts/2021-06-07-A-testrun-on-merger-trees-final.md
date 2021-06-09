@@ -47,15 +47,15 @@ All three simulations have comparable cosmologies and use the same ROCKSTAR-conf
   
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir_most_massive_var-sims.png">
-  <figcaption>Mass accretion histories of most massive top node halos from various dark matter simulations.
+  <figcaption>Mass accretion histories of halo masses as a function of the scale factor of selected most massive top-node halos from various dark matter simulations. The small white dots repsents the time steps between snapshots for each simulation.
   </figcaption>
 </figure>
-  
-For comparision reason the redshift evolution of $$V_{max}$$.
+ 
+The 512-Cholla main branch halos show considerable variations in the mass accrection compared to the MultiDark simulations which have smoother accrection histories. <b>Cholla tracks halos in considerable smaller time steps as the MultiDark simulations.</b> For comparision reason the redshift evolution of $$V_{max}$$ which shows a similar picture.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
-  <figcaption>Mass growth histories of most massive top node halos from various dark matter simulation normalised by there final mass.
+  <figcaption>Histories of the evolution of the maximum halo velocity as a function of the scale factor of selected most massive top-node halos from various dark matter simulations.
   </figcaption>
 </figure>
   
