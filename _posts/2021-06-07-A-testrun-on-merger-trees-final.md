@@ -5,7 +5,7 @@ date: 2021-06-07 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-<blockquote><tt><b>Summary:</b> We evaluate the mass accrection history of 512-Cholla halos and compare to MultiDark simulation boxes</tt></blockquote>
+<blockquote><tt><b>Summary:</b> We evaluate the mass accrection history and halo growth function as a function of the scale factor for selected most massive top-node halos and their progenitors on the main branc. We compare the Cholla simulation with two MultiDark boxes</tt></blockquote>
 
 ### Comparision of various dark matter only simulations
 
