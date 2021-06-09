@@ -51,7 +51,7 @@ All three simulations have comparable cosmologies and use the same ROCKSTAR-conf
   </figcaption>
 </figure>
  
-The 512-Cholla main branch halos show considerable variations in the mass accrection compared to the MultiDark simulations which have smoother accrection histories. <b>Cholla tracks halos in considerable smaller time steps as the MultiDark simulations.</b> For comparision reason the redshift evolution of $$V_{max}$$ which shows a similar picture.
+The 512-Cholla main branch halos show considerable variations in the mass accrection compared to the MultiDark simulations which have smoother accrection histories. <b>Cholla tracks halos in considerable smaller time steps as the MultiDark simulations.</b> For comparision reason the redshift evolution of $$V_{max}$$ which shows a similar results.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax_most_massive_var-sims.png">
@@ -63,7 +63,7 @@ The 512-Cholla main branch halos show considerable variations in the mass accrec
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir-growth_most_massive_var-sims.png">
-  <figcaption>Halo mass growth histories of most massive top-node halos from various dark matter simulation normalised by there final mass.
+  <figcaption>Halo mass growth histories of most massive top-node halos as a function of the scale factor from various dark matter simulation normalised by there final mass.
   </figcaption>
 </figure>
 
@@ -73,15 +73,15 @@ The growth history normalized by the final halo mass of each main progenitor dra
   
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Mvir_fraction_var-sims.png">
-  <figcaption>Fractional variation in % of the mass growth histories of most massive top-node halos from various dark matter simulations.
+  <figcaption>Fractional variation in % of the halo mass between two progenitor halos of most massive top-node halos as a function of the scale factor from various dark matter simulations.
   </figcaption>
 </figure>
 
- For comparision reason the redshift evolution of $$V_{max}$$.
+All simulation show considerable variations in the mass accrection history (MAH) between direct progenitors on the main branch. However, Cholla has the functions  with the most "spikes" visible in the accrection history of its progenitors. For comparision reason we also show the evolution of $$V_{max}$$ which shows less variations than the halo mass.
    
   <figure>
   <img src="{{ site.baseurl }}/plots/2021-06-07_MAH_Vmax-fraction_var-sims.png">
-  <figcaption>Fractional variation in % of the V_max property of most massive top-node halos from various dark matter simulations.
+  <figcaption>Fractional variation in % of the Vmax property between direct progenitors of most massive top-node halos as a function of the scale factor from various dark matter simulations.
   </figcaption>
 </figure>
 
