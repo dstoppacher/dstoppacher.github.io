@@ -87,5 +87,7 @@ All simulation show considerable variations in the mass accretion history (MAH) 
 </figure>
 
 
+A <i>Python</i> script which creates the figures in this post can be found <a href="https://dstoppacher.github.io/python_scripts/2021-06-07_mass_accretion_histories.py"><tt>here</tt></a>
+
 
 
