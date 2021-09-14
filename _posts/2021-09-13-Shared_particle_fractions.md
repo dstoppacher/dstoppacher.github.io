@@ -23,7 +23,7 @@ categories: mergertrees
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_halo_phantoms_TreeID-79561.png">
-  <figcaption>Same as in Fig: 1 but only TreeID-79561 and its subtrees are shown as an example.
+  <figcaption>Same as in Figure 1 but only TreeID-79561 and its subtrees are shown as an example.
   </figcaption>
 </figure>
 
@@ -31,17 +31,16 @@ categories: mergertrees
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_halo_phantoms_shared_fracs.png">
-  <figcaption>The shared particle fractions of direct progenitors.
+  <figcaption>Redshift evolution of the shared particle fractions of direct progenitors.
   </figcaption>
 </figure>
 
 
 ### Redshift evolutin of shared fraction
 
-
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_shared_frac1.png">
-  <figcaption>The shared particle fractions of direct progenitors.
+  <figcaption>The shared particle fractions of direct progenitors within 10^{th} and 90^{th} percentiles.
   </figcaption>
 </figure>
 
