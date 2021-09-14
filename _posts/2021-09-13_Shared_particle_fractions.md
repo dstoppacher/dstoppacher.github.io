@@ -5,7 +5,6 @@ date: 2021-09-13 #Default format is yyyy.mm.dd
 categories: mergertrees
 ---
 
-
 <blockquote><tt><b>Summary:</b> We calculate the shared particle fractions of direct progenitor halos after crossmatching all halos and progenitors from the original dark matter simulation (run with Rockstar) and their merger trees output (from Consistent-Trees).</tt></blockquote>
 
 ### Detection of phantom halos
@@ -30,8 +29,19 @@ categories: mergertrees
 
 ### Shared particle fractions
 
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_halo_phantoms_shared_fracs.png">
+  <figcaption>The shared particle fractions of direct progenitors.
+  </figcaption>
+</figure>
 
 
 ### Redshift evolutin of shared fraction
 
+
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_shared_frac1.png">
+  <figcaption>The shared particle fractions of direct progenitors.
+  </figcaption>
+</figure>
 
