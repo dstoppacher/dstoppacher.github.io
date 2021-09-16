@@ -22,7 +22,7 @@ We compare the binning schemes of snapshot numbers and redshifts for various cos
 
 ### Does that affect the growth history of halo properties?
 
-It seems that the halo masses $$M_{vir}$$ (Figure 2), the maximum velocities $$V_{max}$$ (Figure 3), and certain radii (Figure 4) is not affected by the discontinuity, however it is not clear if the mass accrection history of the halo mass would as we saw in e.g. Figure 2 or Figure 4 in <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-part-IV/"> privious posts</a>.
+It seems that the halo masses $$M_{vir}$$ (top), the maximum velocities $$V_{max}$$ (middle), and certain radii (bottom panel of Figure 2) is not affected by the discontinuity, however it is not clear if the mass accrection history of the halo mass would as we saw in e.g. Figure 2 or Figure 4 in <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-part-IV/">previous posts</a>.
 
 <figure>
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_mvir.png">
