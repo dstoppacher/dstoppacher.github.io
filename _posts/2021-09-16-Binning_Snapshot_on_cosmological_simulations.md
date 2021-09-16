@@ -20,3 +20,16 @@ We compare the binning schemes of snapshot numbers and redshifts for various cos
   </figcaption>
 </figure>
 
+### Does that affect the growth history of halo properties?
+
+It seems that the halo masses $$M_{vir}$$ (Figure 2), the maximum velocities $$V_{max}$$ (Figure 3), and certain radii (Figure 4) is not affected by the discontinuity, however it is not clear if the mass accrection history of the halo mass would as we saw in e.g. Figure 2 or Figure 4 in <a href="https://dstoppacher.github.io/A-testrun-on-merger-trees-part-IV/"> privious posts</a>.
+
+<figure>
+  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_mvir.png">
+  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_vmax.png">
+  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_radii.png">
+  <figcaption>Snapshot number to redshift relation for various cosmological simulations Top: total redshift range available is shown and Bottom: zoom-in. The Cholla simulation has a visibly disconutiny between the snapshot number and the redshift which cannot be found in any other cosmological simulation tested. 
+  </figcaption>
+</figure>
+
+
