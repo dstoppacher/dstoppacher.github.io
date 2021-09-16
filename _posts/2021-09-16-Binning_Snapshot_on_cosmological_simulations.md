@@ -14,14 +14,9 @@ We compare the binning schemes of snapshot numbers and redshifts for various cos
 ### Snapshot identification number vs. redshift
 
 <figure>
-  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_halo_phantoms.png">
-  <figcaption>All halos an merger trees. Highlighted are in the first halo of the tree (red cross), phantom halos (solid yellow dot), the next halo in the tree after the phantom halo (black circle). 
-  </figcaption>
-</figure>
-
-<figure>
-  <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_all_halo_phantoms_TreeID-79198.png">
-  <figcaption>Same as in Fig: 1 but only TreeID-79198 and its subtrees are shown as an example.
+  <img src="{{ site.baseurl }}/plots/2021-09-14_DM-simulation_z-SN-relation_zoom-out.png">\n
+  <img src="{{ site.baseurl }}/plots/2021-09-14_DM-simulation_z-SN-relation.png">
+  <figcaption>Snapshot number to redshift relation for various cosmological simulations Top: total redshift range available is shown and Bottom: zoom-in. The Cholla simulation has a visibly disconutiny between the snapshot number and the redshift which cannot be found in any other cosmological simulation tested. 
   </figcaption>
 </figure>
 
