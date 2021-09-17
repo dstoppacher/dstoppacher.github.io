@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div class="PageNavigation">
+  {% if page.previous %}
+    <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;<small><tt>previous</tt></small></a>
+  {% endif %}{% if page.next %}
+  <div style="text-align:right">
+    <a class="next" href="{{ site.baseurl }}{{page.next.url}}"><small><tt>next</tt></small>&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a>
+  </div>
+  {% endif %}  
+
+</div>
+
 {{ content }}
 
 <div class="PageNavigation">
