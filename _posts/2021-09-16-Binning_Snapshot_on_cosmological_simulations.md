@@ -28,7 +28,7 @@ It seems that the halo masses $$M_{vir}$$ (top), the maximum velocities $$V_{max
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_mvir.png">
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_vmax.png">
   <img src="{{ site.baseurl }}/plots/2021-09-13_merger_trees_CT_radii.png">
-  <figcaption>Snapshot number to redshift relation for various cosmological simulations Top: total redshift range available is shown and Bottom: zoom-in. The Cholla simulation has a visibly disconutiny between the snapshot number and the redshift which cannot be found in any other cosmological simulation tested. 
+  <figcaption>Redshift evolution of median values of halo properties. Top: halo mass $$M_{vir}$$, middle: max velocity $$V_{max}$$, and bottom: various radii. 
   </figcaption>
 </figure>
 
