@@ -219,46 +219,40 @@ div.button_white {
     font-family: monospace;
     height: 5em;
     width: 20%;
-    font-size: 1.3vw;
+    font-size: 1em;
     border-radius: 5px;
     text-align: center;
     overflow-wrap: break-word;
     background-color: #ffffff;
     color: #069;
     border: 2px solid #069;
+    margin-left: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
     @media screen and (max-width: 800px) {
     div.button_white {
-    height: 2em;
-    width: 20%;
-    font-size: 20px;
-    font-size: 2.2vw;
+    width: 18%;
     border-radius: 10px;
-    margin-bottom: 1.5em;      
+    margin-bottom: 1.5em;
+    margin-left: 0.1em;
     }
 }
     @media screen and (max-width: 600px) {
     div.button_white {
-    height: 2em;
-    width: 20%;
-    font-size: 20px;
-    font-size: 2vw;
+    width: 18%;
     border-radius: 10px;
     margin:0em;
     margin-bottom: 2em;
+    margin-left: 0.1em;
     }
 }
-
     @media screen and (max-width: 400px) {
     div.button_white {
-    height: 11em;
-    width: 20%;
-    font-size: 20px;
-    font-size: 3vw;
+    width: 18%;
     border-radius: 10px;
     margin:0em;
     margin-bottom: 2em;
+    margin-left: 0.1em;
     }
 }
 
@@ -317,7 +311,7 @@ div.button_white_small {
 div.button_white_project {
     font-family: monospace;
     height: 6em;
-    width: 8.5em;
+    width: 7em;
     font-size: 1em;
     border-radius: 5px;
     text-align: center;
@@ -325,13 +319,11 @@ div.button_white_project {
     background-color: #ffffff;
     color: #069;
     border: 2px solid #069;
-    margin-left: 20px;
+    margin-left: 15px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
     @media screen and (max-width: 800px) {
     div.button_white_project {
-    height: 6em;
-    width: 8.5em;
     width: 32%;
     font-size: 20px;
     font-size: 2.2vw;
@@ -342,20 +334,18 @@ div.button_white_project {
 }
     @media screen and (max-width: 600px) {
     div.button_white_project {
-    height: 6em;
-    width: 8.5em;
     width: 32%;
     font-size: 20px;
     font-size: 2vw;
     border-radius: 10px;
     margin:0em;
     margin-bottom: 2em;
+    margin-left: 0.1em;
     }
 }
 
     @media screen and (max-width: 400px) {
     div.button_white_project {
-    height: 11em;
     width: 31%;
     font-size: 20px;
     font-size: 3vw;
