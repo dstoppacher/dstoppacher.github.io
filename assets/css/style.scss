@@ -48,12 +48,12 @@ img {
   text-align: justify;
   font-size: smaller;
   text-indent: 0;
-  border: 0px #aabbcc solid;
-  margin: 0.5em;
+  border: 0px #069 solid;
+  margin: 1em;
   padding: 0.1em;
   background-color: #aabbcc;
   border-radius: 5px;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 
 //Automatically numbering of figures on page
@@ -262,14 +262,14 @@ div.button_white {
 }
 #container1-font-smaller {
   display: flex;
-  font-size: 0.5em;
+  font-size: 0.4em;
   justify-content: center;
   align-items: center;
   margin: 0.1em;
 }
 #container1-font-medium {
   display: flex;
-  font-size: 0.8em;
+  font-size: 0.6em;
   justify-content: center;
   align-items: center;
   margin: 0.1em;
