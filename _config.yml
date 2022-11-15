@@ -1,6 +1,6 @@
 # Site settings
-title: D. Stoppacher's research blog on<br>computational astrophysics
-email: dstoppacher@ucsc.edu
+title: D. Stoppacher's personal webpage
+email: doris.stoppacher@uam.es
 url: "https://dstoppacher.github.io/" # the base hostname & protocol for your site
 github_username:  dstoppacher
 permalink:   /:title/
