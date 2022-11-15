@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Curriculum Vitae D. Stoppcher"
+title: "Curriculum Vitae D. Stoppacher"
 ---
 
 <blockquote style="margin-bottom:2.5em">
