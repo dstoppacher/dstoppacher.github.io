@@ -9,7 +9,7 @@ title: "Curriculum Vitae D. Stoppacher"
 
 ### About Me
 
-<div id="container-figure">
+<div id="container-figure" width="75%">
  <img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" width="75%" alt="Doris Stoppacher"/>
 </div>
 
