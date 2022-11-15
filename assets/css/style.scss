@@ -44,6 +44,17 @@ figure {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+img {
+  text-align: justify;
+  font-size: smaller;
+  text-indent: 0;
+  border: 2px #069 solid;
+  margin: 1em;
+  padding: 0.1em;
+  background-color: #aabbcc;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 //Automatically numbering of figures on page
 article {
