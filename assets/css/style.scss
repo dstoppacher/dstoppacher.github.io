@@ -197,12 +197,20 @@ div.large-margin{
   }
 }
 
+div.middle-margin{
+  margin:1.5em;
+  }
+  @media screen and (max-width: 400px) {
+  div.middle-margin {
+  margin:0em;
+  }
+}
 
 div.small-margin{
   margin:0.5em;
   }
   @media screen and (max-width: 400px) {
-  div.large-margin {
+  div.small-margin {
   margin:0em;
   }
 }
@@ -211,6 +219,53 @@ div.button_white {
     font-family: monospace;
     height: 5em;
     width: 20%;
+    font-size: 1.3vw;
+    border-radius: 5px;
+    text-align: center;
+    overflow-wrap: break-word;
+    background-color: #ffffff;
+    color: #069;
+    border: 2px solid #069;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    }
+    @media screen and (max-width: 800px) {
+    div.button_white {
+    height: 2em;
+    width: 20%;
+    font-size: 20px;
+    font-size: 2.2vw;
+    border-radius: 10px;
+    margin-bottom: 1.5em;      
+    }
+}
+    @media screen and (max-width: 600px) {
+    div.button_white {
+    height: 2em;
+    width: 20%;
+    font-size: 20px;
+    font-size: 2vw;
+    border-radius: 10px;
+    margin:0em;
+    margin-bottom: 2em;
+    }
+}
+
+    @media screen and (max-width: 400px) {
+    div.button_white {
+    height: 11em;
+    width: 20%;
+    font-size: 20px;
+    font-size: 3vw;
+    border-radius: 10px;
+    margin:0em;
+    margin-bottom: 2em;
+    }
+}
+
+div.button_white_project {
+    font-family: monospace;
+    height: 6em;
+    width: 25%;
     font-size: 1.3vw;
     border-radius: 5px;
     text-align: center;
@@ -253,6 +308,8 @@ div.button_white {
     margin-bottom: 2em;
     }
 }
+
+
 
 #container1 {
   display: flex;
