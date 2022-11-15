@@ -325,7 +325,7 @@ div.button_white_project {
     @media screen and (max-width: 800px) {
     div.button_white_project {
     width: 32%;
-    font-size: 20px;
+    font-size: 2em;
     font-size: 2.2vw;
     border-radius: 10px;
     margin-bottom: 1.5em;
@@ -347,12 +347,11 @@ div.button_white_project {
     @media screen and (max-width: 400px) {
     div.button_white_project {
     width: 31%;
-    font-size: 20px;
-    font-size: 3vw;
+    font-size: 3em;
     border-radius: 10px;
     margin:0em;
     margin-bottom: 2em;
-    margin-left: 0.1em;
+    margin-left: 0.15em;
     }
 }
 
