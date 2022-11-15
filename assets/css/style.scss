@@ -199,11 +199,20 @@ div.large-margin{
   }
 }
 
+
+div.small-margin{
+  margin:0.5em;
+  }
+  @media screen and (max-width: 400px) {
+  div.large-margin {
+  margin:0em;
+  }
+}
+
 div.button_white {
     font-family: monospace;
     height: 5em;
-    width:15%;
-    font-size: 12px;
+    width: 15%;
     font-size: 1.3vw;
     border-radius: 5px;
     text-align: center;
