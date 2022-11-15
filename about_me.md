@@ -4,7 +4,7 @@ title: "Curriculum Vitae D. Stoppcher"
 ---
 
 <blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>Here you can find more information about myself!</tt>										     
+	<tt><b>About: </b>Hi, I am Doris and I am an computational astrophysisics working on galaxy formation modelling! I am interesting in studying how galaxies form and the Universe evolves on its largest scale!</tt>										     
 </blockquote>
 
 ### About Me
