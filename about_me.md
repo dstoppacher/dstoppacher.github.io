@@ -10,7 +10,7 @@ title: "Curriculum Vitae D. Stoppacher"
 ### About Me
 
 <picture>
-  <img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" width="100%" height="100%"/>
+  <img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" width="75%"/>
 </picture>
 
 I hold a PhD in Theoretical Astrophysics (2019) from the Universidad Autónoma de Madrid (UAM, Spain). Currently my research is supported by the Spanish Fellowship programme <i>Margarita Salas 2021</i>, therefore I am a postdoctoral researcher in a joint project called: <b><i>Hidden Figures on the Sky</i></b>: <i>Unveiling the formation and assembly channels of low surface brightness galaxies</b>; by studying them with various numerical models of galaxy formation and evolution in collaboration with the Pontificia Universidad Católica de Chile, the UAM, and the Universidad de Sevilla (Spain).
