@@ -17,7 +17,7 @@ I hold a PhD in Theoretical Astrophysics (2019) from the Universidad Autónoma d
 
 Some past and ongoing projects of mine include: <A semi-analytical perspective on … “; which consits of a series of studies and publications focusing on different aspects of galaxy formation and evolution using semi-analytical models (SAMs). I am is further a peer-researcher on the “MultiDark-Galaxies” where I also provide support on the data release, analysis, and handling. Other interests include the galaxy-halo connection and the “assembly bias” of galaxy and halo formation or in other words: <i>What does shape galaxy properties in the large-scale environment of the cosmic web?</i>
 
-I am further a member of the movement <i>Astronomers for Planet Earth (A4E)</i>, the <a url="https://www.sea-astronomia.es/"><i>Sociedad Española de Astronomía (SEA)</i></a>, and an advocate for student mental health awareness, cultural equity, and inclusion in Astrophysics.
+I am further a member of the movement <i>Astronomers for Planet Earth (A4E)</i>, the <a href="https://www.sea-astronomia.es/"><i>Sociedad Española de Astronomía (SEA)</i></a>, and an advocate for student mental health awareness, cultural equity, and inclusion in Astrophysics.
 
 <embed src="https://dstoppacher.github.io/CV_DStoppacher_web.pdf" width="100%" height="850px"/>
 
