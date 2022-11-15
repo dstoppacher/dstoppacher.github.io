@@ -24,7 +24,7 @@ body {
 }
 
 /**
- * Figures & Pictures
+ * Figures & Images
  */
 
 figcaption {
@@ -48,12 +48,12 @@ img {
   text-align: justify;
   font-size: smaller;
   text-indent: 0;
-  border: 2px #069 solid;
+  border: 0px #069 solid;
   margin: 1em;
   padding: 0.1em;
   background-color: #aabbcc;
-  border-radius: 4px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 0px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 
 //Automatically numbering of figures on page
