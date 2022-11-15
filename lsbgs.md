@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Modelling early-stage galaxy formation"
+title: "Hidden Figures in the Sky"
 ---
 
 <blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>Here you can find out more about my current reserach project on modelling early-stage galaxy formation and processes of the circumgalactic medium!</tt>										     
+	<tt><b>About: </b>Here you can find out more about my current reserach project on modelling low surface brightness galaxies!</tt>										     
 </blockquote>
 
 <h3>Sorry, this page is currently under construction!</h3>
