@@ -56,9 +56,6 @@ figure > img {
 figcaption {
   font-size: 14px; }
 
-picture > img {
-  display: block; }
-
 /**
  * Lists
  */
