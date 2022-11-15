@@ -65,25 +65,12 @@ picture {
   font-size: smaller;
   text-indent: 0;
   border: 2px #aabbcc solid;
-  margin: 2.5em;
-  padding: 0.5em;
+  margin: 0em;
+  padding: 0.1em;
   background-color: #ffffff;
   border-radius: 0px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-
-footer {
-    font-size: .8rem;
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-}
-.output {
-    background: #eee;
-    position: relative;
-}
-
-
 
 h3 { 
     width: 95%; 
