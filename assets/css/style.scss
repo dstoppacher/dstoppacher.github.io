@@ -232,7 +232,7 @@ div.button_white {
     @media screen and (max-width: 800px) {
     div.button_white {
     width: 18%;
-    font-size: 0.75em;
+    font-size: 0.7em;
     border-radius: 10px;
     margin-bottom: 1.5em;
     margin-left: 0.1em;
@@ -328,19 +328,19 @@ div.button_white_project {
     @media screen and (max-width: 800px) {
     div.button_white_project {
     width: 32%;
-    font-size: 2em;
+    font-size: 0.9em;
     border-radius: 10px;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
     margin-left: 0.5em;
     }
 }
     @media screen and (max-width: 600px) {
     div.button_white_project {
     width: 32%;
-    font-size: 1em;
+    font-size: 0.75em;
     border-radius: 10px;
     margin:0em;
-    margin-bottom: 2em;
+    margin-bottom: 0.5em;
     margin-left: 0.1em;
     }
 }
@@ -348,10 +348,10 @@ div.button_white_project {
     @media screen and (max-width: 400px) {
     div.button_white_project {
     width: 31%;
-    font-size: 0.75em;
+    font-size: 0.5em;
     border-radius: 10px;
     margin:0em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     margin-left: 0.15em;
     }
 }
