@@ -383,6 +383,8 @@ div.button_white_small {
 #container20-80-left {
   flex: 0 0 20%;
   margin: 0.5em;
+  justify-content: right;
+  align-items: right;
 }
 
 /* Right column: 80% */
@@ -390,8 +392,8 @@ div.button_white_small {
   flex: 0 0 80%;
   margin: 0.5em;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 }
 
 /* Responsive: stack on small screens */
