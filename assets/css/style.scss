@@ -56,6 +56,18 @@ img {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 
+img_no_bg {
+  text-align: justify;
+  font-size: smaller;
+  text-indent: 0;
+  border: 0px black solid;
+  margin: 1em;
+  padding: 0.1em;
+  background-color: #000000;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
 //Automatically numbering of figures on page
 article {
   counter-reset: figures;
