@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 <blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>I am teaching a new class beginning from Marz 2023!/tt>										     
+	<tt><b>About: </b>I am teaching a new class beginning from March 2023!/tt>										     
 </blockquote>
 
 <h3>coming soon ...</h3>
