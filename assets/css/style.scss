@@ -311,16 +311,13 @@ div.button_white_small {
     }
 }
 
-.split-half {
-  flex: 1;
-  padding: 1em;
-}
 
 #container1 {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0.5em;
+  width: 100%;
 }
 #container1-font-smaller {
   display: flex;
@@ -350,6 +347,12 @@ div.button_white_small {
   align-items: center;
   margin: 0.5em;
 }
+
+.split-half {
+  flex: 1;
+  padding: 1em;
+}
+
 #container2 {
   display: flex;
   justify-content: center;
