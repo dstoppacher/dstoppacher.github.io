@@ -368,3 +368,37 @@ div.button_white_small {
   align-items: center;
   margin: 0.25em;
 }
+
+#container20-80 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5em;
+}
+
+/* Left column: 20% */
+#container20-80-left {
+  flex: 0 0 20%;
+  margin: 0.5em;
+}
+
+/* Right column: 80% */
+#container20-80-right {
+  flex: 0 0 80%;
+  margin: 0.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Responsive: stack on small screens */
+@media screen and (max-width: 600px) {
+  #container20-80 {
+    flex-direction: column;
+  }
+
+  #container20-80-left,
+  #container20-80-right {
+    flex: 0 0 100%;
+  }
+}
