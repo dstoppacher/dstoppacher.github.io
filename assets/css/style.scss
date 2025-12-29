@@ -48,7 +48,7 @@ img {
   text-align: justify;
   font-size: smaller;
   text-indent: 0;
-  border: 2px black solid;
+  border: 0px black solid;
   margin: 1em;
   padding: 0.1em;
   background-color: rgba(0, 0, 0, 0.01);
@@ -362,4 +362,38 @@ div.button_white_small {
   justify-content: center;
   align-items: center;
   margin: 0.25em;
+}
+
+$gap: 2rem;
+$padding: 2rem;
+
+split {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: $padding;
+  gap: $gap;
+
+  .text,
+  .image {
+    flex: 1;
+  }
+
+  .image {
+    img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+      display: block;
+    }
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .split {
+    flex-direction: column;
+    height: auto;
+  }
 }
