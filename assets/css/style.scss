@@ -311,6 +311,11 @@ div.button_white_small {
     }
 }
 
+.split-half {
+  flex: 1;
+  padding: 1em;
+}
+
 #container1 {
   display: flex;
   justify-content: center;
@@ -362,38 +367,4 @@ div.button_white_small {
   justify-content: center;
   align-items: center;
   margin: 0.25em;
-}
-
-$gap: 2rem;
-$padding: 2rem;
-
-split {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 100vh;
-  padding: $padding;
-  gap: $gap;
-
-  .text,
-  .image {
-    flex: 1;
-  }
-
-  .image {
-    img {
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-      display: block;
-    }
-  }
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .split {
-    flex-direction: column;
-    height: auto;
-  }
 }
