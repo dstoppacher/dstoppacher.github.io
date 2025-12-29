@@ -51,7 +51,7 @@ img {
   border: 0px black solid;
   margin: 1em;
   padding: 0.1em;
-  background-color: rgba(0, 0, 0, 0.12);
+  background-color: rgba(0, 0, 0, 0.02);
   border-radius: 5px;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
@@ -358,10 +358,10 @@ div.button_white_project {
 
 div.button_round_project {
     font-family: monospace;
-    height: 7em;
-    width: 7em;
-    font-size: 1em;
-    border-radius: 25px;
+    height: 2em;
+    width: 2em;
+    font-size: 0.5em;
+    border-radius: 0.25em;
     text-align: center;
     overflow-wrap: break-word;
     background-color: #ffffff;
