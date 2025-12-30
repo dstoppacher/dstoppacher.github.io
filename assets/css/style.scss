@@ -372,38 +372,32 @@ div.button_white_small {
   margin: 0.25em;
 }
 
-#container20-80 {
+/* Banner container */
+#logo-banner {
   display: flex;
-  justify-content: center;
+  justify-content: center;  /* centre on page */
   align-items: center;
-  margin: 0.5em;
+  width: 100%;
+  margin: 1.5em 0;
 }
 
-/* Left column: 20% */
-#container20-80-left {
-  flex: 0 0 20%;
-  margin: 0.5em;
-  justify-content: right;
-  align-items: right;
-}
-
-/* Right column: 80% */
-#container20-80-right {
-  flex: 0 0 80%;
-  margin: 0.5em;
+/* Inner row */
+#logo-banner-row {
   display: flex;
-  justify-content: left;
-  align-items: left;
+  align-items: center;
+  gap: 2em;
+  flex-wrap: wrap;
 }
 
-/* Responsive: stack on small screens */
-@media screen and (max-width: 600px) {
-  #container20-80 {
-    flex-direction: column;
-  }
-
-  #container20-80-left,
-  #container20-80-right {
-    flex: 0 0 100%;
-  }
+/* Logo + link pair */
+.logo-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
 }
+
+.logo-item img {
+  height: 24px;
+  width: auto;
+}
+
