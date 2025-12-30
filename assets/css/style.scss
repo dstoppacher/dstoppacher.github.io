@@ -380,7 +380,7 @@ div.button_white_small {
 #logo-banner-row {
   display: flex;
   align-items: center;
-  gap: 2em;
+  gap: 0.5em;
   flex-wrap: wrap;
 }
 
@@ -388,7 +388,7 @@ div.button_white_small {
 .logo-item {
   display: flex;
   align-items: center;
-  gap: 0.5em;
+  gap: 0.25em;
 }
 
 .logo-item img {
@@ -411,7 +411,7 @@ div.button_white_small {
   display: flex;
   justify-content: center;  /* horizontal centring */
   align-items: center;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 /* Right: image */
@@ -420,7 +420,7 @@ div.button_white_small {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 #address-image-right img {
