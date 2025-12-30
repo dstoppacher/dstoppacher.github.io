@@ -388,7 +388,7 @@ div.button_white_small {
 .logo-item {
   display: flex;
   align-items: center;
-  gap: 0.15em;
+  gap: 0.1em;
 }
 
 .logo-item img {
@@ -401,7 +401,7 @@ div.button_white_small {
   display: flex;
   align-items: stretch;     /* SAME HEIGHT */
   justify-content: center;
-  width: 75%;
+  width: 100%;
   margin: 1em 0;
 }
 
@@ -409,8 +409,8 @@ div.button_white_small {
 #address-image-left {
   flex: 1;
   display: flex;
-  justify-content: center;  /* horizontal centring */
-  align-items: center;
+  justify-content: right;  /* horizontal centring */
+  align-items: right;
   padding: 0.5em;
 }
 
@@ -418,8 +418,8 @@ div.button_white_small {
 #address-image-right {
   flex: 1;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   padding: 0.5em;
 }
 
