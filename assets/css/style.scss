@@ -401,3 +401,42 @@ div.button_white_small {
   width: auto;
 }
 
+/* Address + image container */
+#address-image {
+  display: flex;
+  align-items: stretch;     /* SAME HEIGHT */
+  justify-content: center;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+/* Left: address */
+#address-image-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;  /* horizontal centring */
+  align-items: center;
+  padding: 1em;
+}
+
+/* Right: image */
+#address-image-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+
+#address-image-right img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+/* Responsive: stack */
+@media screen and (max-width: 700px) {
+  #address-image {
+    flex-direction: column;
+  }
+}
+
