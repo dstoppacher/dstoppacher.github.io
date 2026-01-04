@@ -1,0 +1,88 @@
+- key: Stoppacher25_SAM_LRGs
+  title: 'A semi-analytical perspective on massive red galaxies: I. Assembly history,
+    environment, and redshift evolution'
+  authors: '{Stoppacher}, D. and {Montero-Dorta}, A.~D. and {Artale}, M.~C. and {Knebe},
+    A. and {Padilla}, N. and {Benson}, A.~J. and {Behrens}, C.'
+  journal: A\&A
+  year: '2025'
+  doi: 10.1051/0004-6361/202449232
+  url: ''
+- key: Stoppacher25_HFI
+  title: 'Hidden figures in the sky: Evolution of low-surface-brightness galaxies
+    from a hydrodynamical perspective'
+  authors: '{Stoppacher}, D. and {Tissera}, P. and {Rosas-Guevara}, Y. and {Galaz},
+    G. and {O{\~n}orbe}, J.'
+  journal: A\&A
+  year: '2025'
+  doi: 10.1051/0004-6361/202555232
+  url: ''
+- key: Favole24_ELGs
+  title: Characterizing the ELG luminosity functions in the nearby Universe
+  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and {Ascasibar}, Y. and {Corcho-Caballero},
+    P. and {Montero-Dorta}, A.~D. and {Benson}, A.~J. and {Comparat}, J. and {Cora},
+    S.~A. and {Croton}, D. and {Guo}, H. and {Izquierdo-Villalba}, D. and {Knebe},
+    A. and {Orsi}, {\''A}. and {Stoppacher}, D. and {Vega-Mart{\''\i}nez}, C.~A.'
+  journal: A\&A
+  year: '2024'
+  doi: 10.1051/0004-6361/202346443
+  url: ''
+- key: Favole20_OII
+  title: '{$[O II]$ emitters in MultiDark-Galaxies and DEEP2}'
+  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and {Stoppacher}, D. and {Orsi},
+    {\''A}. and {Comparat}, J. and {Cora}, S.~A. and {Vega-Mart{\''\i}nez}, C.~A.
+    and {Stevens}, A.~R.~H. and {Maraston}, C. and {Croton}, D. and {Knebe}, A. and
+    {Benson}, A.~J. and {Montero-Dorta}, A.~D. and {Padilla}, N. and {Prada}, F. and
+    {Thomas}, D.'
+  journal: MNRAS
+  year: '2020'
+  doi: 10.1093/mnras/staa2292
+  url: ''
+- key: Castrillo20_ElObse
+  title: '{El observatorio astron{\''o}mico de la UAM}'
+  authors: '{Castrillo}, A. and {Zamora}, S. and {Rodr{\''\i}guez-Baras}, M. and {Cort{\''e}s-Contreras},
+    M. and {Rebollido}, I. and {Corcho}, P. and {Mill{\''a}n}, I. and {Stoppacher},
+    D. and {M{\''e}rida}, R.~M. and {D{\''\i}az}, A.~I. and {Ascasibar}, Y.'
+  journal: ''
+  year: '2020'
+  doi: ''
+  url: ''
+- key: Cortes-Contreras20_AstroEnCasa
+  title: '{Astro en casa}'
+  authors: '{Cort{\''e}s-Contreras}, M. and {Castrillo}, A. and {Rebollido}, I. and
+    {Rodr{\''\i}guez-Baras}, M. and {Stoppacher}, D. and {Zamora-Arenal}, S.'
+  journal: ''
+  year: '2020'
+  doi: ''
+  url: ''
+- key: Knebe17_MD
+  title: 'MULTIDARK-GALAXIES: data release and first results'
+  authors: '{Knebe}, Alexander and {Stoppacher}, Doris and {Prada}, Francisco and
+
+    {Behrens}, Christoph and {Benson}, Andrew and {Cora}, Sofia A. and
+
+    {Croton}, Darren J. and {Padilla}, Nelson D. and {Ruiz}, Andr{\''e}s N. and
+
+    {Sinha}, Manodeep and {Stevens}, Adam R.~H. and
+
+    {Vega-Mart{\''\i}nez}, Cristian A. and {Behroozi}, Peter and
+
+    {Gonzalez-Perez}, Violeta and {Gottl{\"o}ber}, Stefan and
+
+    {Klypin}, Anatoly A. and {Yepes}, Gustavo and {Enke}, Harry and
+
+    {Libeskind}, Noam I. and {Riebe}, Kristin and {Steinmetz}, Matthias'
+  journal: MNRAS
+  year: '2018'
+  doi: 10.1093/mnras/stx2662
+  url: ''
+- key: Cui18_300
+  title: 'The Three Hundred project: a large catalogue of theoretically modelled galaxy
+    clusters for cosmological and astrophysical applications'
+  authors: '{Cui}, Weiguang and {Knebe}, Alexander and {Yepes}, Gustavo and {Pearce},
+    Frazer and {Power}, Chris and {Dave}, Romeel and {Arth}, Alexander and {Borgani},
+    Stefano and {Dolag}, Klaus and {Elahi}, Pascal and {Mostoghiu}, Robert and {Murante},
+    Giuseppe and {Rasia}, Elena and {Stoppacher}, Doris and et al.'
+  journal: MNRAS
+  year: '2018'
+  doi: 10.1093/mnras/sty2111
+  url: ''
