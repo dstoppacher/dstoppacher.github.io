@@ -20,7 +20,7 @@ title: "Projects and Publications"
         {{ pub.authors }}<br>
         <em>{{ pub.journal }}</em>, {{ pub.year }}
         {% if pub.doi %}
-          — <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+          — <a href="https://doi.org/{{ pub.doi }}">Link to paper</a>
         {% endif %}
       </li>
     {% endfor %}
