@@ -3,15 +3,15 @@ layout: page
 title: "Projects and Publications"
 ---
 
-<blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>Past and ongoing reseach projects and publications</tt>										     
-</blockquote>
-
 <h2>Projects</h2>
+
 <h3>Hidden Figures in the Sky</h3>
 
 
-<h2>Publications</h3>
+<h3>The Multi-Dark Galaxies</h3>
+
+
+<h2>Publications</h2>
 
   <ul class="pub-list">
     {% for pub in site.data.publications %}
@@ -26,3 +26,8 @@ title: "Projects and Publications"
     {% endfor %}
   </ul>
 </section>
+
+
+<blockquote style="margin-bottom:2.5em">
+	<tt><b>About: </b></tt>										     
+</blockquote>
