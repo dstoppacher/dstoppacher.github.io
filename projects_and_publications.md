@@ -7,6 +7,22 @@ title: "Projects and Publications"
 	<tt><b>About: </b>Past and ongoing reseach projects and publications</tt>										     
 </blockquote>
 
+<h2>Projects</h2>
 <h3>Hidden Figures in the Sky</h3>
 
-<div id="container1" style="width=100%; align:center; margin:3em"><i class='fas fa-drafting-compass fa-10x'></i></div>
+
+<h2>Publications</h3>
+
+  <ul class="pub-list">
+    {% for pub in site.data.publications %}
+      <li class="pub-item">
+        <strong>{{ pub.title }}</strong><br>
+        {{ pub.authors }}<br>
+        <em>{{ pub.journal }}</em>, {{ pub.year }}
+        {% if pub.doi %}
+          — <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
