@@ -10,8 +10,8 @@
 - key: Stoppacher25_HFI
   title: 'Hidden figures in the sky: Evolution of low-surface-brightness galaxies
     from a hydrodynamical perspective'
-  authors: 'Stoppacher, D.; Tissera, P.; Rosas-Guevara, Y.; Galaz,
-    G.; O\norbe, J.'
+  authors: ''<b>Stoppacher, D.</b>; Tissera, P.; Rosas-Guevara, Y.; Galaz,
+    G.; Oñorbe, J.'
   journal: A&A
   year: '2025'
   doi: 10.1051/0004-6361/202555232
@@ -21,14 +21,14 @@
   authors: 'Favole, G.; Gonzalez-Perez, V.; Ascasibar, Y.; Corcho-Caballero,
     P.; Montero-Dorta, A.D.; Benson, A.J.; Comparat, J.; Cora,
     S.A.; Croton, D.; Guo, H.; Izquierdo-Villalba, D.; Knebe,
-    A.; Orsi, Á.; Stoppacher, D.; Vega-Martínez, C.A.'
+    A.; Orsi, Á.; '<b>Stoppacher, D.</b>; Vega-Martínez, C.A.'
   journal: A&A
   year: '2024'
   doi: 10.1051/0004-6361/202346443
   url: ''
 - key: Favole20_OII
   title: '[O II] emitters in MultiDark-Galaxies and DEEP2'
-  authors: 'Favole, G.; Gonzalez-Perez, V.; Stoppacher, D.; Orsi,
+  authors: 'Favole, G.; Gonzalez-Perez, V.; '<b>Stoppacher, D.</b>; Orsi,
     Á.; Comparat, J.; Cora, S.A.; Vega-Martínez, C.A.; Stevens, A.R.H.; Maraston, C.; Croton, D.; Knebe, A.;
     Benson, A.J.; Montero-Dorta, A.D.; Padilla, N.; Prada, F.; Thomas, D.'
   journal: MNRAS
@@ -40,7 +40,7 @@
   authors: 'Castrillo, A.; Zamora, S.; Rodríguez-Baras, M.; Cortés-Contreras,
     M.; Rebollido, I.; Corcho, P.; Millán, I.; Stoppacher,
     D.; Mérida, R.M.; Díaz, A.I.; Ascasibar, Y.'
-  journal: ''
+  journal: 'Conference proceeding'
   year: '2020'
   doi: ''
   url: ''
@@ -48,7 +48,7 @@
   title: 'Astro en casa'
   authors: 'Cortés-Contreras, M.; Castrillo, A.; Rebollido, I.;
     Rodríguez-Baras, M.; Stoppacher, D.; Zamora-Arenal, S.'
-  journal: ''
+  journal: 'Conference proceeding'
   year: '2020'
   doi: ''
   url: ''
