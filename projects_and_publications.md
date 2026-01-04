@@ -3,15 +3,15 @@ layout: page
 title: "Projects and Publications"
 ---
 
-<h2>Projects</h2>
+<h3>Projects</h3>
 
-<h3>Hidden Figures in the Sky</h3>
-
-
-<h3>The Multi-Dark Galaxies</h3>
+<h5>Hidden Figures in the Sky</h5>
 
 
-<h2>Publications</h2>
+<h5>The Multi-Dark Galaxies</h5>
+
+
+<h3>Publications</h3>
 <section>
   <ul class="pub-list">
     {% for pub in site.data.publications %}
