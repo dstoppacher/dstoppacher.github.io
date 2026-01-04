@@ -1,7 +1,7 @@
 - key: Stoppacher25_SAM_LRGs
   title: 'A semi-analytical perspective on massive red galaxies: I. Assembly history,
     environment, and redshift evolution'
-  authors: \textbf{\color{pblue}{Stoppacher}, D.} and {Montero-Dorta}, A.~D. and {Artale},
+  authors: {{Stoppacher}, D.} and {Montero-Dorta}, A.~D. and {Artale},
     M.~C. and {Knebe}, A. and {Padilla}, N. and {Benson}, A.~J. and {Behrens}, C.
   journal: A\&A
   year: '2025'
@@ -10,7 +10,7 @@
 - key: Stoppacher25_HFI
   title: 'Hidden figures in the sky: Evolution of low-surface-brightness galaxies
     from a hydrodynamical perspective'
-  authors: \textbf{\color{pblue}{Stoppacher}, D.} and {Tissera}, P. and {Rosas-Guevara},
+  authors: {{Stoppacher}, D.} and {Tissera}, P. and {Rosas-Guevara},
     Y. and {Galaz}, G. and {O{\~n}orbe}, J.
   journal: A\&A
   year: '2025'
@@ -21,7 +21,7 @@
   authors: '{Favole}, G. and {Gonzalez-Perez}, V. and {Ascasibar}, Y. and {Corcho-Caballero},
     P. and {Montero-Dorta}, A.~D. and {Benson}, A.~J. and {Comparat}, J. and {Cora},
     S.~A. and {Croton}, D. and {Guo}, H. and {Izquierdo-Villalba}, D. and {Knebe},
-    A. and {Orsi}, {\''A}. and \textbf{\color{pblue}{Stoppacher}, D.} and {Vega-Mart{\''\i}nez},
+    A. and {Orsi}, {\''A}. and {{Stoppacher}, D.} and {Vega-Mart{\''\i}nez},
     C.~A.'
   journal: A\&A
   year: '2024'
@@ -29,7 +29,7 @@
   url: ''
 - key: Favole20_OII
   title: '{$[O II]$ emitters in MultiDark-Galaxies and DEEP2}'
-  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and \textbf{\color{pblue}{Stoppacher},
+  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and {{Stoppacher},
     D.} and {Orsi}, {\''A}. and {Comparat}, J. and {Cora}, S.~A. and {Vega-Mart{\''\i}nez},
     C.~A. and {Stevens}, A.~R.~H. and {Maraston}, C. and {Croton}, D. and {Knebe},
     A. and {Benson}, A.~J. and {Montero-Dorta}, A.~D. and {Padilla}, N. and {Prada},
@@ -41,7 +41,7 @@
 - key: Castrillo20_ElObse
   title: '{El observatorio astron{\''o}mico de la UAM}'
   authors: '{Castrillo}, A. and {Zamora}, S. and {Rodr{\''\i}guez-Baras}, M. and {Cort{\''e}s-Contreras},
-    M. and {Rebollido}, I. and {Corcho}, P. and {Mill{\''a}n}, I. and \textbf{\color{pblue}{Stoppacher},
+    M. and {Rebollido}, I. and {Corcho}, P. and {Mill{\''a}n}, I. and {{Stoppacher},
     D.} and {M{\''e}rida}, R.~M. and {D{\''\i}az}, A.~I. and {Ascasibar}, Y.'
   journal: ''
   year: '2020'
@@ -50,7 +50,7 @@
 - key: Cortes-Contreras20_AstroEnCasa
   title: '{Astro en casa}'
   authors: '{Cort{\''e}s-Contreras}, M. and {Castrillo}, A. and {Rebollido}, I. and
-    {Rodr{\''\i}guez-Baras}, M. and \textbf{\color{pblue}{Stoppacher}, D.} and {Zamora-Arenal},
+    {Rodr{\''\i}guez-Baras}, M. and {{Stoppacher}, D.} and {Zamora-Arenal},
     S.'
   journal: ''
   year: '2020'
@@ -58,7 +58,7 @@
   url: ''
 - key: Stoppacher19
   title: '{A semi-analytical perspective on massive galaxies at z $\sim$ 0.55}'
-  authors: \textbf{\color{pblue}{Stoppacher}, D.} and {Prada}, F. and {Montero-Dorta},
+  authors: {{Stoppacher}, D.} and {Prada}, F. and {Montero-Dorta},
     A.~D. and {Rodr{\'{\i}}guez-Torres}, S. and {Knebe}, A. and {Favole}, G. and {Cui},
     W. and {Benson}, A.~J. and {Behrens}, C. and {Klypin}, A.~A.
   journal: MNRAS
@@ -67,21 +67,13 @@
   url: ''
 - key: Knebe17_MD
   title: 'MULTIDARK-GALAXIES: data release and first results'
-  authors: '{Knebe}, Alexander and \textbf{\color{pblue}{Stoppacher}, D.} and {Prada},
-    Francisco and
-
-    {Behrens}, Christoph and {Benson}, Andrew and {Cora}, Sofia A. and
-
-    {Croton}, Darren J. and {Padilla}, Nelson D. and {Ruiz}, Andr{\''e}s N. and
-
-    {Sinha}, Manodeep and {Stevens}, Adam R.~H. and
-
-    {Vega-Mart{\''\i}nez}, Cristian A. and {Behroozi}, Peter and
-
+  authors: '{Knebe}, Alexander and {{Stoppacher}, Doris} and {Prada},
+    Francisco and {Behrens}, Christoph and {Benson}, Andrew and {Cora}, Sofia A. and 
+    {Croton}, Darren J. and {Padilla}, Nelson D. and {Ruiz}, Andr{\''e}s N. and 
+    {Sinha}, Manodeep and {Stevens}, Adam R.~H. and 
+    {Vega-Mart{\''\i}nez}, Cristian A. and {Behroozi}, Peter and 
     {Gonzalez-Perez}, Violeta and {Gottl{\"o}ber}, Stefan and
-
     {Klypin}, Anatoly A. and {Yepes}, Gustavo and {Enke}, Harry and
-
     {Libeskind}, Noam I. and {Riebe}, Kristin and {Steinmetz}, Matthias'
   journal: MNRAS
   year: '2018'
@@ -93,7 +85,7 @@
   authors: '{Cui}, Weiguang and {Knebe}, Alexander and {Yepes}, Gustavo and {Pearce},
     Frazer and {Power}, Chris and {Dave}, Romeel and {Arth}, Alexander and {Borgani},
     Stefano and {Dolag}, Klaus and {Elahi}, Pascal and {Mostoghiu}, Robert and {Murante},
-    Giuseppe and {Rasia}, Elena and \textbf{\color{pblue}{Stoppacher}, D.} and et
+    Giuseppe and {Rasia}, Elena and {{Stoppacher}, Doris} and et
     al.'
   journal: MNRAS
   year: '2018'
