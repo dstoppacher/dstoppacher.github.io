@@ -442,4 +442,18 @@ div.button_white_small {
 #address-image + figure {
   margin-top: 0.1em;
 }
+#publications {
+  max-width: 900px;
+  margin: 2em auto;
+}
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+}
+
+.pub-item {
+  margin-bottom: 1.2em;
+  line-height: 1.4;
+}
 
