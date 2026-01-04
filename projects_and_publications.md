@@ -12,7 +12,7 @@ title: "Projects and Publications"
 
 
 <h3>Publications</h3>
-<section>
+<div>
   <ul class="pub-list">
     {% for pub in site.data.publications %}
       <li class="pub-item">
@@ -25,7 +25,7 @@ title: "Projects and Publications"
       </li>
     {% endfor %}
   </ul>
-</section>
+</div>
 
 
 <blockquote style="margin-bottom:2.5em">
