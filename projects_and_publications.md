@@ -7,7 +7,7 @@ title: "Projects and Publications"
 <blockquote>
 	<tt><b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.</tt>	
 	<div class="large-margin" style="text-align:center">
-		<img src="{{ site.baseurl }}/pictures/whirlpool_galaxy.png" width="75%" alt="The Whirlpool Galaxy"</img><br>		
+		<img src="{{ site.baseurl }}/pictures/whirlpool_galaxy.png" width="75%" alt="The Whirlpool Galaxy"/><br>		
 		<i><small>The Whirlpool Galaxy (Spiral Galaxy M51, NGC 5194), a classic spiral galaxy located in the Canes Venatici constellation, and its companion NGC 5195 (NASA and European Space Agency)
 		</small></i>
 	</div>	
