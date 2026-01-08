@@ -197,13 +197,12 @@ div.button_gray {
 div.text-block{
   width: 100%;
   margin: 0em;
-  padding: 0.0em;
+  padding: 1em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.12);
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.02);
   }
   @media screen and (max-width: 400px) {
   div.text-block {
@@ -488,7 +487,6 @@ div.button_white_small {
   align-items: stretch;      /* SAME HEIGHT */
   justify-content: center;
   width: 100%;
-  margin: 1em 0;
 }
 
 /* Text block */
@@ -499,7 +497,7 @@ div.button_white_small {
   text-align: justify;
   justify-content: center;   /* horizontal centring */
   align-items: center;
-  padding: 0.5em;
+  margin: auto 0.5em auto 1em;
 }
 
 /* Image block */
@@ -508,7 +506,7 @@ div.button_white_small {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.5em;
+  padding: 0.25em
 }
 
 .text-image-img img {
