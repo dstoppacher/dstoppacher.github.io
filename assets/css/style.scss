@@ -469,8 +469,8 @@ div.button_white_small {
 /* Text block */
 .text-image-text {
   font-family: 'Cabin Sketch';
-  font-size: 0.7em;
-  flex: 0 0 60%;
+  font-size: 1em;
+  flex: 0 0 50%;
   display: flex;
   justify-content: center;   /* horizontal centring */
   align-items: center;
@@ -479,7 +479,7 @@ div.button_white_small {
 
 /* Image block */
 .text-image-img {
-  flex: 0 0 40%;
+  flex: 0 0 50%;
   display: flex;
   justify-content: center;
   align-items: center;
