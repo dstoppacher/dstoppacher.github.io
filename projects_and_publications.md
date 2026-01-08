@@ -26,7 +26,7 @@ This project investigates the Universe’s faintest and most elusive galaxies. B
 	</p>
 	</div>
 	<div class="text-image-img">
-			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="40%" style="border-radius: 10px" alt="Evolution of the radius at maximum circular velocity"/>
+			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="75%" style="border-radius: 10px" alt="Evolution of the radius at maximum circular velocity"/>
 		 	<small>Figure 1: Figure 1: Redshift evolution RVmax​​ for LSBGs (black dashed) and HSBGs (orange solid, with white dots indicating simulation snapshots). Adapted from Stoppacher et al. 2025).</small>
 
 	</div>
