@@ -14,7 +14,7 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<div class="large-margin" style="text-align:center; background-color: #111; width=100%">
+<div class="large-margin" style="text-align:center; background-color: #111; width:100%; margin: 0em; padding: 0em">
 	<div class="text-block">
 		<h4>Hidden Figures in the Sky</h4>
 		<p>
