@@ -17,18 +17,16 @@ title: "Projects and Publications"
 
 <h4>Hidden Figures in the Sky</h4>
 
-This project investigates the Universe’s faintest and most elusive galaxies. By combining cosmological simulations and data-driven analysis, the project reveals how low-surface-brightness galaxies (LSBGs) form and evolve within their dark matter halos. Historically, LSBGs received little attention because of observational biases, leading to an underestimation of their relevance for galaxy formation studies.
+This project investigates the Universe’s faintest and most elusive galaxies. By combining cosmological simulations and data-driven analysis, the project reveals how low-surface-brightness galaxies (LSBGs) form and evolve within their dark matter halos. Once hidden by observational limits, these galaxies are now recognised as key to understanding galaxy evolution.
 
 <div class="text-image">
 	<div class="text-image-text">
-	 <p>
-		 We developed a straightforward method to estimate surface-brightness densities in high-impact hydro-simulations when full photometric information is unavailable. I enforced a strict stellar and halo mass selection to guarantee an unbiased characterisation of LSBGs relative to high-surface-brightness systems (HSBGs). We analysed the evolutionary pathways of LSBGs and found that their assembly histories are more complex than previously assumed. Fig. 1 introduces a novel diagnostic tool to characterise LSBGs using the radius at maximum stellar circular velocity (RVmax​​). Such an evolutionary track has not been presented in the literature before, making it a unique probe of how the inner halo structure of LSBGs develops over cosmic time. We identify a clear divergence in RVmax​​ z∼1.5 (red arrow) between LSBGs and HSBGs, marking the most pronounced separation of evolutionary paths between the two populations, in our analysis. From this epoch onward, the RVmax​​ of HSBGs do not evolve whereas LSBGs undergo substantial dynamical and structural evolution, indicating a fundamentally different assembly pathway and possibly unique galaxy-halo connection for those systems. Studying RVmax​​ provides a most-relevant diagnostic tool for identifying LSBG progenitors.
+	 <p> We developed a simple and robust method to estimate surface-brightness densities in hydrodynamical simulations even when full photometric information is unavailable. Using a strict stellar and halo mass selection, we obtained an unbiased comparison between low- and high-surface-brightness galaxies. We show that LSBGs follow more complex evolutionary pathways than previously assumed and introduce a new diagnostic based on the radius at maximum stellar circular velocity (RVmax). This evolutionary track, presented for the first time, reveals a clear divergence between LSBGs and HSBGs at 
+z∼1.5, marking the onset of fundamentally different assembly histories and identifying RVmax as a powerful tracer of LSBG progenitors. < small>The figure shows the redshift evolution RVmax​​ for LSBGs (black dashed) and HSBGs (orange solid). Adapted from Stoppacher et al. 2025.</small>
 	</p>
 	</div>
 	<div class="text-image-img">
-			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="75%" style="border-radius: 10px" alt="Evolution of the radius at maximum circular velocity"/>
-		 	<small>Figure 1: Figure 1: Redshift evolution RVmax​​ for LSBGs (black dashed) and HSBGs (orange solid, with white dots indicating simulation snapshots). Adapted from Stoppacher et al. 2025).</small>
-
+			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="100%" style="border-radius: 5px" alt="Evolution of the radius at maximum circular velocity"/>
 	</div>
 </div>
 
