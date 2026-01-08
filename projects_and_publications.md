@@ -15,13 +15,10 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-
-<blockquote>
+<div class="text-block">
 	<h4>Hidden Figures in the Sky</h4>
-	<div class="large-margin" style="text-align:center">	
 	This project investigates the Universe’s faintest and most elusive galaxies. By combining cosmological simulations and data-driven analysis, the project reveals how low-surface-brightness galaxies (LSBGs) form and evolve within their dark matter halos. Once hidden by observational limits, these galaxies are now recognised as key to understanding galaxy evolution.
-	</div>	
-</blockquote>
+</div>	
 
 <div class="text-image">
 	<div class="text-image-text">
