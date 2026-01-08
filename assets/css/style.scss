@@ -194,21 +194,53 @@ div.button_gray {
 }
 
 
-div.text-block{
+div.text-block {
   width: 100%;
   margin: 0em;
   padding: 1em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  justify-content: center;
   background-color: rgba(0, 0, 0, 0.02);
-  }
-  @media screen and (max-width: 400px) {
+}
+
+/* h4 inside text-block only */
+div.text-block h4 {
+  margin: 0 0 1.2em 0;
+  padding: 0.5em 0.8em;
+
+  font-size: 1.4em;
+  font-weight: 400;
+  text-align: left;
+  color: #111;
+
+  /* soft gradient */
+  background: linear-gradient(
+    90deg,
+    rgba(198, 234, 250, 0.8),
+    rgba(198, 234, 250, 0.2)
+  );
+
+  /* subtle depth */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+
+  /* clean look */
+  border-radius: 4px;
+  border-bottom: none;
+  text-shadow: none;
+}
+
+/* Responsive */
+@media screen and (max-width: 400px) {
   div.text-block {
-  margin:0em;
+    margin: 0em;
+  }
+
+  div.text-block h4 {
+    font-size: 1.2em;
   }
 }
+
 
 div.large-margin{
   margin:2.5em;
