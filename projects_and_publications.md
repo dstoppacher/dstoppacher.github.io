@@ -26,7 +26,7 @@ This project investigates the Universe’s faintest and most elusive galaxies. B
 	</p>
 	</div>
 	<div class="text-image-img">
-			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.jpg" style="border-radius: 10px" alt="Evolution of the radius at maximum circular velocity"/>
+			<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" style="border-radius: 10px" alt="Evolution of the radius at maximum circular velocity"/>
 			<small>Figure 1: Redshift evolution RVmax​​ for LSBGs (black dashed) and HSBGs (orange solid, with white dots indicating simulation snapshots). We identify a clear divergence in RVmax​​ z∼1.5 (red arrow) between LSBGs and HSBGs, marking the most pronounced separation of evolutionary paths between the two populations, in our analysis. From this epoch onward, the RVmax​​ of HSBGs do not evolve whereas LSBGs undergo substantial dynamical and structural evolution, indicating a fundamentally different assembly pathway and possibly unique galaxy-halo connection for those systems. Studying RVmax​​ provides a most-relevant diagnostic tool for identifying LSBG progenitors. Figure adapted from Stoppacher et al. (2025).</small>
 	</div>
 </div>
