@@ -12,7 +12,7 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<div align="left" style="margin-bottom: 1em; background-color: #111">
+<div align="left" style="padding-bottom: 1em; background-color: #1">
 	<div class="text-block">
 		<h4>Hidden Figures in the Sky</h4>
 		<p>
@@ -55,6 +55,6 @@ The MultiDark-Galaxies (MD-Galaxies) are feature-rich catalogues generated from 
 
 
 <blockquote>
-	<p>Once you took the first step, anything was possible.</b><br>
+	<p><b>Once you took the first step, anything was possible.</b><br>
 		&mdash; Katherine Johnson, <small>NASA Mathematician</small></p>								     
 </blockquote>	
