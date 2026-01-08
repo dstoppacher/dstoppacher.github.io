@@ -124,7 +124,7 @@ h2 {
 
 h4 {
   width: 100%;
-  margin: 0 auto 1.5em auto;   /* more space below */
+  margin: 0 auto 1em auto;   /* more space below */
   padding-bottom: 0.2em;      /* distance text → line */
   font-family: "Cabin Sketch";
   font-size: 1.35em;           /* larger heading */
@@ -136,7 +136,7 @@ h4 {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
 
   /* elegant separator line */
-  border-bottom: 1.5px solid rgba(85, 85, 85, 0.2);
+  border-bottom: 2px solid rgba(85, 85, 85, 0.2);
 }
 
 hr.fancyLine {
@@ -196,45 +196,23 @@ div.button_gray {
 
 div.text-block {
   width: 100%;
-  margin: 0em;
-  padding: 1em;
+  padding: 0em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
   background-color: rgba(255, 255, 255, 0.85);
-  margin: auto 0.5em auto 1em;  
+  margin: auto 0.5em auto 0.5em;  
 }
 
 /* h4 inside text-block only */
 div.text-block h4 {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-
-  width: 100vw;
-  box-sizing: border-box;
-
-  padding: 0.6em 1.2em;
-  margin-top: 0;
-  margin-bottom: 1.5em;
-
-  font-family: "Cabin Sketch";
+  margin: 0.5em;
+  padding: 0.5em 0.5em;
   font-size: 1.4em;
   font-weight: 400;
+  text-align: left;
   color: #111;
 
-  background: linear-gradient(
-    90deg,
-    rgba(198, 234, 250, 0.9),
-    rgba(198, 234, 250, 0.3)
-  );
-
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
-  border-radius: 0;
-  border: none;
-}
 
 
 /* Responsive */
