@@ -45,6 +45,7 @@ figure {
 }
 
 img {
+  font-family: "Cabin Sketch";
   text-align: justify;
   font-size: smaller;
   text-indent: 0;
@@ -398,6 +399,7 @@ div.button_white_small {
 
 /* Address + image container */
 #address-image {
+  font-family: "Cabin Sketch";
   display: flex;
   align-items: stretch;     /* SAME HEIGHT */
   justify-content: center;
@@ -459,6 +461,7 @@ div.button_white_small {
 
 /* Text + image container (60/40) */
 .text-image {
+  font-family: "Cabin Sketch";
   display: flex;
   align-items: stretch;      /* SAME HEIGHT */
   justify-content: center;
@@ -468,7 +471,6 @@ div.button_white_small {
 
 /* Text block */
 .text-image-text {
-  font-family: 'Cabin Sketch';
   font-size: 0.9em;
   flex: 0 0 60%;
   display: flex;
