@@ -196,11 +196,12 @@ div.button_gray {
 
 div.text-block {
   width: 100%;
-  padding: 0em;
+  padding: 1em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  margin: auto 0.5em auto 0.5em;  
+  margin: auto 0em auto 0em;
+  background-color: rgba(0, 0, 0, 0.12);
 }
 
 /* h4 inside text-block only */
@@ -559,8 +560,8 @@ div.button_white_small {
 blockquote {
   width: 100%;
   font-size: 0.9em;          
-  margin: 1em 1.5em 2.5em 1em; 
-  padding-left: 0em;
+  margin: 0em; 
+  padding-left: 1em 1.5em 2.5em 1em;
   color: rgba(0, 0, 0, 0.75);
   background-color: rgba(0, 0, 0, 0.12);
   font-family: monospace;
