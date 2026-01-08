@@ -123,6 +123,25 @@ h2 {
     
 }
 
+h4 {
+  width: 100%;
+  margin: 0 auto 1.5em auto;   /* more space below */
+  padding-bottom: 0.4em;      /* distance text → line */
+
+  font-family: "Cabin Sketch";
+  font-size: 1.35em;           /* larger heading */
+  font-weight: 400;
+  text-align: left;
+  color: #111;
+
+  /* subtle depth without a box */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+
+  /* elegant separator line */
+  border-bottom: 1.5px solid rgba(85, 85, 85, 0.2);
+}
+
+/*
 h4 { 
     width: 100%;
     height: 1.2em; 
@@ -134,7 +153,7 @@ h4 {
     font-family: "Cabin Sketch";
     border-bottom: 2px solid rgba(85, 85, 85, 0.1);  
 }
-
+*/
 hr.fancyLine {
       border: none;
       border-top: 35px solid rgba(85, 85, 85, 0.1);
@@ -471,7 +490,7 @@ div.button_white_small {
 
 /* Text block */
 .text-image-text {
-  font-size: 0.9em;
+  font-size: 0.75em;
   flex: 0 0 60%;
   display: flex;
   text-align: justify;
