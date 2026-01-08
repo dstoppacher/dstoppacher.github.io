@@ -55,6 +55,6 @@ The MultiDark-Galaxies (MD-Galaxies) are feature-rich catalogues generated from 
 
 
 <blockquote>
-	<tt><b>Once you took the first step, anything was possible.</b><br>
-		&mdash; Katherine Johnson, <small>NASA Mathematician</small></tt><br>								     
+	<p>Once you took the first step, anything was possible.</b><br>
+		&mdash; Katherine Johnson, <small>NASA Mathematician</small></p>								     
 </blockquote>	
