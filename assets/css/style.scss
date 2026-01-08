@@ -200,7 +200,6 @@ div.text-block {
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  background-color: rgba(255, 255, 255, 0.85);
   margin: auto 0.5em auto 0.5em;  
 }
 
@@ -213,8 +212,6 @@ div.text-block h4 {
   text-align: left;
   color: #111;
 }
-
-
 
 /* Responsive */
 @media screen and (max-width: 400px) {
@@ -516,6 +513,7 @@ div.button_white_small {
   justify-content: center;   /* horizontal centring */
   align-items: center;
   margin: auto 0.5em auto 1em;
+  background-color: #111;
 }
 
 /* Image block */
