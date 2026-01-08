@@ -2,8 +2,6 @@
 layout: page
 title: "Projects and Publications"
 ---
-
-
 <blockquote>
 	<b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.
 	<div class="large-margin" style="text-align:center">
@@ -14,7 +12,7 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<div class="large-margin" style="text-align:center; background-color: #111; width:100%; margin: 0em; padding: 0em">
+<div align="center" style="margin-bottom: 15px">
 	<div class="text-block">
 		<h4>Hidden Figures in the Sky</h4>
 		<p>
