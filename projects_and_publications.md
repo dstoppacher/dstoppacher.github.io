@@ -16,9 +16,20 @@ title: "Projects and Publications"
 <h3>Projects</h3>
 
 <div> 
-	<h5>Hidden Figures in the Sky</h5>
+	<h4>Hidden Figures in the Sky</h4>
 	This project investigates the Universe’s faintest and most elusive galaxies. By combining cosmological simulations and data-driven analysis, the project reveals how low-surface-brightness galaxies (LSBGs) form and evolve within their dark matter halos. Historically, LSBGs received little attention because of observational biases, leading to an underestimation of their relevance for galaxy formation studies.
 </div>
+
+<blockquote>
+	<div id="address-image">
+	  <div id="address-image-left">
+For the <b>Hidden Figures in the Sky</b> project, I developed a straightforward method to estimate surface-brightness densities in high-impact hydro-simulations when full photometric information is unavailable. I enforced a strict stellar and halo mass selection to guarantee an unbiased characterisation of LSBGs relative to high-surface-brightness systems (HSBGs). I analysed the evolutionary pathways of LSBGs and found that their assembly histories are more complex than previously assumed. Fig. 1 introduces a novel diagnostic tool to characterise LSBGs using the radius at maximum stellar circular velocity (RVmax​​); to my knowledge, such an evolutionary track has not been presented in the literature before, making it a unique probe of how the inner halo structure of LSBGs develops over cosmic time.
+	  </div>
+	  <div id="address-image-right">
+		<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.jpg" style="border-radius: 10px" height="50%" alt="Evolution of the radius at maximum circular velocity"/>
+	  </div>
+	</div>
+</blockquote>
 
 
 <h5>The Multi-Dark Galaxies</h5>
