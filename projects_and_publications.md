@@ -5,7 +5,7 @@ title: "Projects and Publications"
 
 
 <blockquote>
-	<tt><b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.</tt>	
+	<b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.
 	<div class="large-margin" style="text-align:center">
 		<img src="{{ site.baseurl }}/pictures/1280px-Messier51_sRGB.jpg" width="75%" alt="The Whirlpool Galaxy"/><br>		
 		<i><small>The Whirlpool Galaxy (Spiral Galaxy M51, NGC 5194), a classic spiral galaxy located in the Canes Venatici constellation, and its companion NGC 5195 (NASA and European Space Agency)
@@ -15,10 +15,12 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<blockquote>
-<h4>Hidden Figures in the Sky</h4>
 
+<blockquote>
+	<h4>Hidden Figures in the Sky</h4>
+	<div class="large-margin" style="text-align:center">	
 	This project investigates the Universe’s faintest and most elusive galaxies. By combining cosmological simulations and data-driven analysis, the project reveals how low-surface-brightness galaxies (LSBGs) form and evolve within their dark matter halos. Once hidden by observational limits, these galaxies are now recognised as key to understanding galaxy evolution.
+	</div>	
 </blockquote>
 
 <div class="text-image">
