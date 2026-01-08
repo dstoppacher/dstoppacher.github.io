@@ -125,8 +125,7 @@ h2 {
 h4 {
   width: 100%;
   margin: 0 auto 1.5em auto;   /* more space below */
-  padding-bottom: 0.4em;      /* distance text → line */
-
+  padding-bottom: 0.2em;      /* distance text → line */
   font-family: "Cabin Sketch";
   font-size: 1.35em;           /* larger heading */
   font-weight: 400;
@@ -196,12 +195,15 @@ div.button_gray {
 
 
 div.text-block{
+  width: 100%;
   margin: 0em;
-  padding: 0.5em;
+  padding: 0.0em;
   font-family: "Cabin Sketch";
-  font-size: 0.8em; 
+  font-size: 0.85em;
+  text-align: justify;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.12);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
   }
   @media screen and (max-width: 400px) {
   div.text-block {
