@@ -557,12 +557,11 @@ div.button_white_small {
 }
 
 blockquote {
-  font-size: 0.9em;          /* slightly smaller text */
-  margin: 1em 1.5em 2.5em;   /* larger bottom margin */
-  padding-left: 1em;
-
+  font-size: 0.9em;          
+  margin: 1em 1.5em 2.5em 1em; 
+  padding-left: 0em;
   color: rgba(0, 0, 0, 0.75);
-  border-left: 4px solid rgba(85, 85, 85, 0.25);
-
+  background-color: rgba(0, 0, 0, 0.12);
+  font-family: monospace;
   font-style: italic;
 }
