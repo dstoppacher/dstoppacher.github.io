@@ -124,7 +124,7 @@ h2 {
 
 h4 {
   width: 100%;
-  margin: 0 auto 0em auto;   /* more space below */
+  margin: 0em auto 0em auto;   /* more space below */
   padding-bottom: 0.2em;      /* distance text → line */
   font-family: "Cabin Sketch";
   font-size: 1.35em;           /* larger heading */
@@ -200,14 +200,14 @@ div.text-block {
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  margin: auto 0em auto 0em;
+  margin: 0.5em 0em 0.5em 0em;
   background-color: rgba(0, 0, 0, 0.12);
 }
 
 /* h4 inside text-block only */
 div.text-block h4 {
   margin: 0.5em;
-  padding: 0.5em 0.5em;
+  padding: 0.5em 0em 0.5em 0em;
   font-size: 1.4em;
   font-weight: 400;
   text-align: left;
@@ -561,7 +561,7 @@ blockquote {
   width: 100%;
   font-size: 0.9em;          
   margin: 0em;  
-  padding-left: 0em 0em 0em 0em;
+  padding: 0em 0em 0em 0em;
   color: rgba(0, 0, 0, 0.75);
   background-color: rgba(0, 0, 0, 0.12);
   font-family: monospace;
