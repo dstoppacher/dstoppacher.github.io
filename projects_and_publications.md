@@ -12,7 +12,7 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<div align="left" style="padding-bottom: 0em; background-color: #1">
+<div align="left" style="padding-bottom: 1em; background-color: #1">
 	<div class="text-block">
 		<h4>Hidden Figures in the Sky</h4>
 		<p>
