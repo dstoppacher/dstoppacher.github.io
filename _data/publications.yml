@@ -2,7 +2,7 @@
   title: '{The emergence of the faint nature of low surface brightness galaxies in
     the IllustrisTNG simulation}'
   authors: '{P{\''e}rez-Monta{\~n}o}, Luis Enrique and {Cervantes Sodi}, Bernardo
-    and {Rodriguez-Gomez}, Vicente and <b>{Stoppacher}, Doris<\b> and {Cao}, Tian-Wen'
+    and {Rodriguez-Gomez}, Vicente and <b>{Stoppacher}, Doris</b> and {Cao}, Tian-Wen'
   journal: \mnras
   year: '2026'
   doi: 10.1093/mnras/stag1127
@@ -25,12 +25,11 @@
 - key: Stoppacher25_SAM_LRGs
   title: 'A semi-analytical perspective on massive red galaxies: I. Assembly history,
     environment, and redshift evolution'
-  authors: '<b>{Stoppacher}, D.<\b> and {Montero-Dorta}, A.~D. and {Artale}, M.~C. and {Knebe},
+  authors: '<b>{Stoppacher}, D.</b> and {Montero-Dorta}, A.~D. and {Artale}, M.~C. and {Knebe},
     A. and {Padilla}, N. and {Benson}, A.~J. and {Behrens}, C.'
   journal: A\&A
   year: '2025'
-  doi: 10.1051/0004-6361/202449232
-  
+  doi: 10.1051/0004-6361/202449232  
 - key: Favole24_ELGs
   title: Characterizing the ELG luminosity functions in the nearby Universe
   authors: '{Favole}, G. and {Gonzalez-Perez}, V. and {Ascasibar}, Y. and {Corcho-Caballero},
@@ -42,7 +41,7 @@
   doi: 10.1051/0004-6361/202346443
 - key: Favole20_OII
   title: '{$[O II]$ emitters in MultiDark-Galaxies and DEEP2}'
-  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and <b>{Stoppacher}, D.<\b> and {Orsi},
+  authors: '{Favole}, G. and {Gonzalez-Perez}, V. and <b>{Stoppacher}, D.</b> and {Orsi},
     {\''A}. and {Comparat}, J. and {Cora}, S.~A. and {Vega-Mart{\''\i}nez}, C.~A.
     and {Stevens}, A.~R.~H. and {Maraston}, C. and {Croton}, D. and {Knebe}, A. and
     {Benson}, A.~J. and {Montero-Dorta}, A.~D. and {Padilla}, N. and {Prada}, F. and
@@ -50,12 +49,11 @@
   journal: MNRAS
   year: '2020'
   doi: 10.1093/mnras/staa2292
-
 - key: Castrillo20_ElObse
   title: '{El observatorio astron{\''o}mico de la UAM}'
   authors: '{Castrillo}, A. and {Zamora}, S. and {Rodr{\''\i}guez-Baras}, M. and {Cort{\''e}s-Contreras},
     M. and {Rebollido}, I. and {Corcho}, P. and {Mill{\''a}n}, I. and <b>{Stoppacher},
-    D.<\b> and {M{\''e}rida}, R.~M. and {D{\''\i}az}, A.~I. and {Ascasibar}, Y.'
+    D.</b> and {M{\''e}rida}, R.~M. and {D{\''\i}az}, A.~I. and {Ascasibar}, Y.'
   journal: ''
   year: '2020'
   doi: ''
@@ -68,7 +66,7 @@
   doi: ''
 - key: Stoppacher19
   title: '{A semi-analytical perspective on massive galaxies at z $\sim$ 0.55}'
-  authors: '<b>{Stoppacher}, D.<\b> and {Prada}, F. and {Montero-Dorta}, A.~D. and {Rodr{\''{\i}}guez-Torres},
+  authors: '<b>{Stoppacher}, D.</b> and {Prada}, F. and {Montero-Dorta}, A.~D. and {Rodr{\''{\i}}guez-Torres},
     S. and {Knebe}, A. and {Favole}, G. and {Cui}, W. and {Benson}, A.~J. and {Behrens},
     C. and {Klypin}, A.~A.'
   journal: MNRAS
@@ -80,7 +78,7 @@
   authors: '{Cui}, Weiguang and {Knebe}, Alexander and {Yepes}, Gustavo and {Pearce},
     Frazer and {Power}, Chris and {Dave}, Romeel and {Arth}, Alexander and {Borgani},
     Stefano and {Dolag}, Klaus and {Elahi}, Pascal and {Mostoghiu}, Robert and {Murante},
-    Giuseppe and {Rasia}, Elena and <b>{Stoppacher}, Doris<\b> and {Vega-Ferrero}, Jesus
+    Giuseppe and {Rasia}, Elena and <b>{Stoppacher}, Doris</b> and {Vega-Ferrero}, Jesus
     and {Wang}, Yang and {Yang}, Xiaohu and {Benson}, Andrew and {Cora}, Sof{\''\i}a
     A. and {Croton}, Darren J. and {Sinha}, Manodeep and {Stevens}, Adam R.~H. and
     {Vega-Mart{\''\i}nez}, Cristian A. and {Arthur}, Jake and {Baldi}, Anna S. and
@@ -93,7 +91,7 @@
   doi: 10.1093/mnras/sty2111
 - key: Knebe17_MD
   title: 'MULTIDARK-GALAXIES: data release and first results'
-  authors: '{Knebe}, Alexander and <b>{Stoppacher}, D.<\b> and {Prada}, Francisco and
+  authors: '{Knebe}, Alexander and <b>{Stoppacher}, D.</b> and {Prada}, Francisco and
 
     {Behrens}, Christoph and {Benson}, Andrew and {Cora}, Sofia A. and
 
