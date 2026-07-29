@@ -587,3 +587,12 @@ simplequote {
   font-style: italic;
   border-radius: 6px;
 }
+.note-list {
+  list-style: none;
+  margin-left: 4em;
+  padding-left: 0;
+}
+
+.note-list li {
+  margin-bottom: 0.3em;
+}
