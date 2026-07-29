@@ -557,6 +557,7 @@ div.button_white_small {
   margin-top: 0.1em;
 }
 
+
 blockquote {
   width: 100%;
   box-sizing: border-box;
@@ -566,7 +567,12 @@ blockquote {
   margin-right: 0;
   color: rgba(0, 0, 0, 0.75);
   background-color: rgba(0, 0, 0, 0.12);
-  border-left: 4px solid rgba(85, 85, 85, 0.25);
+
   font-family: monospace;
   font-style: italic;
+}
+.wrapper blockquote {
+  width: calc(100% + 2em);
+  margin-left: -1em;
+  margin-right: -1em;
 }
