@@ -572,3 +572,18 @@ blockquote {
   border-radius: 6px;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
+
+simplequote {
+  width: 80%;
+  box-sizing: border-box;
+  font-size: 0.9em;      
+  margin-top: 2.5em;
+  margin-bottom: 2em;
+  margin-left: 1em;
+  margin-right: auto;
+  color: #1;
+  background-color: rgba(0, 0, 0, 0.12);
+  font-family: monospace;
+  font-style: italic;
+  border-radius: 6px;
+}
