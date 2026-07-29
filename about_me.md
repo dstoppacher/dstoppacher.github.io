@@ -3,11 +3,13 @@ layout: page
 title: "Curriculum Vitae D. Stoppacher"
 ---
 
-<blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>Hi, I’m Doris, a computational astrophysicist working on galaxy formation modelling. I study how galaxies form and how the Universe evolves on its largest scales.</tt>			     
-</blockquote>
+
 
 ### About Me
+
+<simplequote style="margin-bottom:2.5em">
+	<tt><b>About: </b>Hi, I’m Doris, a computational astrophysicist working on galaxy formation modelling. I study how galaxies form and how the Universe evolves on its largest scales.</tt>			     
+</simplequote>
 
 <div class="large-margin" style="text-align:center">
 	<img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" width="75%" alt="Doris Stoppacher"/>
