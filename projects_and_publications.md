@@ -53,6 +53,7 @@ The MultiDark-Galaxies (MD-Galaxies) are feature-rich catalogues generated from 
   </ul>
 </div>
 
+<hr class="fancyLine"></hr>
 
 <simplequote>
 	<tt>
