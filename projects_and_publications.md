@@ -106,7 +106,7 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 <div class="two-images">
 
   <figure class="two-images-item">
-    <img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" alt="Description of image 1">
+    <img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" alt="IC 5332 imaged by the Hubble Space Telescope (by Judy Schmidt)">
     <figcaption>Short caption for the first image.</figcaption>
   </figure>
 
