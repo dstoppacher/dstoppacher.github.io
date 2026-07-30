@@ -147,9 +147,9 @@ h4 {
 h5 {
   width: 95%;
   margin: 0em auto 0em auto;   /* more space below */
-  padding-bottom: 0.2em;      /* distance text → line */
+  padding-bottom: 0.35em;      /* distance text */
   font-family: "Cabin Sketch";
-  font-size: 1.25em;           /* larger heading */
+  font-size: 1.2em;           /* larger heading */
   font-weight: 400;
   text-align: left;
   color: #111;
@@ -207,20 +207,20 @@ div.button_gray {
 
 
 div.text-block {
-  width: 100%;
-  padding: 0.5em;
+  width: 95%;
+  padding: 0em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  margin: 0.5em 0em 0.5em 2em;
+  margin: 0.5em auto 0.5em auto;
   background-color: #1;
 }
 
 /* h4 inside text-block only */
 div.text-block h4 {
   margin: 0.5em;
-  padding: 0em 0em 0em 0em;
-  font-size: 1.4em;
+  padding: 0em auto 0em auto;
+  font-size: 1em;
   font-weight: 400;
   text-align: left;
   color: #111;
