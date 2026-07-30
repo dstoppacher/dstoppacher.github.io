@@ -216,16 +216,15 @@ div.text-block {
   background-color: #1;
 }
 
-/* h4 inside text-block only */
+/* h4 inside text-block only 
 div.text-block h4 {
   margin: 0.5em;
   padding: 0em auto 0em auto;
-  font-size: 1em;
   font-weight: 400;
   text-align: left;
   color: #111;
 }
-
+*/
 /* Responsive */
 @media screen and (max-width: 400px) {
   div.text-block {
