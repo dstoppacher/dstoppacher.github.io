@@ -50,7 +50,8 @@ title: "Projects and Publications"
         {% endif %}
       </li>
     {% endfor %}
-  </ul>	
+  </ul>
+  <hr class="fancyLine">
 </div>
 
 
