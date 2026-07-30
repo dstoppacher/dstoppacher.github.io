@@ -91,7 +91,17 @@ FOGLESS is a Spanish research collaboration bringing together researchers from m
 	</div>
 </div>
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>
+
+<div>
+	<div class="text-block">
+		<h4>"The Extremes" of galaxy formation and evolution</h4>
+		<h5>From Bright Cluster Galaxies to Low-Surface-Brightness Galaxies</h5>
+		<p>
+What determines whether a galaxy becomes one of the most massive and dominant systems in the Universe—or remains faint, diffuse, and almost invisible? The Extremes brings together two seemingly opposite galaxy populations: Brightest Cluster Galaxies (BCGs) and low-surface-brightness galaxies (LSBs). By tracing their assembly histories from the early Universe to today, we investigate how the initial conditions and growth of their dark matter haloes steer galaxies toward radically different evolutionary paths. Focusing on the critical epochs at high redshift, when the foundations of present-day galaxies are established, this unified framework aims to uncover the evolutionary turning points that shape the most extreme galaxies in the Universe and to provide new predictions for finding their progenitors in the distant cosmos.
+		</p>
+	</div>
+</div>
 
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
 
