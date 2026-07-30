@@ -49,7 +49,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="100%" style="border-radius: 5px" alt="Evolution of the radius at maximum circular velocity"/>
+		<img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" width="100%" style="border-radius: 5px" alt="Stellar mass function of the MultiDark-Galaxies a z=0.1"/>
 	</div>
 </div>
 
