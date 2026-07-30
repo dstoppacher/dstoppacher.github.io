@@ -111,8 +111,8 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
   </figure>
 
   <figure class="two-images-item">
-    <img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" alt="Description of image 2">
-    <figcaption>Short caption for the second image.</figcaption>
+    <img src="{{ site.baseurl }}/pictures/Messier_87_Hubble_WikiSky.jpg" alt="The galactic core of Messier 87 as imaged by the Hubble Space Telescope">
+    <figcaption>The galactic core of Messier 87 as imaged by the Hubble Space Telescope.</figcaption>
   </figure>
 
 </div>
