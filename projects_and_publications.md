@@ -21,7 +21,6 @@ This project explores the formation and evolution of low-surface-brightness gala
 		</p>
 	</div>
 </div>
-
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>In Stoppacher et al. (2025b), we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed. We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time</b><br>
@@ -49,7 +48,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
-			 For this project, I combined and processed several terabytes of simulation outputs and carried out all preparation, testing, and data-reduction steps required for their public release as MD-Galaxies. My work included pipeline development (publicly available on GitHub), validation and consistency checks, and full documentation. I ensured that the catalogues were scientifically robust, reproducible, and publicly accessible and continued to provide technical and scientific support to users, helping to maintain the long-term value and usability of these community data products. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
+			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
 		 </p>
 	</div>
 	<div class="text-image-img">
