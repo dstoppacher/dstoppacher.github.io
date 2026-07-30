@@ -573,65 +573,55 @@ div.button_white_small {
   margin-top: 0.1em;
 }
 
-/* 2 image container (40/40) */
 .image1-image2 {
   font-family: "Cabin Sketch";
   display: flex;
-  align-items: stretch;      /* SAME HEIGHT */
+  align-items: flex-start;
   justify-content: center;
   width: 100%;
 }
 
-/* Image block1 */
+/* Image block 1 */
 .image1-image2-img1 {
   flex: 0 0 40%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.25em
+  padding: 0.25em;
+  box-sizing: border-box;
 }
 
-/* Image block2 */
+/* Image block 2 */
 .image1-image2-img2 {
   flex: 0 0 40%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.25em
+  padding: 0.25em;
+  box-sizing: border-box;
 }
 
-.image1-image2-img1 img {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-
+/* Images */
+.image1-image2-img1 img,
 .image1-image2-img2 img {
   max-width: 100%;
-  max-height: 100%;
+  height: auto;
+  display: block;
 }
 
 /* Responsive: stack */
 @media screen and (max-width: 700px) {
-  .image1-image2,
-  .image1-image2.reverse {
+  .image1-image2 {
     flex-direction: column;
   }
 
   .image1-image2-img1,
   .image1-image2-img2 {
     flex: 1 1 auto;
+    width: 100%;
   }
 }
 
-/* Spacing control (same logic as your address container) */
-.image1-image2 {
-  margin-bottom: 0.1em;
-}
-
-.image1-image2 + figure {
-  margin-top: 0.1em;
-}
 
 /* Two images side by side (50/50) */
 .two-images {
