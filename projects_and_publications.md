@@ -12,7 +12,7 @@ title: "Projects and Publications"
 
 <h3>Projects</h3>
 
-<div align="left" style="padding-bottom: 1em; background-color: #1">
+<div align="left" style="padding-bottom: 1em">
 	<div class="text-block">
 		<h4>Hidden Figures in the Sky</h4>
 		<p>
@@ -50,10 +50,10 @@ The MultiDark-Galaxies (MD-Galaxies) are feature-rich catalogues generated from 
         {% endif %}
       </li>
     {% endfor %}
-  </ul>
+  </ul>	
+<hr class="fancyLine">
 </div>
 
-<hr class="fancyLine">
 
 <simplequote>
 	<tt>
