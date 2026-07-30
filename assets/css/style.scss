@@ -573,6 +573,55 @@ div.button_white_small {
   margin-top: 0.1em;
 }
 
+/* Two images side by side (50/50) */
+.two-images {
+  font-family: "Cabin Sketch";
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 0.1em;
+}
+
+/* Individual image + caption block */
+.two-images-item {
+  flex: 0 0 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.25em;
+  box-sizing: border-box;
+}
+
+/* Images */
+.two-images-item img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Captions */
+.two-images-item figcaption {
+  font-size: 0.7em;
+  margin-top: 0.4em;
+  line-height: 1.2;
+  text-align: center;
+}
+
+/* Responsive: stack images */
+@media screen and (max-width: 700px) {
+  .two-images {
+    flex-direction: column;
+  }
+
+  .two-images-item {
+    flex: 1 1 auto;
+    width: 100%;
+  }
+}
+
+
 blockquote {
   width: 100%;
   box-sizing: border-box;
