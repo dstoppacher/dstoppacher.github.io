@@ -70,6 +70,10 @@ figcaption:before {
   font-weight: bold;
 }
 
+/**
+ * Headings
+ */
+
 h3 { 
     width: 95%; 
     height: 1.5em; 
@@ -123,7 +127,7 @@ h2 {
 }
 
 h4 {
-  width: 100%;
+  width: 95%;
   margin: 0em auto 0em auto;   /* more space below */
   padding-bottom: 0.2em;      /* distance text → line */
   font-family: "Cabin Sketch";
@@ -139,6 +143,8 @@ h4 {
   /* elegant separator line */
   border-bottom: 2px solid rgba(85, 85, 85, 0.2);
 }
+
+
 
 hr.fancyLine {
     width: 95%;
@@ -190,14 +196,13 @@ div.button_gray {
 
 
 div.text-block {
-  width: 100%;
+  width: 95%;
   padding: 0em;
   font-family: "Cabin Sketch";
   font-size: 0.85em;
   text-align: justify;
-  margin: 0.5em 0em 0.5em 0em;
+  margin: 0.5em 0em 0.5em 2em;
   background-color: #1;
-  /*background-color: rgba(0, 0, 0, 0.12);*/
 }
 
 /* h4 inside text-block only */
