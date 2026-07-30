@@ -24,8 +24,8 @@ This project explores the formation and evolution of low-surface-brightness gala
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p><b>In Stoppacher et al. (2025b), we investigated the evolutionary pathways of low-surface-brightness galaxies (LSBs) and found that their assembly histories are considerably more complex than previously assumed. We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which, to our knowledge, has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time</b><br>
-<small>The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from Stoppacher et al. (2025b)</small>
+		 <p><b>In Stoppacher et al. (2025b), we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed. We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time</b><br>
+<small>The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from Stoppacher et al. (2025b)</small>
 		 </p>
 	</div>
 	<div class="text-image-img">
