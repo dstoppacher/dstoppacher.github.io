@@ -33,6 +33,9 @@ This project explores the formation and evolution of low-surface-brightness gala
 	</div>
 </div>
 
+
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>    
+
 <div>
 	<div class="text-block">
 		<h4>The Multi-Dark Galaxie</h4>
@@ -54,6 +57,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 	</div>
 </div>
 
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>    
 
 <h3>Publications</h3>
 <div>
