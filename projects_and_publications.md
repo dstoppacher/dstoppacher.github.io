@@ -75,11 +75,33 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
+		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir_CMASS.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
 	</div>
 </div>
 
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>  
+
+<div>
+	<div class="text-block">
+		<h4>FOGLESS + The Machine</h4>
+		<h5>Understanding how galaxies are shaped by their cosmic environment</h5>
+		<p>
+		Within the FOGLESS research network, I developed GalaxyShapeNet, a novel machine-learning framework for estimating the three-dimensional shapes of galaxy clusters directly from their galaxy populations. By combining simulations, deep learning, and the geometry of the cosmic web, this work opens new ways to connect the large-scale environment of the Universe with the structure and evolution of galaxies and galaxy clusters.
+		</p>
+	</div>
+</div>
+<div class="text-image">
+	<div class="text-image-text">
+		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift. By placing these galaxies within the cosmic web—from dense knots to less dense filaments—we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.</b><br>
+			 Halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from Stoppacher et al. (2025).
+		 </p>
+	</div>
+	<div class="text-image-img">
+		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir_CMASS.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
+	</div>
+</div>
+
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
 
 <h3>Publications</h3>
 <div>
