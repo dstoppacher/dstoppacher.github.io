@@ -149,7 +149,7 @@ h5 {
   margin: 0em auto 0em auto;   /* more space below */
   padding-bottom: 0.35em;      /* distance text */
   font-family: "Cabin Sketch";
-  font-size: 1.2em;           /* larger heading */
+  font-size: 1.35em;           /* larger heading */
   font-weight: 400;
   text-align: left;
   color: #111;
@@ -216,26 +216,11 @@ div.text-block {
   background-color: #1;
 }
 
-/* h4 inside text-block only 
-div.text-block h4 {
-  margin: 0.5em;
-  padding: 0em auto 0em auto;
-  font-weight: 400;
-  text-align: left;
-  color: #111;
-}
-*/
 /* Responsive */
 @media screen and (max-width: 400px) {
   div.text-block {
     margin: 0em;
   }
-
-  div.text-block h4 {
-    font-size: 1.2em;
-  }
-}
-
 
 div.large-margin{
   margin:2.5em;
@@ -513,12 +498,12 @@ div.button_white_small {
   display: flex;
   align-items: stretch;      /* SAME HEIGHT */
   justify-content: center;
-  width: 95%;
+  width: 100%;
 }
 
 /* Text block */
 .text-image-text {
-  font-size: 0.9em;
+  font-size: 0.85em;
   flex: 0 0 60%;
   display: flex;
   text-align: justify;
