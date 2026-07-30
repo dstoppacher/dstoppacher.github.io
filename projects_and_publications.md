@@ -116,12 +116,12 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
   </figure>
 </div>
 
-<div class="imgae1-image2">
+<div class="imgage1-image2">
 	<div class="image1-image2-img1">
-    <img src="{{ site.baseurl }}/pictures/IC_5332_-_HST.jpg" style="border-radius: 5px" alt="IC 5332 imaged by the Hubble Space Telescope (by Judy Schmidt)">
+    	<img src="{{ site.baseurl }}/pictures/IC_5332_-_HST.jpg" style="border-radius: 5px" alt="IC 5332 imaged by the Hubble Space Telescope (by Judy Schmidt)">
 	</div>
 	<div class="image1-image2-img2">
-	<img src="{{ site.baseurl }}/pictures/Messier_87_Hubble_WikiSky.jpg" style="border-radius: 5px" alt="The galactic core of Messier 87 as imaged by the Hubble Space Telescope"></div>
+		<img src="{{ site.baseurl }}/pictures/Messier_87_Hubble_WikiSky.jpg" style="border-radius: 5px" alt="The galactic core of Messier 87 as imaged by the Hubble Space Telescope"></div>
 </div>
 
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
