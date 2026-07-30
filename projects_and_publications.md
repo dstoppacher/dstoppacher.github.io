@@ -58,6 +58,29 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>    
 
+<div>
+	<div class="text-block">
+		<h4>A Semi-Analytical Perspective on Massive and Red Galaxies</h4>
+		<h5>Exploring the origin and evolution of the most massive and passive galaxies in the Universe.</h5>
+		<p>
+		By combining semi-analytical galaxy formation models with large cosmological simulations, this research investigates how galaxies grow, quench, and become embedded in increasingly massive dark matter environments. The project offers a complementary perspective on galaxy evolution, linking the observable properties of massive galaxies to their underlying formation histories and halo assembly.
+		</p>
+	</div>
+</div>
+
+<div class="text-image">
+	<div class="text-image-text">
+		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
+			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
+		 </p>
+	</div>
+	<div class="text-image-img">
+		<img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" width="100%" style="border-radius: 5px" alt="Stellar mass function of the MultiDark-Galaxies a z=0.1"/>
+	</div>
+</div>
+
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>  
+
 <h3>Publications</h3>
 <div>
   <ul class="pub-list">
