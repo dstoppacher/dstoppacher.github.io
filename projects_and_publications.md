@@ -24,7 +24,7 @@ This project explores the formation and evolution of low-surface-brightness gala
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>In Stoppacher et al. (2025b), we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed. We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time</b><br>
-<small>The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from Stoppacher et al. (2025b)</small>
+The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from Stoppacher et al. (2025b)
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -86,20 +86,12 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 		<h4>FOGLESS + The Machine</h4>
 		<h5>Understanding how galaxies are shaped by their cosmic environment</h5>
 		<p>
-		Within the FOGLESS research network, I developed GalaxyShapeNet, a novel machine-learning framework for estimating the three-dimensional shapes of galaxy clusters directly from their galaxy populations. By combining simulations, deep learning, and the geometry of the cosmic web, this work opens new ways to connect the large-scale environment of the Universe with the structure and evolution of galaxies and galaxy clusters.
+FOGLESS is a Spanish research collaboration bringing together researchers from multiple universities to bridge computational astrophysics, cosmology, and observations. Within this framework, I designed GalaxyShapeNet, a novel neural-network framework for measuring the three-dimensional shapes of galaxy clusters from their observed galaxy populations. By connecting machine learning with observational data and cosmological simulations, this work develops new tools to probe the structure of the Universe and the role of the cosmic environment in galaxy evolution.
 		</p>
 	</div>
 </div>
-<div class="text-image">
-	<div class="text-image-text">
-		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift. By placing these galaxies within the cosmic web—from dense knots to less dense filaments—we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.</b><br>
-			 Halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from Stoppacher et al. (2025).
-		 </p>
-	</div>
-	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir_CMASS.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
-	</div>
-</div>
+
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
 
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
 
