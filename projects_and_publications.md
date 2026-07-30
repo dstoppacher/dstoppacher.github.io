@@ -38,14 +38,15 @@ This project explores the formation and evolution of low-surface-brightness gala
 		<h4>The Multi-Dark Galaxie</h4>
 		<h5>A semi-analytical perspective on galaxies and their evolution on the largest-scale</h5>
 		<p>
-MultiDark-Galaxies provides a comprehensive view of galaxy formation within the cosmic web by combining large cosmological simulations with semi-analytical models of galaxy evolution. We developed and released publicly available galaxy catalogues and analysis tools, enabling researchers to explore the connection between galaxies and their dark matter environments across cosmic time.
+MultiDark-Galaxies provides a comprehensive view of galaxy formation within the cosmic web by combining large cosmological simulations with semi-analytical models of galaxy evolution (SAM). We developed and released publicly available galaxy catalogues and analysis tools, enabling researchers to explore the connection between galaxies and their dark matter environments across cosmic time.
 		</p>
 	</div>
 </div>
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p>The MultiDark-Galaxies (MD-Galaxies) are feature-rich catalogues generated from three independent semi-analytical models of galaxy formation and evolution (SAMs) applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets. For this project, I combined and processed several terabytes of simulation outputs and carried out all preparation, testing, and data-reduction steps required for their public release as MD-Galaxies. My work included pipeline development (publicly available on GitHub), validation and consistency checks, and full documentation. I ensured that the catalogues were scientifically robust, reproducible, and publicly accessible and continued to provide technical and scientific support to users, helping to maintain the long-term value and usability of these community data products.
+		 <p><b>he MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
+			 For this project, I combined and processed several terabytes of simulation outputs and carried out all preparation, testing, and data-reduction steps required for their public release as MD-Galaxies. My work included pipeline development (publicly available on GitHub), validation and consistency checks, and full documentation. I ensured that the catalogues were scientifically robust, reproducible, and publicly accessible and continued to provide technical and scientific support to users, helping to maintain the long-term value and usability of these community data products.
 		 </p>
 	</div>
 	<div class="text-image-img">
