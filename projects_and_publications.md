@@ -37,7 +37,7 @@ This project explores the formation and evolution of low-surface-brightness gala
 
 <div>
 	<div class="text-block">
-		<h4>The Multi-Dark Galaxie</h4>
+		<h4>The Multi-Dark Galaxies</h4>
 		<h5>A semi-analytical perspective on galaxies and their evolution on the largest-scale</h5>
 		<p>
 MultiDark-Galaxies provides a comprehensive view of galaxy formation within the cosmic web by combining large cosmological simulations with semi-analytical models of galaxy evolution (SAM). We developed and released publicly available galaxy catalogues and analysis tools, enabling researchers to explore the connection between galaxies and their dark matter environments across cosmic time.
@@ -70,12 +70,12 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
-			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
+		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift. By placing these galaxies within the cosmic web—from dense knots to less dense filaments—we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.</b><br>
+			 Halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from Stoppacher et al. (2025).
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" width="100%" style="border-radius: 5px" alt="Stellar mass function of the MultiDark-Galaxies a z=0.1"/>
+		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
 	</div>
 </div>
 
