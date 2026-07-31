@@ -48,7 +48,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
-			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
+			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="[https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/](https://www.cosmosim.org/cms/data/projects/galaxies/)"><i>COSMOSIMS</i></a>. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -60,7 +60,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 
 <div>
 	<div class="text-block">
-		<h4>A Semi-Analytical Perspective on Massive and Red Galaxies</h4>
+		<h4>A Semi-Analytical Perspective</h4>
 		<h5>Exploring the origin and evolution of the most massive and passive galaxies in the Universe.</h5>
 		<p>
 		By combining semi-analytical galaxy formation models with large cosmological simulations, this research investigates how galaxies grow, quench, and become embedded in increasingly massive dark matter environments. The project offers a complementary perspective on galaxy evolution, linking the observable properties of massive galaxies to their underlying formation histories and halo assembly.
@@ -86,7 +86,7 @@ MultiDark-Galaxies provides a comprehensive view of galaxy formation within the 
 		<h4>FOGLESS + The Machine</h4>
 		<h5>Understanding how galaxies are shaped by their cosmic environment</h5>
 		<p>
-FOGLESS is a Spanish research collaboration bringing together researchers from multiple universities to bridge computational astrophysics, cosmology, and observations. Within this framework, I designed GalaxyShapeNet, a novel neural-network framework for measuring the three-dimensional shapes of galaxy clusters from their observed galaxy populations. By connecting machine learning with observational data and cosmological simulations, this work develops new tools to probe the structure of the Universe and the role of the cosmic environment in galaxy evolution.
+The <i>"Formation Of Galaxies in the LargE Scale Structure"</i> (FOGLESS) is a Spanish research collaboration bringing together researchers from multiple universities to bridge computational astrophysics, cosmology, and observations. Within this framework, I designed GalaxyShapeNet, a novel neural-network framework for measuring the three-dimensional shapes of galaxy clusters from their observed galaxy populations. By connecting machine learning with observational data and cosmological simulations, this work develops new tools to probe the structure of the Universe and the role of the cosmic environment in galaxy evolution.
 		</p>
 	</div>
 </div>
