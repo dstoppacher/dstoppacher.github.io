@@ -573,35 +573,43 @@ div.button_white_small {
   margin-top: 0.1em;
 }
 
-/* Two images side by side */
 .image1-image2 {
   font-family: "Cabin Sketch";
   display: flex;
-  flex-direction: row;
-  justify-content: center;
   align-items: flex-start;
+  justify-content: center;
   width: 100%;
 }
 
-/* Image blocks: 40% each */
-.image1-image2-img1,
-.image1-image2-img2 {
+/* Image block 1 */
+.image1-image2-img1 {
   flex: 0 0 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 0.25em;
   box-sizing: border-box;
-  text-align: center;
+}
+
+/* Image block 2 */
+.image1-image2-img2 {
+  flex: 0 0 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.25em;
+  box-sizing: border-box;
 }
 
 /* Images */
 .image1-image2-img1 img,
 .image1-image2-img2 img {
-  display: block;
-  width: 100%;
+  max-width: 100%;
   height: auto;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  display: block;
 }
 
-/* Mobile */
+/* Responsive: stack */
 @media screen and (max-width: 700px) {
   .image1-image2 {
     flex-direction: column;
@@ -609,8 +617,8 @@ div.button_white_small {
 
   .image1-image2-img1,
   .image1-image2-img2 {
+    flex: 1 1 auto;
     width: 100%;
-    flex: none;
   }
 }
 
