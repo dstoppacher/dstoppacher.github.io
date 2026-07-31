@@ -17,7 +17,7 @@ title: "Projects and Publications"
 		<h4>Hidden Figures in the Sky</h4>
 		<h5>Low-surface-brightness galaxies in cosmological simulations</h5>
 		<p>
-This project explores the formation and evolution of low-surface-brightness galaxies (LSBs), a fascinating and still poorly understood population that remains highly underrepresented in the literature despite its potential to reshape our understanding of galaxy formation. Using cosmological hydrodynamical simulations, I investigate how these faint galaxies form and evolve, and develop new methods to identify and characterise them in simulated data, connecting their observable properties to their underlying dark matter haloes.
+This project explores the formation and evolution of low-surface-brightness galaxies (LSBs). This fascinating yet poorly understood population remains underrepresented in the literature despite its potential to reshape our understanding of galaxy formation. Using cosmological hydrodynamical simulations, I investigate how these faint galaxies form and evolve, and develop new methods to identify and characterise them in simulated data, connecting their observable properties to their underlying dark matter haloes.
 		</p>
 	</div>
 </div>
@@ -47,7 +47,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 dark matter-only simulation <a href="https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.457.4340K/doi:10.1093/mnras/stw248">Klypin et al. 2016</a>. These catalogues remain among the largest publicly available SAM datasets.</b><br>
+		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h<sup>-1</sup>Gpc MultiDark Planck 2 dark matter-only simulation <a href="https://ui.adsabs.harvard.edu/link_gateway/2016MNRAS.457.4340K/doi:10.1093/mnras/stw248">Klypin et al. 2016</a>. These catalogues remain among the largest publicly available SAM datasets.</b><br>
 			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>. Figure adapted from <a href="https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.474.5206K/doi:10.1093/mnras/stx2662">Knebe, Stopacher, Prada et al. (2018)</a>.
 		 </p>
 	</div>
@@ -70,8 +70,9 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift. By placing these galaxies within the cosmic web—from dense knots to less dense filaments—we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.</b><br>
-			 Halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from Stoppacher et al. (2025).
+		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift.</b><br>
+			 By placing these galaxies within the cosmic web -- from dense knots to less dense filaments -- we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.
+			 <small>The figure shows the halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from <a href="https://ui.adsabs.harvard.edu/link_gateway/2025A&A...701A.272S/doi:10.1051/0004-6361/202555232">Stoppacher et al. (2025)</a>.</small>
 		 </p>
 	</div>
 	<div class="text-image-img">
