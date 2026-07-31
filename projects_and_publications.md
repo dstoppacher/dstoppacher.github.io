@@ -37,17 +37,17 @@ The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs
 
 <div>
 	<div class="text-block">
-		<h4>The Multi-Dark Galaxies</h4>
-		<h5>A semi-analytical perspective on galaxies and their evolution on the largest-scale</h5>
+		<h4>The MultiDark-Galaxies</h4>
+		<h5>Modelled galaxies and their evolution on the largest-scale</h5>
 		<p>
-MultiDark-Galaxies provides a comprehensive view of galaxy formation within the cosmic web by combining large cosmological simulations with semi-analytical models of galaxy evolution (SAM). We developed and released publicly available galaxy catalogues and analysis tools, enabling researchers to explore the connection between galaxies and their dark matter environments across cosmic time.
+The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy formation within the cosmic web by combining large cosmological simulations with semi-analytical models of galaxy evolution (SAM). We developed and released publicly available galaxy catalogues and analysis tools, enabling researchers to explore the connection between galaxies and their dark matter environments across cosmic time.
 		</p>
 	</div>
 </div>
 
 <div class="text-image">
 	<div class="text-image-text">
-		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 simulation (MDPL2, Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
+		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h-1Gpc MultiDark Planck 2 dark matter only simulation (Klypin et al. 2016). These catalogues remain among the largest publicly available SAM datasets.</b><br>
 			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>. Figure adapted from Knebe, Stopacher, Prada et al. (2018).
 		 </p>
 	</div>
