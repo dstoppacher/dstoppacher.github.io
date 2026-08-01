@@ -33,7 +33,7 @@ The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs
 </div>
 
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <div>
 	<div class="text-block">
