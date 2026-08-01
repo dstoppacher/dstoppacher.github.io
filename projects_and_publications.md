@@ -56,7 +56,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 	</div>
 </div>
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>    
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>       
 
 <div>
 	<div class="text-block">
@@ -80,7 +80,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 	</div>
 </div>
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>  
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <div>
 	<div class="text-block">
@@ -116,7 +116,7 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 	</small></i>
 </div>
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div> 
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <h3>Publications</h3>
 <div>
