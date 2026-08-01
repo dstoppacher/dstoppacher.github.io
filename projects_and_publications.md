@@ -23,8 +23,8 @@ This project explores the formation and evolution of low-surface-brightness gala
 </div>
 <div class="text-image">
 	<div class="text-image-text"> 
-		 <p><b><a href="https://doi.org/10.1051/0004-6361/202555232">In Stoppacher et al. (2025b)</a>, we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed.</b> We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time.<br>
-The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from <a href="https://doi.org/10.1051/0004-6361/202555232">In Stoppacher et al. (2025b)</a>.
+		 <p><b>In <a href="https://doi.org/10.1051/0004-6361/202555232">Stoppacher et al. (2025b)</a>, we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed.</b> We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time.<br>
+The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from <a href="https://doi.org/10.1051/0004-6361/202555232">Stoppacher et al. (2025b)</a>.
 		 </p>
 	</div>
 	<div class="text-image-img">
