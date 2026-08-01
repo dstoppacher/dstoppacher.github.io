@@ -17,14 +17,14 @@ title: "Projects and Publications"
 		<h4>Hidden Figures in the Sky</h4>
 		<h5>Low-surface-brightness galaxies in cosmological simulations</h5>
 		<p>
-This project explores the formation and evolution of low-surface-brightness galaxies (LSBs). This fascinating yet poorly understood population remains underrepresented in the literature despite its potential to reshape our understanding of galaxy formation. Using cosmological hydrodynamical simulations, I investigate how these faint galaxies form and evolve, and develop new methods to identify and characterise them in simulated data, connecting their observable properties to their underlying dark matter haloes.
+This project explores the formation and evolution of low-surface-brightness galaxies (LSBGs / LSBs). This fascinating yet poorly understood population remains underrepresented in the literature despite its potential to reshape our understanding of galaxy formation. Using cosmological hydrodynamical simulations, I investigate how these faint galaxies form and evolve, and develop new methods to identify and characterise them in simulated data, connecting their observable properties to their underlying dark matter haloes.
 		</p>
 	</div>
 </div>
 <div class="text-image">
-	<div class="text-image-text">
-		 <p><b>In Stoppacher et al. (2025b), we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed.</b> We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time.<br>
-The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from Stoppacher et al. (2025b)
+	<div class="text-image-text"> 
+		 <p><b><a href="https://doi.org/10.1051/0004-6361/202555232">In Stoppacher et al. (2025b)</a>, we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed.</b> We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time.<br>
+The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from <a href="https://doi.org/10.1051/0004-6361/202555232">In Stoppacher et al. (2025b)</a>.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -33,7 +33,7 @@ The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs
 </div>
 
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>    
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <div>
 	<div class="text-block">
@@ -48,7 +48,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h<sup>-1</sup>Gpc MultiDark Planck 2 dark matter-only simulation <a href="https://academic.oup.com/mnras/article/457/4/4340/2589053">Klypin et al. 2016</a>. These catalogues remain among the largest publicly available SAM datasets.</b><br>
-			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>. Figure adapted from <a href="https://academic.oup.com/mnras/article/474/4/5206/4494373">Knebe, Stopacher, Prada et al. (2018)</a>.
+			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>. Figure adapted from <a href="https://doi.org/10.1093/mnras/stx2662">Knebe, Stopacher, Prada et al. (2018)</a>.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -71,8 +71,8 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift.</b><br>
-			 By placing these galaxies within the cosmic web -- from dense knots to less dense filaments -- we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.
-			 <small>The figure shows the halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from <a href="https://www.aanda.org/articles/aa/full_html/2025/09/aa55232-25/aa55232-25.html">Stoppacher et al. (2025)</a>.</small>
+			 By placing these galaxies within the cosmic web, we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.<br>
+			 <small>The figure shows the halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from <a href=" 	https://doi.org/10.1051/0004-6361/202449232">Stoppacher et al. (2025a)</a>.</small>
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -87,7 +87,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 		<h4>FOGLESS + The Machine</h4>
 		<h5>Understanding how galaxies are shaped by their cosmic environment</h5>
 		<p>
-The <i>"Formation Of Galaxies in the LargE Scale Structure"</i> (FOGLESS) is a Spanish research collaboration bringing together researchers from multiple universities to bridge computational astrophysics, cosmology, and observations. Within this framework, I designed GalaxyShapeNet, a novel neural-network framework for measuring the three-dimensional shapes of galaxy clusters from their observed galaxy populations. By connecting machine learning with observational data and cosmological simulations, this work develops new tools to probe the structure of the Universe and the role of the cosmic environment in galaxy evolution.
+The <i>Formation Of Galaxies in the LargE Scale Structure</i> (FOGLESS) is a Spanish research collaboration bringing together researchers from multiple universities to bridge computational astrophysics, cosmology, and observations. Within this framework, I designed GalaxyShapeNet, a novel neural-network framework for measuring the three-dimensional shapes of galaxy clusters from their observed galaxy populations. By connecting machine learning with observational data and cosmological simulations, this work develops new tools to probe the structure of the Universe and the role of the cosmic environment in galaxy evolution.
 		</p>
 	</div>
 </div>
@@ -99,7 +99,7 @@ The <i>"Formation Of Galaxies in the LargE Scale Structure"</i> (FOGLESS) is a S
 		<h4>"The Extremes" of galaxy formation and evolution</h4>
 		<h5>From Bright Cluster Galaxies to Low-Surface-Brightness Galaxies</h5>
 		<p>
-What determines whether a galaxy becomes one of the most massive and dominant systems in the Universe or remains faint, diffuse, and almost invisible? The Extremes brings together two seemingly opposite galaxy populations: Brightest Cluster Galaxies (BCGs) and low-surface-brightness galaxies (LSBs). By tracing their assembly histories from the early Universe to today, we investigate how the initial conditions and growth of their dark matter haloes steer galaxies toward radically different evolutionary paths. Focusing on the critical epochs at high redshift, when the foundations of present-day galaxies are established, this unified framework aims to uncover the evolutionary turning points that shape the most extreme galaxies in the Universe and to provide new predictions for finding their progenitors in the distant cosmos.
+What determines whether a galaxy becomes one of the most massive and dominant systems in the Universe or remains faint, diffuse, and almost invisible? The Extremes brings together two seemingly opposite galaxy populations: Brightest Cluster Galaxies (BCGs) and low-surface-brightness galaxies (LSBGs). By tracing their assembly histories from the early Universe to today, we investigate how the initial conditions and growth of their dark matter haloes steer galaxies toward radically different evolutionary paths. Focusing on the critical epochs at high redshift, when the foundations of present-day galaxies are established, this unified framework aims to uncover the evolutionary turning points that shape the most extreme galaxies in the Universe and to provide new predictions for finding their progenitors in the distant cosmos.
 		</p>
 	</div>
 </div>
