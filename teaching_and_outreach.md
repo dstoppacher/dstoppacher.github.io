@@ -71,7 +71,7 @@ title: "Outreach & Teaching"
 		</li>
 		
 		<li>
-			<b>Informatic Lab on Applied Mathematics (2025/26)</b><br>
+			<b>Informatics Lab on Applied Mathematics (2025/26)</b><br>
 			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
 			Practical computer laboratory classes covering computational methods applied to engineering.
 		</li>
