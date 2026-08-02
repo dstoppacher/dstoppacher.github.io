@@ -59,8 +59,6 @@ title: "Outreach & Teaching"
 		<img src="{{ site.baseurl }}/pictures/Seminar.jpg" width="100%" style="border-radius: 5px" alt="Doris Stoppacher"/>
 	</div>
 </div>
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
-
 
 <h4>Univeristy Course List</h4>
 <div id="teaching-image">
