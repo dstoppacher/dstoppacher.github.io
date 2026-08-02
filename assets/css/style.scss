@@ -173,12 +173,27 @@ hr.fancyLine3 {
 
 ul.customList {
     list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
 }
 
-ul.customList li::before{
+ul.customList li {
+    position: relative;
+    padding-left: 2em;
+    margin-bottom: 1.5em;
+}
+
+ul.customList li::before {
     content: "\f005";
     font-family: "Font Awesome 7 Free";
-    padding: 0 10px 0 0;
+    font-weight: 900;
+    
+    position: absolute;
+    left: 0;
+    top: 0;
+    
+    width: 1.5em;
+    text-align: left;
     color: #069;
 }
 
