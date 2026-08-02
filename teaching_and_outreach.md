@@ -77,7 +77,7 @@ title: "Outreach & Teaching"
 			</li>
 			
 			<li>
-				<b>Computational Informatics</b><br>
+				<b>Informatic Lab on Applied Mathematics</b><br>
 				Universidad de Sevilla (Spain)<br>
 				Practical computer laboratory classes covering computational methods applied to engineering.
 			</li>
@@ -95,6 +95,49 @@ title: "Outreach & Teaching"
 			</li>
 		</ul>
 	</div>
+</div>
+
+<h3>Teaching Experience</h3>
+
+<div id="teaching-image">
+
+  <div id="teaching-image-left">
+
+    <ul class="customList">
+
+			<li>
+				<b>Applied Mathematics</b><br>
+				Grado en Edificación, Universidad de Sevilla (Spain)<br>
+				Lecturer for first-year engineering students
+			</li>
+			
+			<li>
+				<b>Informatic Lab on Applied Mathematics</b><br>
+				Universidad de Sevilla (Spain)<br>
+				Practical computer laboratory classes covering computational methods applied to engineering.
+			</li>
+			
+			<li>
+				<b>AST0112 – Astronomy</b><br>
+				Pontificia Universidad Católica de Chile (Chile)<br>
+				Principal lecturer of the undergraduate introductory astronomy course with a focus on active-learning methods.
+			</li>
+			
+			<li>
+				<b>Galaxy Formation Practicals</b><br>
+				Pontificia Universidad Católica de Chile (Chile)<br>
+				Practical classes accompanying the Galaxy Formation course, focusing on data analysis and computational astrophysics.
+			</li>
+
+    </ul>
+
+  </div>
+
+  <div id="teaching-image-right">
+    <img src="{{ site.baseurl }}/pictures/CAHA_1.23m.jpg"
+         alt="CAHA telescope 1.23m (Almería, Spain)">
+  </div>
+
 </div>
 
 <simplequote>
