@@ -35,7 +35,7 @@ title: "Outreach & Teaching"
 		<h4>Science Outreach & Public Engagement</h4>
 	</div>
 </div>
-<div class="text-image" style="margin-bottom: 2em">
+<div class="text-image" style="margin-bottom: 4em">
 	<div class="text-image-text" style="font-size: 0.9em"> 
 		 <p>I actively engage in science outreach and public engagement activities, including <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">the European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience. In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
 		 </p>
