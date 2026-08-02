@@ -6,7 +6,7 @@ title: "Outreach & Teaching"
 <blockquote>
 	<b>About: </b>I am passionate about making science accessible and inspiring the next generation, especially by encouraging diversity and empowering young people to see themselves as future scientists.
 	<div class="large-margin" style="text-align:center">
-		<img src="{{ site.baseurl }}/pictures/SMBH_M87.jpg" width="75%" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>		
+		<img src="{{ site.baseurl }}/pictures/SMBH_M87.jpg" width="50%" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>		
 		<i><small>Image of M87* generated from data gathered by the Event Horizon Telescope</small></i>
 	</div>	
 </blockquote>
@@ -21,12 +21,12 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text"> 
-		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the **Autorreferentes** programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
+		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the Autorreferentes: Mujer y Ciencia (span. for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
 
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="100%" style="border-radius: 5px" alt="Evolution of the radius at maximum circular velocity"/>
+		<img src="{{ site.baseurl }}/pictures/School_talk.jpg" width="100%" style="border-radius: 5px" alt="Programma Autoreferente charlas en escuelas"/>
 	</div>
 </div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
