@@ -714,3 +714,55 @@ simplequote {
   margin-bottom: 0.3em;
   margin-left: 4em;
 }
+
+/* Teaching list + image container */
+#teaching-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 1em 0;
+}
+
+/* Left: teaching list */
+#teaching-image-left {
+  flex: 1;
+  width: 50%;
+  padding: 1em 2em 1em 1em;
+  box-sizing: border-box;
+}
+
+/* Add spacing between teaching assignments */
+#teaching-image-left li {
+  margin-bottom: 1.5em;
+  padding-left: 0.5em;
+}
+
+/* Right: image */
+#teaching-image-right {
+  flex: 1;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+#teaching-image-right img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive: stack on smaller screens */
+@media screen and (max-width: 700px) {
+  #teaching-image {
+    flex-direction: column;
+  }
+
+  #teaching-image-left,
+  #teaching-image-right {
+    width: 100%;
+    padding: 1em;
+  }
+}
