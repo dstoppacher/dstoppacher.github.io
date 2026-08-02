@@ -10,6 +10,7 @@ title: "Projects and Publications"
 	</div>	
 </blockquote>
 
+
 <h3>Projects</h3>
 
 <div>
@@ -31,9 +32,7 @@ The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs
 		<img src="{{ site.baseurl }}/pictures/zevol_Rvmax.png" width="100%" style="border-radius: 5px" alt="Evolution of the radius at maximum circular velocity"/>
 	</div>
 </div>
-
-
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <div>
 	<div class="text-block">
@@ -44,7 +43,6 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 		</p>
 	</div>
 </div>
-
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h<sup>-1</sup>Gpc MultiDark Planck 2 dark matter-only simulation <a href="https://academic.oup.com/mnras/article/457/4/4340/2589053">Klypin et al. 2016</a>. These catalogues remain among the largest publicly available SAM datasets.</b><br>
@@ -55,8 +53,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 		<img src="{{ site.baseurl }}/pictures/MDGalaxies_SMF.png" width="100%" style="border-radius: 5px" alt="Stellar mass function of the MultiDark-Galaxies a z=0.1"/>
 	</div>
 </div>
-
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>       
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>       
 
 <div>
 	<div class="text-block">
@@ -67,7 +64,6 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 		</p>
 	</div>
 </div>
-
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift.</b><br>
@@ -79,8 +75,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 		<img src="{{ site.baseurl }}/pictures/z-evol_Mvir_CMASS.png" width="100%" style="border-radius: 5px" alt="Halo mass assembly histories on various samples of massive galaxies"/>
 	</div>
 </div>
-
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <div>
 	<div class="text-block">
@@ -91,8 +86,7 @@ The <i>Formation Of Galaxies in the LargE Scale Structure</i> (FOGLESS) is a Spa
 		</p>
 	</div>
 </div>
-
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'>&nbsp;</i><i class='fa fa-rocket'></i>&nbsp;&mdash;</div>
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
 
 <div>
 	<div class="text-block">
@@ -115,8 +109,8 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 	<i><small>Left: Malin 1, the most famous low-surface-brightness galaxy, is an extended, diffuse spiral galaxy and one of the largest galaxies known to date (image credit: Boissier/A&A/ESO/CFHT). Right: The galactic core of Messier 87, a massive, luminous elliptical galaxy, imaged by the Hubble Space Telescope.
 	</small></i>
 </div>
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
 
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa-solid fa-spiral'></i>&nbsp;&mdash;</div>    
 
 <h3>Publications</h3>
 <div>
