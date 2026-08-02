@@ -7,7 +7,7 @@ title: "Teaching"
 	<tt><b>About: </b>I am teaching a new class beginning from March 2023!/tt>										     
 </blockquote>
 
-<h3>Teaching Experience</h3>
+<h3>Outreach & Teaching</h3>
 
 <div class="text-block">
 
