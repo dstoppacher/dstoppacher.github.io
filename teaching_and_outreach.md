@@ -65,26 +65,26 @@ title: "Outreach & Teaching"
   <div id="teaching-image-left">
     <ul class="customList">
 		<li>
-			<b>Applied Mathematics</b><br>
-			Grado en Edificación, Universidad de Sevilla (Spain)<br>
+			<b>Applied Mathematics (2025/26)</b><br>
+			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
 			Lecturer for first-year engineering students
 		</li>
 		
 		<li>
-			<b>Informatic Lab on Applied Mathematics</b><br>
-			Universidad de Sevilla (Spain)<br>
+			<b>Informatic Lab on Applied Mathematics (2025/26)</b><br>
+			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
 			Practical computer laboratory classes covering computational methods applied to engineering.
 		</li>
 		
 		<li>
-			<b>AST0112 – Astronomy</b><br>
-			Pontificia Universidad Católica de Chile (Chile)<br>
-			Principal lecturer of the undergraduate introductory astronomy course with a focus on active-learning methods.
+			<b>AST0112 – Astronomy (2022/23)</b><br>
+			<i>Pontificia Universidad Católica de Chile (Chile)</i><br>
+			Principal lecturer for the undergraduate introductory astronomy course, with a focus on active learning and interactive methods.
 		</li>
 		
 		<li>
-			<b>Galaxy Formation Practicals</b><br>
-			Pontificia Universidad Católica de Chile (Chile)<br>
+			<b>AST0421 – Experimental Astrophysics (2022/23)</b><br>
+			<i>Grado en Astrofísica, Pontificia Universidad Católica de Chile (Chile)</i><br>
 			Practical classes accompanying the Galaxy Formation course, focusing on data analysis and computational astrophysics.
 		</li>
     </ul>
