@@ -729,11 +729,11 @@ simplequote {
   margin-bottom: 0.3em;
   margin-left: 4em;
 }
+
 /* Teaching list + image container */
 #teaching-image {
   display: flex;
   align-items: center;
-  justify-content: center;
   width: 100%;
   margin: 1em 0;
 }
@@ -741,23 +741,49 @@ simplequote {
 /* Left: teaching list — 70% */
 #teaching-image-left {
   flex: 0 0 70%;
-  padding: 1em 2em 1em 1em;
   box-sizing: border-box;
+  padding: 1em 2em 1em 1em;
 }
 
 /* Right: image — 30% */
 #teaching-image-right {
   flex: 0 0 30%;
+  box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1em;
-  box-sizing: border-box;
 }
 
 #teaching-image-right img {
+  display: block;
   max-width: 100%;
   height: auto;
+}
+
+/* List formatting */
+#teaching-image-left ul.customList {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+#teaching-image-left ul.customList li {
+  position: relative;
+  padding-left: 2em;
+  margin-bottom: 1.5em;
+}
+
+#teaching-image-left ul.customList li::before {
+  content: "\f005";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.5em;
+  text-align: left;
+  color: #069;
 }
 
 /* Responsive: stack on smaller screens */
