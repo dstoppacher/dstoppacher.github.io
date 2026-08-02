@@ -20,7 +20,7 @@ title: "Outreach & Teaching"
 	</div>
 </div>
 <div class="text-image">
-	<div class="text-image-text"> 
+	<div class="text-image-text" style="font-size=1.2em"> 
 		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <i>Autoreferentes: Mujer y Ciencia</i> (span. for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
 		 </p>
 	</div>
