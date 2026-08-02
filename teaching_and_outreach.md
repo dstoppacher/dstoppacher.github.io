@@ -3,8 +3,12 @@ layout: page
 title: "Teaching"
 ---
 
-<blockquote style="margin-bottom:2.5em">
-	<tt><b>About: </b>I am teaching a new class beginning from March 2023!/tt>										     
+<blockquote>
+	<b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.
+	<div class="large-margin" style="text-align:center">
+		<img src="{{ site.baseurl }}/pictures/SHMB_M87.jpg" width="75%" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>		
+		<i><small>Image of M87* generated from data gathered by the Event Horizon Telescope</small></i>
+	</div>	
 </blockquote>
 
 <h3>Outreach & Teaching</h3>
