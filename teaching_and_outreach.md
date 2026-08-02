@@ -35,7 +35,7 @@ title: "Outreach & Teaching"
 		<h4>Science Outreach & Public Engagement</h4>
 	</div>
 </div>
-<div class="text-image">
+<div class="text-image" style="margin-bottom: 2em>
 	<div class="text-image-text" style="font-size: 1em"> 
 		 <p>I actively engage in science outreach and public engagement activities, including <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">the European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience. In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
 		 </p>
@@ -59,6 +59,7 @@ title: "Outreach & Teaching"
 		<img src="{{ site.baseurl }}/pictures/Seminar.jpg" width="100%" style="border-radius: 5px" alt="Doris Stoppacher"/>
 	</div>
 </div>
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>
 
 <h4>Univeristy Course List</h4>
 <div id="teaching-image">
