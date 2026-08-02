@@ -99,7 +99,7 @@ title: "Outreach & Teaching"
 
 <simplequote>
 	<tt>
-		<b>Nothing in life is to be feared; it is only to be understood.<br>Now is the time to understand more, so that we may fear less.</b>
+		<b>Nothing in life is to be feared; it is only to be understood.</b>
 		<ul class="note-list">
 	  		<li> &mdash; Marie Skłodowska Currie, <small>Physicist, chemist, and double-Nobel price winner </small></li>
 		</ul>
