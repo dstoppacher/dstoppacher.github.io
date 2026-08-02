@@ -36,7 +36,7 @@ title: "Outreach & Teaching"
 	</div>
 </div>
 <div class="text-image">
-	<div class="text-image-text"> 
+	<div class="text-image-text" style="font-size: 1em"> 
 		 <p>I actively engage in science outreach and public engagement activities, including <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">the European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience. In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
 		 </p>
 	</div>
@@ -51,7 +51,7 @@ title: "Outreach & Teaching"
 	<h4>Teaching Philosophy</h4>
 </div>
 <div class="text-image">
-	<div class="text-image-text"> 
+	<div class="text-image-text" style="font-size: 1em"> 
 		 <p>My teaching is guided by equity-minded lecturing and a strong commitment to creating a respectful, inclusive, and inspiring learning environment in which every student feels valued and encouraged to participate. I believe that even the most complex scientific topics can be made accessible to students when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and a little humour. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
 		 </p>
 	</div>
