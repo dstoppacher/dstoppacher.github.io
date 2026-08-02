@@ -170,17 +170,11 @@ hr.fancyLine3 {
       margin-right: auto;
       background: rgba(0, 0, 0, 0.01);
  }
-
 ul.customList {
     list-style-type: none;
-}
+    padding-left: 0;
+    margin-left: 0;
 
-ul.customList li::before{
-    content: "\f005";
-    font-family: "Font Awesome 7 Free";
-    padding: 0 10px 0 0;
-    color: #069;
-}
 
 ul.customListPosts {
     list-style-type: none;
