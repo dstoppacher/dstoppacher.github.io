@@ -44,15 +44,11 @@ title: "Outreach & Teaching"
 		<img src="{{ site.baseurl }}/pictures/Noche2025_small.jpg" width="100%" style="border-radius: 5px" alt="Doris Stoppacher"/>
 	</div>
 </div>
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
-
 
 <h3>Teaching</h3>
 
-<div>
-	<div class="text-block">
-		<h4>Teaching Philosophy</h4>
-	</div>
+<div class="text-block">
+	<h4>Teaching Philosophy</h4>
 </div>
 <div class="text-image">
 	<div class="text-image-text"> 
@@ -65,8 +61,8 @@ title: "Outreach & Teaching"
 </div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
 
-<h3>Teaching Experience</h3>
 
+<h4>Univeristy Course List</h4>
 <div id="teaching-image">
   <div id="teaching-image-left">
     <ul class="customList">
