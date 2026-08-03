@@ -70,21 +70,26 @@ figcaption:before {
   font-weight: bold;
 }
 
-h3 { 
-    width: 95%; 
-    height: 1.5em; 
-    margin: 0 auto;
-    margin-bottom: 1em;
-    padding: 1em;
-    border-radius: 5px;
-    text-align: center;
-    display:flex;
-    align-items: center;
+h3 {
+    width: min(95%, 900px);
+    box-sizing: border-box;
+
+    margin: 0 auto 1em;
+    padding: 0.8em 1em;
+
+    display: flex;
     justify-content: center;
-    background-color: #C6EAFA;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    align-items: center;
+
+    min-height: 3em;
+
+    border-radius: 6px;
+
     font-family: "Cabin Sketch";
-    
+    font-size: 1.8em;
+
+    background: #C6EAFA;
+    box-shadow: 0 4px 10px rgba(0,0,0,.18);
 }
 
 h3.title { 
