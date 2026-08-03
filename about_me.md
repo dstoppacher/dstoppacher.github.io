@@ -25,5 +25,20 @@ title: "Curriculum Vitae D. Stoppacher"
 	In recognition of my scientific work and community engagement, I was named <a href="https://oepg.at/de/news/2025-05-01-physikerin-des-monats-doris-stoppacher" target="_blank"><i>Physicist of the Month</i></a> by the Austrian Physical Society in 2025. Outside academia, I am actively involved in comedy presentation and improvisational theatre, which strongly informs my communication style and creative approach to science.
 </div>
 
-<embed src="https://dstoppacher.github.io/CV_DStoppacher_web.pdf" width="100%" height="850px"/>
+<div class="desktop-only">
+    <embed src="{{ site.baseurl }}/CV_DStoppacher_web.pdf"
+           width="100%"
+           height="850">
+</div>
+
+<div class="mobile-only">
+    <a href="{{ site.baseurl }}/CV_DStoppacher_web.pdf" target="_blank">
+        <div class="button_white">
+            <i class="fa-solid fa-file-pdf"></i><br>
+            Open CV (PDF)
+        </div>
+    </a>
+</div>
+
+/*<embed src="https://dstoppacher.github.io/CV_DStoppacher_web.pdf" width="100%" height="850px"/>*/
 
