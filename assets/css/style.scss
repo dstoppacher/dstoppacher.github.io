@@ -740,14 +740,14 @@ simplequote {
 
 /* Left: teaching list — 70% */
 #teaching-image-left {
-  flex: 0 0 70%;
+  flex: 0 0 60%;
   box-sizing: border-box;
   padding: 1em 2em 1em 1em;
 }
 
 /* Right: image — 30% */
 #teaching-image-right {
-  flex: 0 0 30%;
+  flex: 0 0 40%;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
