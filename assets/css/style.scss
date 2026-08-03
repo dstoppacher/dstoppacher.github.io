@@ -118,7 +118,8 @@ h3.title {
     }
 }
 
-h2 { 
+
+h2 {
     width: min(95%, 900px);
     box-sizing: border-box;
 
@@ -132,16 +133,12 @@ h2 {
     min-height: 1.75em;
 
     border-radius: 10px;
-    border-radius: 5px;
-    text-align: center;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    background-color: rgb(178, 210, 225);
-    color: #111;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
     font-family: "Cabin Sketch";
-    
+    font-size: 1.5em;
+
+    background-color: rgb(178, 210, 225);
+    box-shadow: 0 4px 10px rgba(0,0,0,.18);
 }
 @media screen and (max-width: 600px) {
     h2 {
