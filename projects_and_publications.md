@@ -105,7 +105,7 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 	<div class="image1-image2-img2">
 		<img src="{{ site.baseurl }}/pictures/Messier_87_Hubble_WikiSky.jpg" style="border-radius: 5px" alt="The galactic core of Messier 87 as imaged by the Hubble Space Telescope"></div>
 </div>
-<div>
+<div style="margin-bottom: 2em">
 	<i><small>Left: Malin 1, the most famous low-surface-brightness galaxy, is an extended, diffuse spiral galaxy and one of the largest galaxies known to date (image credit: Boissier/A&A/ESO/CFHT). Right: The galactic core of Messier 87, a massive, luminous elliptical galaxy, imaged by the Hubble Space Telescope.
 	</small></i>
 </div>
