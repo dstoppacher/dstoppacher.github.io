@@ -73,12 +73,12 @@ title: "Outreach & Teaching"
 		</li>		
 		<li>
 			<b>AST0112 – Astronomy (2022/23)</b><br>
-			<i>Pontificia Universidad Católica de Chile (Chile)</i><br>
-			Principal lecturer for an introductory astronomy course open to students from all faculties, with a focus on active learning and interactive methods.
+			<i>Pontificia Universidad Católica de Chile</i><br>
+			<p>Principal lecturer for an introductory astronomy course open to students from all faculties, with a focus on active learning and interactive methods.</p>
 		</li>		
 		<li>
 			<b>AST0421 – Experimental Astrophysics (2022/23)</b><br>
-			<i>Grado en Astrofísica, Pontificia Universidad Católica de Chile (Chile)</i><br>
+			<i>Grado en Astrofísica, Pontificia Universidad Católica de Chile</i><br>
 			Practical classes accompanying the Galaxy Formation course, focusing on data analysis and computational astrophysics.
 		</li>
     </ul>
