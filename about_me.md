@@ -13,7 +13,7 @@ title: "Curriculum Vitae D. Stoppacher"
 	</tt>
 </simplequote>
 
-<div class="large-margin" style="text-align:center">
+<div class="research-image" style="text-align:center">
 	<img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" width="75%" alt="Doris Stoppacher"/>
 </div>
 
