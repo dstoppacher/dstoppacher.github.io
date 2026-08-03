@@ -21,7 +21,7 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <i>Autoreferentes: Mujer y Ciencia</i> (span. for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
+		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <span style="color: #069;">Autoreferentes: Mujer y Ciencia</span> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -37,7 +37,8 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image" style="margin-bottom: 4em">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>I actively engage in science outreach and public engagement activities, including <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">the European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience. In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
+		 <p>I actively engage in science outreach and public engagement activities, including the <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience.<br>
+			 In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -52,7 +53,8 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>My teaching is guided by equity-minded lecturing and a strong commitment to creating a respectful, inclusive, and inspiring learning environment in which every student feels valued and encouraged to participate. I believe that even the most complex scientific topics can be made accessible to students when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and a little humour. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
+		 <p>My teaching is guided by <span style="color: #069;">equity-minded lecturing</span> and a strong commitment to creating a respectful, inclusive, and inspiring learning environment in which every student feels valued and encouraged to participate.<br>
+			 I believe that even the most complex scientific topics can be made accessible to students when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and a little humour. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
 		 </p>
 	</div>
 	<div class="text-image-img">
