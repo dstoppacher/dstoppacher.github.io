@@ -21,7 +21,7 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <span style="color: #069;">Autoreferentes: Mujer y Ciencia</span> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an open-minded and diverse environment where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in astrophysics, I hope to serve as a positive role model, spark curiosity, and empower young students to pursue their interests in science with confidence.
+		 <p>I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <b>Autoreferentes: Mujer y Ciencia</b> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an <b>open-minded and diverse environment</b> where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in STEM, I hope to spark curiosity and empower young students to pursue their interests in science with confidence.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -38,7 +38,7 @@ title: "Outreach & Teaching"
 <div class="text-image" style="margin-bottom: 4em">
 	<div class="text-image-text" style="font-size: 0.9em"> 
 		 <p>I actively engage in science outreach and public engagement activities, including the <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience.<br>
-			 In particular, I am passionate about developing and coordinating outreach activities for young children, creating interactive and accessible experiences that spark curiosity and encourage them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery.
+			 In particular, I am passionate about developing and <b>coordinating outreach activities for young children</b>, creating interactive and accessible experiences and encouraging them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery while having fun.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -53,8 +53,8 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>My teaching is guided by <span style="color: #069;">equity-minded lecturing</span> and a strong commitment to creating a respectful, inclusive, and inspiring learning environment in which every student feels valued and encouraged to participate.<br>
-			 I believe that even the most complex scientific topics can be made accessible to students when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and a little humour. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
+		 <p>My teaching is guided by <b>equity-minded lecturing</b> and a strong commitment to creating a respectful and inclusive learning environment in which every student feels valued and encouraged to participate.<br>
+			 I believe that even the most complex scientific topics can be made accessible when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and <b>a little humour</b>. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -63,14 +63,14 @@ title: "Outreach & Teaching"
 </div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>
 
-<h4>Univeristy Course List</h4>
+<h4>University Course List</h4>
 <div id="teaching-image">
   <div id="teaching-image-left">
     <ul class="customList">
 		<li>
 			<b>Applied Mathematics (2025/26)</b><br>
 			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
-			Lecturer for first-year engineering students
+			Lecturer for first-year engineering students.
 		</li>
 		
 		<li>
@@ -82,7 +82,7 @@ title: "Outreach & Teaching"
 		<li>
 			<b>AST0112 – Astronomy (2022/23)</b><br>
 			<i>Pontificia Universidad Católica de Chile (Chile)</i><br>
-			Principal lecturer for the undergraduate introductory astronomy course, with a focus on active learning and interactive methods.
+			Principal lecturer for an introductory astronomy course open to students from all faculties, with a focus on active learning and interactive methods.
 		</li>
 		
 		<li>
