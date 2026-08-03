@@ -20,10 +20,11 @@ title: "Outreach & Teaching"
 		I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <b>Autoreferentes: Mujer y Ciencia</b> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an <b>open-minded and diverse environment</b> where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in STEM, I hope to spark curiosity and empower young students to pursue their interests in science with confidence.
 	</p>
 </div>
-	<div class="large-margin" style="text-align:center">
-		<img src="{{ site.baseurl }}/pictures/School_talk.jpg" width="75%" style="border-radius: 5px" alt="Doris Stoppacher"/>
-	</div>
+<div class="large-margin" style="text-align:center">
+	<img src="{{ site.baseurl }}/pictures/School_talk.jpg" width="75%" alt="Doris Stoppacher"/>
+</div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
+
 
 
 <div class="text-block">
