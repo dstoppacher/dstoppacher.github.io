@@ -42,7 +42,7 @@ title: "Outreach & Teaching"
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/Noche2025_small.jpg" width="100%" style="border-radius: 5px" alt="Doris Stoppacher"/>
+    <img src="{{ site.baseurl }}/pictures/CAHA_1.23m.jpg" alt="CAHA telescope 1.23m (Almería, Spain)">
 	</div>
 </div>
 
@@ -58,7 +58,7 @@ title: "Outreach & Teaching"
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/Seminar.jpg" width="100%" style="border-radius: 5px" alt="Doris Stoppacher"/>
+		<img src="{{ site.baseurl }}/pictures/HUDF.jpg" width="100%" style="border-radius: 5px" alt="Hubble Ultra Deep Field"/>
 	</div>
 </div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>
@@ -93,8 +93,7 @@ title: "Outreach & Teaching"
     </ul>
   </div>
   <div id="teaching-image-right">
-    <img src="{{ site.baseurl }}/pictures/CAHA_1.23m.jpg"
-         alt="CAHA telescope 1.23m (Almería, Spain)">
+    <img src="{{ site.baseurl }}/pictures/Seminar_small.jpg" alt="Doris Stoppacher">
   </div>
 </div>
 
