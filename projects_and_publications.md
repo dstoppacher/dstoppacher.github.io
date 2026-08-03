@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects and Publications"
+title: "Projects & Publications"
 ---
 <blockquote>
 	<b>About: </b>This page provides an overview of my current and past research projects, along with a complete list of my publications.
@@ -67,7 +67,7 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>This project investigates the redshift evolution and mass assembly histories of luminous and massive galaxies, with a particular focus on how their evolution depends on environment. Using semi-analytical models, clustering statistics, and the galaxy–halo connection, we trace the evolution of distinct galaxy sub-populations selected at intermediate redshift.</b><br>
-			 By placing these galaxies within the cosmic web, we explore how large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.<br>
+			 By placing these galaxies within the cosmic web, we explore how the large-scale environment shapes their properties, assembly histories, and evolutionary pathways across cosmic time.<br>
 			 <small>The figure shows the halo mass assembly history (upper panel) and corresponding growth history (lower panel). Massive galaxies are not forming a unified population but are highly diverse within them. Figure adapted from <a href=" 	https://doi.org/10.1051/0004-6361/202449232">Stoppacher et al. (2025a)</a>.</small>
 		 </p>
 	</div>
@@ -109,8 +109,6 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 	<i><small>Left: Malin 1, the most famous low-surface-brightness galaxy, is an extended, diffuse spiral galaxy and one of the largest galaxies known to date (image credit: Boissier/A&A/ESO/CFHT). Right: The galactic core of Messier 87, a massive, luminous elliptical galaxy, imaged by the Hubble Space Telescope.
 	</small></i>
 </div>
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>    
-
 
 <h3>Publications</h3>
 <div>
