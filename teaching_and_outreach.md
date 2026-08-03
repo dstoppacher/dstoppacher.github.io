@@ -42,7 +42,7 @@ title: "Outreach & Teaching"
 		 </p>
 	</div>
 	<div class="text-image-img">
-    <img src="{{ site.baseurl }}/pictures/CAHA_1.23m.jpg" alt="CAHA telescope 1.23m (Almería, Spain)">
+    	<img src="{{ site.baseurl }}/pictures/CAHA_1.23m.jpg" width="50%" alt="CAHA telescope 1.23m (Almería, Spain)">
 	</div>
 </div>
 
