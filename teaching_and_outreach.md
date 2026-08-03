@@ -38,7 +38,7 @@ title: "Outreach & Teaching"
 <div class="text-image" style="margin-bottom: 4em">
 	<div class="text-image-text" style="font-size: 0.9em"> 
 		 <p>I actively engage in science outreach and public engagement activities, including the <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/european-researchers-night">European Researchers' Night</a>, where I share the excitement of scientific discovery with a broad audience.<br>
-			 In particular, I am passionate about developing and <b>coordinating outreach activities for young children</b>, creating interactive and accessible experiences and encouraging them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to foster a lasting interest in scientific thinking and discovery while having fun.
+			 In particular, I am passionate about developing and <b>coordinating outreach activities for young children</b>, creating interactive and accessible experiences and encouraging them to explore the world of science. Through these activities, I aim to make science approachable and inspiring from an early age and to <b>foster a lasting interest in scientific thinking and discovery while having fun.</b>
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -53,8 +53,8 @@ title: "Outreach & Teaching"
 </div>
 <div class="text-image">
 	<div class="text-image-text" style="font-size: 0.9em"> 
-		 <p>My teaching is guided by <b>equity-minded lecturing</b> and a strong commitment to creating a respectful and inclusive learning environment in which every student feels valued and encouraged to participate.<br>
-			 I believe that even the most complex scientific topics can be made accessible when they are communicated with clarity, enthusiasm, and the right combination of context, appropriate references, and <b>a little humour</b>. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
+		 <p>My teaching is guided by <b>equity-minded lecturing and a strong commitment to creating a respectful and inclusive learning environment</b> in which every student feels valued and encouraged to participate.<br>
+			 I believe that even the <b>most complex scientific topics</b> can be made accessible when they are communicated with clarity, enthusiasm, and <b>the right combination of context, appropriate references, and a little humour</b>. By fostering an atmosphere where students feel comfortable asking questions, making mistakes, and exploring ideas, I aim to encourage curiosity, confidence, and a genuine enthusiasm for learning.
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -71,20 +71,17 @@ title: "Outreach & Teaching"
 			<b>Applied Mathematics (2025/26)</b><br>
 			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
 			Lecturer for first-year engineering students.
-		</li>
-		
+		</li>		
 		<li>
 			<b>Informatics Lab on Applied Mathematics (2025/26)</b><br>
 			<i>Grado en Edificación, Universidad de Sevilla (Spain)</i><br>
 			Practical computer laboratory classes covering computational methods applied to engineering.
-		</li>
-		
+		</li>		
 		<li>
 			<b>AST0112 – Astronomy (2022/23)</b><br>
 			<i>Pontificia Universidad Católica de Chile (Chile)</i><br>
 			Principal lecturer for an introductory astronomy course open to students from all faculties, with a focus on active learning and interactive methods.
-		</li>
-		
+		</li>		
 		<li>
 			<b>AST0421 – Experimental Astrophysics (2022/23)</b><br>
 			<i>Grado en Astrofísica, Pontificia Universidad Católica de Chile (Chile)</i><br>
