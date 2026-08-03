@@ -58,10 +58,10 @@ title: "Outreach & Teaching"
 		 </p>
 	</div>
 	<div class="text-image-img">
-		<img src="{{ site.baseurl }}/pictures/HUDF.jpg" width="100%" style="border-radius: 5px" alt="Hubble Ultra Deep Field"/>
+		<img src="{{ site.baseurl }}/pictures/HUDF.jpg" width="85%" style="border-radius: 5px" alt="Hubble Ultra Deep Field"/>
 	</div>
 </div>
-<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>
+<div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;<i class='fa fa-spiral'></i><i class='fa fa-spiral'></i><i class='fa fa-spiral'></i>&mdash;</div>
 
 <h4>University Course List</h4>
 <div id="teaching-image">
