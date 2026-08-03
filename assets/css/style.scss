@@ -57,6 +57,36 @@ img {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 
+.research-image {
+  text-align: center;
+  margin: 2.5em 0;
+}
+
+.research-image img {
+  width: 75%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tablets */
+@media screen and (max-width: 900px) {
+  .research-image img {
+    width: 85%;
+  }
+}
+
+/* Mobile phones */
+@media screen and (max-width: 600px) {
+  .research-image {
+    margin: 1.5em 0;
+  }
+
+  .research-image img {
+    width: 100%;
+  }
+}
+
+
 article {
   counter-reset: figures;
 }
