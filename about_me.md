@@ -3,8 +3,6 @@ layout: page
 title: "Curriculum Vitae D. Stoppacher"
 ---
 
-### About Me
-
 <simplequote>
 	<tt>
 		<ul class="note-list">
