@@ -542,6 +542,7 @@ div.button_white_small {
 #address-image-right img {
   max-height: 50%;
   max-width: 100%;
+  border-radius: 120px;
 }
 
 /* Responsive: stack */
@@ -549,6 +550,10 @@ div.button_white_small {
   #address-image {
     flex-direction: column;
   }
+  #address-image-right img {
+  max-height: 25%;
+  border-radius: 60px;
+}
 }
 
 #address-image {
