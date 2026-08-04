@@ -6,7 +6,7 @@ title: "Outreach & Teaching"
 <blockquote>
 	<b>About: </b>I am passionate about making science accessible and inspiring the next generation, especially by encouraging diversity and empowering young people to see themselves as future scientists.
 	<div class="research-image">
-		<img src="{{ site.baseurl }}/pictures/SMBH_M87.jpg" width="50%" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>	
+		<img src="{{ site.baseurl }}/pictures/SMBH_M87.jpg" width="35%" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>	
 		<i><small>Image of M87*, the supermassive black hole in the centre of the elliptical galaxy M87, generated from data gathered by the Event Horizon Telescope.</small></i>
 	</div>	
 </blockquote>
@@ -20,7 +20,7 @@ title: "Outreach & Teaching"
 		I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <b>Autoreferentes: Mujer y Ciencia</b> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an <b>open-minded and diverse environment</b> where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in STEM, I hope to spark curiosity and empower young students to pursue their interests in science with confidence.
 	</p>
 </div>
-<div class="large-margin" style="text-align:center; margin-bottom: 2em; margin-top:1em">
+<div class="research-image" style="text-align:center; margin-bottom: 2em; margin-top:1em">
 	<img src="{{ site.baseurl }}/pictures/School_talk.jpg" width="65%" alt="Doris Stoppacher"/>
 </div>
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
