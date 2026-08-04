@@ -784,6 +784,15 @@ simplequote {
   margin-left: 4em;
 }
 
+@media screen and (max-width: 600px) {
+  simplequote {
+    width: 100%;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    text-align: center;
+  }
+}
+
 /* Teaching list + image container */
 #teaching-image {
   display: flex;
