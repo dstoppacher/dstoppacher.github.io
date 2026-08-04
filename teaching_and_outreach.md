@@ -88,11 +88,11 @@ title: "Outreach & Teaching"
   </div>
 </div>
 
-<simplequote>
+<famousquote>
 	<tt>
 		<b>Nothing in life is to be feared; it is only to be understood.</b>
 		<ul class="note-list">
 	  		<li> &mdash; Marie Skłodowska Currie, <small>Physicist, chemist, and double-Nobel price winner </small></li>
 		</ul>
 	</tt>
-</simplequote>		
+</famousquote		
