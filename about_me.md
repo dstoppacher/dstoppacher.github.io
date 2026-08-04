@@ -33,9 +33,9 @@ title: "Curriculum Vitae D. Stoppacher"
 
 <div class="mobile-only">
     <a href="{{ site.baseurl }}/CV_DStoppacher_web.pdf" target="_blank">
-        <div class="button_white" style="width:100%; font-size: 3em; float:center; display:flex; justify-content:center; align-items:center">
+        <div class="button_white" style="width:80%; font-size: 2em; float:center; display:flex; justify-content:center; align-items:center">
             <i class="fa-solid fa-file-pdf"></i><br>
-            Open my detailed CV as PDF
+            Open CV as PDF
         </div>
     </a>
 </div>
