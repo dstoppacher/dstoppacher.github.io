@@ -284,7 +284,7 @@ div.text-block {
   width: 100%;
   padding: 0em;
   font-family: "Cabin Sketch";
-  font-size: 0.9em;
+  font-size: 1em;
   text-align: justify;
   margin: 0.5em 0em 0.5em 0em;
   background-color: #1;
@@ -294,7 +294,7 @@ div.text-block {
 div.text-block h4 {
   margin: 0.5em;
   padding: 0em 0em 0.0em 0em;
-  font-size: 1.35em;
+  font-size: 1.25em;
   font-weight: 400;
   text-align: left;
   color: #111;
@@ -759,6 +759,7 @@ blockquote {
     padding-left: 0.2em;
     padding-right: 0.2em;
     text-align: center;
+    font-size: 1.2em; 
   }
 }
 
@@ -795,15 +796,18 @@ simplequote {
     text-align: center;
     margin-left: 0.1em;
     margin-right: 0.1em;
+    font-size: 1.2em; 
     }
     .note-list {
     list-style: none;
     margin-left: 0.2em;
     padding-left: 0;
+    font-size: 1.2em; 
     }
     .note-list li {
     margin-bottom: 0.3em;
     margin-left: 0.2em;
+    font-size: 1.2em; 
     }
 }
 
