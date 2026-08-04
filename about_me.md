@@ -40,11 +40,11 @@ title: "Curriculum Vitae D. Stoppacher"
 		            flex-direction:column;
 		            justify-content:center;
 		            align-items:center;
-		            height:4em;
+		            height:5em;
 		            margin-left:auto;
 		            margin-right:auto;">  
-		    <i class="fa-solid fa-file-pdf" style="font-size: 1.5em;"></i>
-		    <span>View my CV (PDF)</span>
+		    <i class="fa-solid fa-file-pdf" style="font-size: 1.5em; margin-bottom>0.1em"></i>
+		    <span>Complete CV (PDF)</span>
 		</div>
     </a>
 </div>
