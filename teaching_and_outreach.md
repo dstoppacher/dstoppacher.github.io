@@ -5,7 +5,7 @@ title: "Outreach & Teaching"
 
 <blockquote>
 	<b>About: </b>I am passionate about making science accessible and inspiring the next generation, especially by encouraging diversity and empowering young people to see themselves as future scientists.
-<div class="research-image" style="text-align:center; width:40%">
+<div class="research-image" style="text-align:center; width:50%">
 		<img src="{{ site.baseurl }}/pictures/SMBH_M87.jpg" alt="Image of M87* generated from data gathered by the Event Horizon Telescope"/><br>	
 		<i><small>Image of M87*, the supermassive black hole in the centre of the elliptical galaxy M87, generated from data gathered by the Event Horizon Telescope.</small></i>
 	</div>	
