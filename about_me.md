@@ -34,16 +34,16 @@ title: "Curriculum Vitae D. Stoppacher"
 <div class="mobile-only">
     <a href="{{ site.baseurl }}/CV_DStoppacher_web.pdf" target="_blank">
 		<div class="button_white"
-		     style="width:80%;
-		            font-size:1.25em;
+		     style="width:30%;
+		            font-size:1.5em;
 		            display:flex;
 		            flex-direction:column;
 		            justify-content:center;
 		            align-items:center;
-		            height:3em;
-		            margin-left:0.2em;
-		            margin-right:0.2em;">    
-		    <i class="fa-solid fa-file-pdf" style="font-size: 3em;"></i>
+		            height:2.5em;
+		            margin-left:auto;
+		            margin-right:auto;">  
+		    <i class="fa-solid fa-file-pdf" style="font-size: 2em;"></i>
 		    <span>View my CV (PDF)</span>
 		</div>
     </a>
