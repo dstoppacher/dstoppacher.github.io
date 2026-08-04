@@ -128,11 +128,11 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 </div>
 
 
-<simplequote>
+<famousquote>
 	<tt>
 		<b>Once you took the first step, anything was possible.</b>
 		<ul class="note-list">
 	  		<li> &mdash; Katherine Johnson, <small>NASA Mathematician</small></li>
 		</ul>
 	</tt>
-</simplequote>		
+</famousquote>		
