@@ -783,7 +783,16 @@ simplequote {
     text-align: center;
     margin-left: 0.1em;
     margin-right: 0.1em;
-  }
+    }
+    .note-list {
+    list-style: none;
+    margin-left: 0.2em;
+    padding-left: 0;
+    }
+    .note-list li {
+    margin-bottom: 0.3em;
+    margin-left: 0.2em;
+    }
 }
 
 /* Teaching list + image container */
