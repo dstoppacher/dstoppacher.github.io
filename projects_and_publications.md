@@ -25,7 +25,8 @@ This project explores the formation and evolution of low-surface-brightness gala
 <div class="text-image">
 	<div class="text-image-text"> 
 		 <p><b>In <a href="https://doi.org/10.1051/0004-6361/202555232">Stoppacher et al. (2025b)</a>, we investigated the evolutionary pathways of LSBs and found that their assembly histories are considerably more complex than previously assumed.</b> We introduced a novel diagnostic based on the radius at which the stellar circular velocity reaches its maximum, Rvmax, which has not previously been used in the literature to characterise LSB galaxies. This provides a unique probe of the evolution of their inner halo structure across cosmic time.<br>
-The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis. Figure adapted from <a href="https://doi.org/10.1051/0004-6361/202555232">Stoppacher et al. (2025b)</a>.
+The figure reveals a clear divergence in Rvmax at z~1.5 (red arrow) between LSBs (black dashed line) and high-surface-brightness galaxies (HSBs; orange solid line with white dots), marking it the strongest separation between the evolutionary pathways of the two populations identified in our analysis.<br>
+			 <small>Figure adapted from <a href="https://doi.org/10.1051/0004-6361/202555232">Stoppacher et al. (2025b)</a>.</small>
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -46,7 +47,8 @@ The <i>MultiDark-Galaxies</i> project provides a comprehensive view of galaxy fo
 <div class="text-image">
 	<div class="text-image-text">
 		 <p><b>The MultiDark-Galaxies are feature-rich catalogues generated from three independent SAMs applied to the 1 h<sup>-1</sup>Gpc MultiDark Planck 2 dark matter-only simulation <a href="https://academic.oup.com/mnras/article/457/4/4340/2589053">Klypin et al. 2016</a>. These catalogues remain among the largest publicly available SAM datasets.</b><br>
-			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>. Figure adapted from <a href="https://doi.org/10.1093/mnras/stx2662">Knebe, Stopacher, Prada et al. (2018)</a>.
+			We provide scientifically robust, reproducible, and publicly accessible galaxy catalogues, along with technical and scientific support to users, helping maintain the long-term value and usability of these community data products via the platforms <a href="https://skiesanduniverses.org/Products/MockCatalogues/MDGALAXIES/"><i>Skies&Universes</i></a> and <a href="https://www.cosmosim.org/cms/data/projects/galaxies/"><i>COSMOSIMS</i></a>.<br>
+			 <small> Figure adapted from <a href="https://doi.org/10.1093/mnras/stx2662">Knebe, Stopacher, Prada et al. (2018)</a>.</small>
 		 </p>
 	</div>
 	<div class="text-image-img">
@@ -106,7 +108,7 @@ What determines whether a galaxy becomes one of the most massive and dominant sy
 		<img src="{{ site.baseurl }}/pictures/Messier_87_Hubble_WikiSky.jpg" style="border-radius: 5px" alt="The galactic core of Messier 87 as imaged by the Hubble Space Telescope"></div>
 </div>
 <div style="margin-bottom: 2em">
-	<i><small>Left or upper: Malin 1, the most famous low-surface-brightness galaxy, is an extended, diffuse spiral galaxy and one of the largest galaxies known to date (image credit: Boissier/A&A/ESO/CFHT). Right or lower: The galactic core of Messier 87, a massive, luminous elliptical galaxy, imaged by the Hubble Space Telescope.
+	<i><small><b>Left or upper:</b> Malin 1, the most famous low-surface-brightness galaxy, is an extended, diffuse spiral galaxy and one of the largest galaxies known to date (image credit: Boissier/A&A/ESO/CFHT). <b>Right or lower:</b> The galactic core of Messier 87, a massive, luminous elliptical galaxy, imaged by the Hubble Space Telescope.
 	</small></i>
 </div>
 
