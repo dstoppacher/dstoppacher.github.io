@@ -761,7 +761,7 @@ simplequote {
   margin-top: 2.5em;
   margin-bottom: 1em;
   margin-left: 3em;
-  margin-right: 3m;
+  margin-right: auto;
   color: #1;
   background-color: #1;
   font-family: monospace;
@@ -785,7 +785,8 @@ simplequote {
     padding-left: 0.2em;
     padding-right: 0.2em;
     text-align: center;
-    margin: 0.1em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
   }
 }
 
