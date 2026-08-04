@@ -3,17 +3,12 @@ layout: page
 title: "Curriculum Vitae D. Stoppacher"
 ---
 
-<simplequote>
-	<tt>
-		<ul class="note-list">
-			Hi, I’m Doris, a computational astrophysicist working on galaxy formation modelling. I study how galaxies form and how the Universe evolves on its largest scales.
-		</ul>
-	</tt>
-</simplequote>
-
+<blockquote>
+	<b>About: </b>Hi, I’m Doris, a computational astrophysicist working on galaxy formation modelling. I study how galaxies form and how the Universe evolves on its largest scales.
 <div class="research-image">
-	<img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" alt="Doris Stoppacher"/>
-</div>
+		<img src="{{ site.baseurl }}/pictures/Doris_Valpo_Mural.jpg" alt="Doris Stoppacher"/>
+	</div>
+</blockquote>
 
 <div class="text-block" style="margin-bottom:2em">
 	I am a computational astrophysicist (PhD, <a href="https://maps.app.goo.gl/8hmfVkHoMkVkgKZX6" target="_blank">Universidad Autónoma de Madrid</a>, Spain, December 2019) specialising in galaxy formation and evolution, with a strong focus on methodological innovation, open and data-driven science, and the development of reproducible tools for the astronomical community.<br><br>	
