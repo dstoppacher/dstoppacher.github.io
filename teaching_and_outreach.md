@@ -26,7 +26,6 @@ title: "Outreach & Teaching"
 <div align="center" style="margin-bottom: 2em; margin-top:2em">&mdash;&nbsp;<i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'>&nbsp;</i><i class='fa fa-spiral'></i>&nbsp;&mdash;</div>  
 
 
-
 <div class="text-block">
 	<h4>Science Outreach & Public Engagement</h4>
 </div>
