@@ -95,4 +95,4 @@ title: "Outreach & Teaching"
 	  		<li> &mdash; Marie Skłodowska Currie, <small>Physicist, chemist, and double-Nobel price winner </small></li>
 		</ul>
 	</tt>
-</famousquote		
+</famousquote>		
