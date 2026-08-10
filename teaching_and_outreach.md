@@ -17,7 +17,7 @@ title: "Outreach & Teaching"
 <div class="text-block">
 	<h4>Bringing Science to Schools</h4>
 	<p>
-		I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <b>Autoreferentes: Mujer y Ciencia</b> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an <b>open-minded and diverse environment</b> where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in STEM, I hope to spark curiosity and empower young students to pursue their interests in science with confidence.
+		I am deeply committed to promoting science and inspiring the next generation of scientists. Through my outreach activities, I engage with schools and the wider public to make science accessible, exciting, and relevant. I am particularly proud of my involvement in the <a href="https://institucional.us.es/autorreferentes/index.html">Autorreferentes: Mujer y Ciencia</a> (Spanish for <i>Women and Science</i>) programme, whose mission is to promote science while fostering an <b>open-minded and diverse environment</b> where everyone feels welcome to participate and grow. By sharing my own experiences as a woman in STEM, I hope to spark curiosity and empower young students to pursue their interests in science with confidence.
 	</p>
 </div>
 <div class="research-image" style="text-align:center; margin-bottom: 2em; margin-top:1em">
